@@ -1,0 +1,1186 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+*,
+*:after,
+*:before {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: none;
+}
+body {
+  padding-top: 50px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+  line-height: 1;
+  background: black;
+}
+body.detail-open {
+  overflow: hidden;
+}
+body.detail-open > ul,
+body.detail-open header {
+  display: none;
+}
+::-moz-selection {
+  background-color: #0ff;
+  color: white;
+}
+::selection {
+  background-color: #0ff;
+  color: white;
+}
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+.cf:after {
+  clear: both;
+}
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+a {
+  text-decoration: none;
+  transition: all 0.3s ease-in;
+  -webkit-transition: all 0.3s ease-in;
+}
+.hidden {
+  display: none;
+}
+.btn {
+  margin: 15px 0;
+  padding: 15px 20px 12px;
+  display: inline-block;
+  background-color: #40bae2;
+  border-radius: 3px;
+  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: white;
+}
+.btn:hover {
+  background-color: #1981a4;
+}
+header {
+  width: 100%;
+  height: 50px;
+  padding: 10px 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  background: #40bae2;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+  -webkit-animation: fadein 0.5s;
+  animation: fadein 0.5s;
+}
+@-moz-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+header nav {
+  position: relative;
+}
+header h1 {
+  margin-top: 8px;
+  margin-left: -8px;
+  float: left;
+  color: white;
+}
+header h1 a {
+  color: white;
+  padding: 5px 8px;
+}
+header h1 a.nav-about {
+  margin-left: 1px;
+  color: #444;
+}
+header h1 a:hover {
+  opacity: 0.5;
+}
+header input {
+  width: 50%;
+  margin-top: 1px;
+  padding: 5px 10px 5px 30px;
+  float: right;
+  background: white url("images/icon-search.svg") no-repeat 8px 6px;
+  background-size: 14px auto;
+  border-radius: 4px;
+  border: 1px solid white;
+  font-size: 14px;
+  font-family: Georgia, serif;
+  font-style: italic;
+  line-height: 1;
+}
+header input:focus {
+  outline: none;
+}
+header .search-close {
+  display: none;
+}
+@media (max-width: 500px) {
+  header input {
+    width: 30px;
+    margin-left: 15px;
+    padding-left: 20px;
+    position: absolute;
+    right: 0;
+    transition: width ease-out 0.2s;
+  }
+  header input:hover {
+    cursor: pointer;
+  }
+  header input:focus {
+    width: 100%;
+    padding-left: 30px;
+  }
+  header input:focus:hover {
+    cursor: default;
+  }
+  header input:focus + .search-close {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    background: url("images/icon-close.svg") no-repeat 6px 7px;
+    background-size: 15px auto;
+    -webkit-animation: fadein 0.5s;
+    animation: fadein 0.5s;
+  }
+  header input:focus + .search-close:hover {
+    cursor: pointer;
+  }
+@-moz-keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+@-webkit-keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+@-o-keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+@keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+}
+.card {
+  float: left;
+  background: #444 no-repeat 50% 50%;
+  background-size: cover;
+  -webkit-animation: fadein 0.5s;
+  animation: fadein 0.5s;
+}
+@-moz-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.card {
+  width: 50%;
+}
+.card a {
+  padding: 80px 20px;
+  display: block;
+  background: rgba(0,0,0,0.3);
+  font-size: 60px;
+  font-weight: 900;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 0 0 10px rgba(0,0,0,0.7);
+  color: white;
+  z-index: 3;
+}
+.card a:hover {
+  background: transparent;
+}
+@media (min-width: 600px) {
+  .card {
+    width: 33.33%;
+  }
+}
+@media (min-width: 800px) {
+  .card {
+    width: 25%;
+  }
+}
+@media (min-width: 1100px) {
+  .card {
+    width: 20%;
+  }
+}
+.detail {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  background: #444 no-repeat 50% 50%;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  -webkit-animation: fadein 0.5s;
+  animation: fadein 0.5s;
+}
+@-moz-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.detail .overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.7);
+}
+.detail .detail-info {
+  border: 1px solid white;
+}
+.detail h1 {
+  margin-bottom: 20px;
+  font-size: 80px;
+}
+.detail h2 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight-normal: 400;
+  line-height: 1.2;
+}
+.detail h3 {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 16px;
+}
+.detail .btn {
+  margin-top: 40px;
+}
+.detail .description {
+  font-family: "clavo", Georgia, serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.4;
+}
+.detail .description em {
+  display: inline;
+  border-bottom: 1px solid white;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.detail .social {
+  margin: 30px 5px 0;
+  display: inline-block;
+}
+.detail .social a {
+  width: 35px;
+  height: 25px;
+  display: block;
+  background: no-repeat 0 0;
+  background-size: auto 25px;
+  text-indent: -9999em;
+}
+.detail .social a.twitter {
+  background-image: url("images/logo-twitter.svg");
+}
+.detail .social a.facebook {
+  background-image: url("images/logo-facebook.svg");
+}
+.detail .social a:hover {
+  opacity: 0.6;
+}
+.detail .photo-credit {
+  padding: 7px;
+  background: rgba(0,0,0,0.3);
+  border-radius: 3px;
+}
+.detail .photo-credit a {
+  color: white;
+  font-weight: 900;
+}
+.detail .photo-credit a:hover {
+  opacity: 0.5;
+}
+.detail .back {
+  padding: 5px 8px;
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: white;
+}
+.detail .back:hover {
+  opacity: 0.5;
+}
+@media (max-width: 650px) {
+  .detail {
+    width: 100%;
+    height: 100%;
+  }
+  .detail .container {
+    width: 100%;
+    height: 100%;
+    padding: 60px 15px 30px;
+    overflow-y: auto;
+  }
+  .detail .detail-info {
+    min-height: 320px;
+    padding: 30px;
+    position: static;
+    top: 0;
+    left: 0;
+    transform: none;
+  }
+  .detail .photo-credit {
+    margin: 20px 0;
+    display: inline-block;
+  }
+  .detail .back {
+    background: rgba(0,0,0,0.6);
+  }
+}
+@media (min-width: 651px) {
+  .detail .detail-info {
+    min-width: 450px;
+    min-width: 450px;
+    padding: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .detail .photo-credit {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+  }
+}
+.about {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  background: #444 no-repeat 50% 50%;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  -webkit-animation: fadein 0.5s;
+  animation: fadein 0.5s;
+}
+@-moz-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.about:after {
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  background: rgba(50,50,50,0.8);
+  content: '';
+}
+.about .overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.7);
+}
+.about .back {
+  padding: 5px 8px;
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  z-index: 2;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: white;
+}
+.about .back:hover {
+  opacity: 0.5;
+}
+.about .container {
+  width: 100%;
+  height: 100%;
+  padding: 30px 15px;
+  overflow-y: auto;
+}
+.about .about-info {
+  max-width: 550px;
+  margin: 0 auto;
+  margin-top: 80px;
+}
+@media (max-width: 500px) {
+  .about .about-info {
+    margin-top: 50px;
+  }
+}
+.about h1 {
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+.about h2 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-size: 24px;
+  font-weight-normal: 400;
+  line-height: 1.2;
+}
+.about p {
+  margin-bottom: 15px;
+  font-family: "clavo", Georgia, serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.4;
+  text-align: left;
+}
+.about p a {
+  color: #40bae2;
+  font-weight: 700;
+}
+.about p a:hover {
+  border-bottom: 1px dotted;
+}
+.about .sources {
+  margin-top: 40px;
+}
+.about .sources p {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+.about .sources p a {
+  color: white;
+}
+.lost {
+  background-image: url("images/starwars.gif");
+}
+.about {
+  background-image: url("images/airplane.gif");
+}
+.card.atl {
+  background-image: url("images/atl-jon-tan-small.jpg");
+}
+.card.aus {
+  background-image: url("images/aus-jon-collier-small.jpg");
+}
+.card.bhm {
+  background-image: url("images/bhm-martin-hartland-small.jpg");
+}
+.card.bog {
+  background-image: url("images/bog-stephen-downes-small.jpg");
+}
+.card.bom {
+  background-image: url("images/bom-chris-hoare-small.jpg");
+}
+.card.bos {
+  background-image: url("images/bos-andrew-malone-small.jpg");
+}
+.card.ccs {
+  background-image: url("images/ccs-carlos-graterol-small.jpg");
+}
+.card.cdg {
+  background-image: url("images/cdg-giacomo-carena-small.jpg");
+}
+.card.cgh {
+  background-image: url("images/cgh-barbara-dieu-small.jpg");
+}
+.card.clt {
+  background-image: url("images/clt-steve-sara-emry-small.jpg");
+}
+.card.cmh {
+  background-image: url("images/cmh-gmanviz-small.jpg");
+}
+.card.cvg {
+  background-image: url("images/cvg-robert-s-donovan-small.jpg");
+}
+.card.den {
+  background-image: url("images/den-bart-heird-small.jpg");
+}
+.card.dfw {
+  background-image: url("images/dfw-jim-nix-small.jpg");
+}
+.card.dtw {
+  background-image: url("images/dtw-scott-beale-small.jpg");
+}
+.card.dxb {
+  background-image: url("images/dxb-roger-price-small.jpg");
+}
+.card.ewr {
+  background-image: url("images/ewr-bartnj-small.jpg");
+}
+.card.eze {
+  background-image: url("images/eze-gilmar-mattos-small.jpg");
+}
+.card.fca {
+  background-image: url("images/fca-theilr-small.jpg");
+}
+.card.gig {
+  background-image: url("images/gig-veroyama-small.jpg");
+}
+.card.grr {
+  background-image: url("images/grr-bill-couch-small.jpg");
+}
+.card.gru {
+  background-image: url("images/gru-fernando-stankuns-small.jpg");
+}
+.card.hkg {
+  background-image: url("images/hkg-chris-small.jpg");
+}
+.card.hnd {
+  background-image: url("images/hnd-hideyuki-kamon-small.jpg");
+}
+.card.iad {
+  background-image: url("images/iad-the-q-speaks-small.jpg");
+}
+.card.iah {
+  background-image: url("images/iah-josh-hallett-small.jpg");
+}
+.card.icn {
+  background-image: url("images/icn-marcella-bona-small.jpg");
+}
+.card.jfk {
+  background-image: url("images/jfk-timothy-vogel-small.jpg");
+}
+.card.las {
+  background-image: url("images/las-kevin-reese-small.jpg");
+}
+.card.lax {
+  background-image: url("images/lax-thomas-hawk-small.jpg");
+}
+.card.lga {
+  background-image: url("images/lga-stantontcady-small.jpg");
+}
+.card.lhr {
+  background-image: url("images/lhr-twinkabaute-small.jpg");
+}
+.card.lim {
+  background-image: url("images/lim-vasenkaphotography-small.jpg");
+}
+.card.mci {
+  background-image: url("images/mci-zhao-shouren-small.jpg");
+}
+.card.mco {
+  background-image: url("images/mco-benjamin-thompson-small.jpg");
+}
+.card.mia {
+  background-image: url("images/mia-lotus-carroll-small.jpg");
+}
+.card.msp {
+  background-image: url("images/msp-tom-kelly-small.jpg");
+}
+.card.msy {
+  background-image: url("images/msy-3dom-small.jpg");
+}
+.card.ogg {
+  background-image: url("images/ogg-jonathan-caves-small.jpg");
+}
+.card.ord {
+  background-image: url("images/ord-nick-harris-small.jpg");
+}
+.card.pdx {
+  background-image: url("images/pdx-pfly-small.jpg");
+}
+.card.pek {
+  background-image: url("images/pek-matt-weibo-small.jpg");
+}
+.card.phl {
+  background-image: url("images/phl-uchiuska-small.jpg");
+}
+.card.phx {
+  background-image: url("images/phx-liebe5-small.jpg");
+}
+.card.rsw {
+  background-image: url("images/rsw-b-small.jpg");
+}
+.card.scl {
+  background-image: url("images/scl-lane-becker-small.jpg");
+}
+.card.sea {
+  background-image: url("images/sea-drburtoni-small.jpg");
+}
+.card.sfo {
+  background-image: url("images/sfo-richard-winchell-small.jpg");
+}
+.card.smf {
+  background-image: url("images/smf-rich-small.jpg");
+}
+.card.yvr {
+  background-image: url("images/yvr-rick-schwartz-small.jpg");
+}
+.card.yyz {
+  background-image: url("images/yyz-coralie-mercier-small.jpg");
+}
+@media (max-width: 960px) {
+  .detail.atl {
+    background-image: url("images/atl-jon-tan.jpg");
+  }
+  .detail.aus {
+    background-image: url("images/aus-jon-collier.jpg");
+  }
+  .detail.bhm {
+    background-image: url("images/bhm-martin-hartland.jpg");
+  }
+  .detail.bog {
+    background-image: url("images/bog-stephen-downes.jpg");
+  }
+  .detail.bom {
+    background-image: url("images/bom-chris-hoare.jpg");
+  }
+  .detail.bos {
+    background-image: url("images/bos-andrew-malone.jpg");
+  }
+  .detail.ccs {
+    background-image: url("images/ccs-carlos-graterol.jpg");
+  }
+  .detail.cdg {
+    background-image: url("images/cdg-giacomo-carena.jpg");
+  }
+  .detail.cgh {
+    background-image: url("images/cgh-barbara-dieu.jpg");
+  }
+  .detail.clt {
+    background-image: url("images/clt-steve-sara-emry.jpg");
+  }
+  .detail.cmh {
+    background-image: url("images/cmh-gmanviz.jpg");
+  }
+  .detail.cvg {
+    background-image: url("images/cvg-robert-s-donovan.jpg");
+  }
+  .detail.den {
+    background-image: url("images/den-bart-heird.jpg");
+  }
+  .detail.dfw {
+    background-image: url("images/dfw-jim-nix.jpg");
+  }
+  .detail.dtw {
+    background-image: url("images/dtw-scott-beale.jpg");
+  }
+  .detail.dxb {
+    background-image: url("images/dxb-roger-price.jpg");
+  }
+  .detail.ewr {
+    background-image: url("images/ewr-bartnj.jpg");
+  }
+  .detail.eze {
+    background-image: url("images/eze-gilmar-mattos.jpg");
+  }
+  .detail.fca {
+    background-image: url("images/fca-theilr.jpg");
+  }
+  .detail.gig {
+    background-image: url("images/gig-veroyama.jpg");
+  }
+  .detail.grr {
+    background-image: url("images/grr-bill-couch.jpg");
+  }
+  .detail.gru {
+    background-image: url("images/gru-fernando-stankuns.jpg");
+  }
+  .detail.hkg {
+    background-image: url("images/hkg-chris.jpg");
+  }
+  .detail.hnd {
+    background-image: url("images/hnd-hideyuki-kamon.jpg");
+  }
+  .detail.iad {
+    background-image: url("images/iad-the-q-speaks.jpg");
+  }
+  .detail.iah {
+    background-image: url("images/iah-josh-hallett.jpg");
+  }
+  .detail.icn {
+    background-image: url("images/icn-marcella-bona.jpg");
+  }
+  .detail.jfk {
+    background-image: url("images/jfk-timothy-vogel.jpg");
+  }
+  .detail.las {
+    background-image: url("images/las-kevin-reese.jpg");
+  }
+  .detail.lax {
+    background-image: url("images/lax-thomas-hawk.jpg");
+  }
+  .detail.lga {
+    background-image: url("images/lga-stantontcady.jpg");
+  }
+  .detail.lhr {
+    background-image: url("images/lhr-twinkabaute.jpg");
+  }
+  .detail.lim {
+    background-image: url("images/lim-vasenkaphotography.jpg");
+  }
+  .detail.mci {
+    background-image: url("images/mci-zhao-shouren.jpg");
+  }
+  .detail.mco {
+    background-image: url("images/mco-benjamin-thompson.jpg");
+  }
+  .detail.mia {
+    background-image: url("images/mia-lotus-carroll.jpg");
+  }
+  .detail.msp {
+    background-image: url("images/msp-tom-kelly.jpg");
+  }
+  .detail.msy {
+    background-image: url("images/msy-3dom.jpg");
+  }
+  .detail.ogg {
+    background-image: url("images/ogg-jonathan-caves.jpg");
+  }
+  .detail.ord {
+    background-image: url("images/ord-nick-harris.jpg");
+  }
+  .detail.pdx {
+    background-image: url("images/pdx-pfly.jpg");
+  }
+  .detail.pek {
+    background-image: url("images/pek-matt-weibo.jpg");
+  }
+  .detail.phl {
+    background-image: url("images/phl-uchiuska.jpg");
+  }
+  .detail.phx {
+    background-image: url("images/phx-liebe5.jpg");
+  }
+  .detail.rsw {
+    background-image: url("images/rsw-b.jpg");
+  }
+  .detail.scl {
+    background-image: url("images/scl-lane-becker.jpg");
+  }
+  .detail.sea {
+    background-image: url("images/sea-drburtoni.jpg");
+  }
+  .detail.sfo {
+    background-image: url("images/sfo-richard-winchell.jpg");
+  }
+  .detail.smf {
+    background-image: url("images/smf-rich.jpg");
+  }
+  .detail.yvr {
+    background-image: url("images/yvr-rick-schwartz.jpg");
+  }
+  .detail.yyz {
+    background-image: url("images/yyz-coralie-mercier.jpg");
+  }
+}
+@media (min-width: 961px) {
+  .detail.atl {
+    background-image: url("images/atl-jon-tan-large.jpg");
+  }
+  .detail.aus {
+    background-image: url("images/aus-jon-collier-large.jpg");
+  }
+  .detail.bhm {
+    background-image: url("images/bhm-martin-hartland-large.jpg");
+  }
+  .detail.bog {
+    background-image: url("images/bog-stephen-downes-large.jpg");
+  }
+  .detail.bom {
+    background-image: url("images/bom-chris-hoare-large.jpg");
+  }
+  .detail.bos {
+    background-image: url("images/bos-andrew-malone-large.jpg");
+  }
+  .detail.ccs {
+    background-image: url("images/ccs-carlos-graterol-large.jpg");
+  }
+  .detail.cdg {
+    background-image: url("images/cdg-giacomo-carena-large.jpg");
+  }
+  .detail.cgh {
+    background-image: url("images/cgh-barbara-dieu-large.jpg");
+  }
+  .detail.clt {
+    background-image: url("images/clt-steve-sara-emry-large.jpg");
+  }
+  .detail.cmh {
+    background-image: url("images/cmh-gmanviz-large.jpg");
+  }
+  .detail.cvg {
+    background-image: url("images/cvg-robert-s-donovan-large.jpg");
+  }
+  .detail.den {
+    background-image: url("images/den-bart-heird-large.jpg");
+  }
+  .detail.dfw {
+    background-image: url("images/dfw-jim-nix-large.jpg");
+  }
+  .detail.dtw {
+    background-image: url("images/dtw-scott-beale-large.jpg");
+  }
+  .detail.dxb {
+    background-image: url("images/dxb-roger-price-large.jpg");
+  }
+  .detail.ewr {
+    background-image: url("images/ewr-bartnj-large.jpg");
+  }
+  .detail.eze {
+    background-image: url("images/eze-gilmar-mattos-large.jpg");
+  }
+  .detail.fca {
+    background-image: url("images/fca-theilr-large.jpg");
+  }
+  .detail.gig {
+    background-image: url("images/gig-veroyama-large.jpg");
+  }
+  .detail.grr {
+    background-image: url("images/grr-bill-couch-large.jpg");
+  }
+  .detail.gru {
+    background-image: url("images/gru-fernando-stankuns-large.jpg");
+  }
+  .detail.hkg {
+    background-image: url("images/hkg-chris-large.jpg");
+  }
+  .detail.hnd {
+    background-image: url("images/hnd-hideyuki-kamon-large.jpg");
+  }
+  .detail.iad {
+    background-image: url("images/iad-the-q-speaks-large.jpg");
+  }
+  .detail.iah {
+    background-image: url("images/iah-josh-hallett-large.jpg");
+  }
+  .detail.icn {
+    background-image: url("images/icn-marcella-bona-large.jpg");
+  }
+  .detail.jfk {
+    background-image: url("images/jfk-timothy-vogel-large.jpg");
+  }
+  .detail.las {
+    background-image: url("images/las-kevin-reese-large.jpg");
+  }
+  .detail.lax {
+    background-image: url("images/lax-thomas-hawk-large.jpg");
+  }
+  .detail.lga {
+    background-image: url("images/lga-stantontcady-large.jpg");
+  }
+  .detail.lhr {
+    background-image: url("images/lhr-twinkabaute-large.jpg");
+  }
+  .detail.lim {
+    background-image: url("images/lim-vasenkaphotography-large.jpg");
+  }
+  .detail.mci {
+    background-image: url("images/mci-zhao-shouren-large.jpg");
+  }
+  .detail.mco {
+    background-image: url("images/mco-benjamin-thompson-large.jpg");
+  }
+  .detail.mia {
+    background-image: url("images/mia-lotus-carroll-large.jpg");
+  }
+  .detail.msp {
+    background-image: url("images/msp-tom-kelly-large.jpg");
+  }
+  .detail.msy {
+    background-image: url("images/msy-3dom-large.jpg");
+  }
+  .detail.ogg {
+    background-image: url("images/ogg-jonathan-caves-large.jpg");
+  }
+  .detail.ord {
+    background-image: url("images/ord-nick-harris-large.jpg");
+  }
+  .detail.pdx {
+    background-image: url("images/pdx-pfly-large.jpg");
+  }
+  .detail.pek {
+    background-image: url("images/pek-matt-weibo-large.jpg");
+  }
+  .detail.phl {
+    background-image: url("images/phl-uchiuska-large.jpg");
+  }
+  .detail.phx {
+    background-image: url("images/phx-liebe5-large.jpg");
+  }
+  .detail.rsw {
+    background-image: url("images/rsw-b-large.jpg");
+  }
+  .detail.scl {
+    background-image: url("images/scl-lane-becker-large.jpg");
+  }
+  .detail.sea {
+    background-image: url("images/sea-drburtoni-large.jpg");
+  }
+  .detail.sfo {
+    background-image: url("images/sfo-richard-winchell-large.jpg");
+  }
+  .detail.smf {
+    background-image: url("images/smf-rich-large.jpg");
+  }
+  .detail.yvr {
+    background-image: url("images/yvr-rick-schwartz-large.jpg");
+  }
+  .detail.yyz {
+    background-image: url("images/yyz-coralie-mercier-large.jpg");
+  }
+}
