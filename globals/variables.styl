@@ -1,0 +1,37 @@
+//- Variables
+
+//- Font Families
+$font-family-brandon = "brandon-grotesque", Helvetica, Arial, sans-serif
+$font-family-clavo = "clavo", Georgia, serif
+
+//- Font Weights
+$font-weight-normal = 400
+$font-weight-medium = 700
+$font-weight-bold = 900
+
+//- Colors
+
+white(alpha)
+  rgba(255,255,255,alpha)
+
+black(alpha)
+  rgba(0,0,0,alpha)
+
+$grey-drk = #444
+
+$blue = #40bae2
+
+//- Animations
+
+fadeIn =
+  -webkit-animation: fadein .5s
+  -moz-animation: fadein .5s
+  -o-animation: fadein .5s
+  animation: fadein .5s
+
+fadeInKeyframes =
+  @keyframes fadein
+    from
+      opacity: 0
+    to
+      opacity: 1
