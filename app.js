@@ -15884,8 +15884,6 @@ var Router = Backbone.Router.extend({
     this._hideAbout();
     this._hideAirports();
 
-    console.log(airport);
-
     if (airport) {
       if (this.views.indexOf(code) < 0) {
         var view = new AirportDetailView({model: airport});
@@ -15896,7 +15894,6 @@ var Router = Backbone.Router.extend({
       airport.set('showDetail', true);
       Backbone.$('body').addClass('detail-open');
     } else {
-      console.log('error');
       document.location.href = "/404.html";
     }
   }
