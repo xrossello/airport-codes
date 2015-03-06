@@ -171,40 +171,12 @@ h3 {
 }
 a {
   text-decoration: none;
-  transition: all 0.3s ease-in;
   -webkit-transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
 }
 .hidden {
   display: none;
-}
-.btn {
-  margin: 15px 0;
-  padding: 15px 20px 12px;
-  display: inline-block;
-  background-color: #40bae2;
-  border-radius: 3px;
-  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: white;
-}
-.btn:hover {
-  background-color: #1981a4;
-}
-header {
-  width: 100%;
-  height: 50px;
-  padding: 10px 15px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  background: #40bae2;
-  box-shadow: 0 2px 3px rgba(0,0,0,0.2);
-  -webkit-animation: fadein 0.5s;
-  -moz-animation: fadein 0.5s;
-  -o-animation: fadein 0.5s;
-  animation: fadein 0.5s;
 }
 @-moz-keyframes fadein {
   from {
@@ -237,6 +209,35 @@ header {
   to {
     opacity: 1;
   }
+}
+.btn {
+  margin: 15px 0;
+  padding: 15px 20px 12px;
+  display: inline-block;
+  background-color: #40bae2;
+  border-radius: 3px;
+  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: white;
+}
+.btn:hover {
+  background-color: #1981a4;
+}
+header {
+  width: 100%;
+  height: 50px;
+  padding: 10px 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  background: #40bae2;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+  -webkit-animation: fadein 0.5s;
+  -moz-animation: fadein 0.5s;
+  -o-animation: fadein 0.5s;
+  animation: fadein 0.5s;
 }
 header nav {
   position: relative;
@@ -282,9 +283,12 @@ header .search-close {
   header input {
     width: 30px;
     margin-left: 15px;
-    padding-left: 20px;
+    padding: 4px 10px 4px 20px;
     position: absolute;
     right: 0;
+    font-size: 16px;
+    -webkit-transition: width ease-out 0.2s;
+    -moz-transition: width ease-out 0.2s;
     transition: width ease-out 0.2s;
   }
   header input:hover {
@@ -304,6 +308,7 @@ header .search-close {
     right: 0;
     top: 0;
     display: block;
+    z-index: 1000;
     background: url("images/icon-close.svg") no-repeat 6px 7px;
     background-size: 15px auto;
     -webkit-animation: fadein 0.5s;
@@ -315,38 +320,6 @@ header .search-close {
     cursor: pointer;
   }
 }
-@-moz-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-o-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
 .card {
   float: left;
   background: #444 no-repeat 50% 50%;
@@ -355,38 +328,6 @@ header .search-close {
   -moz-animation: fadein 0.5s;
   -o-animation: fadein 0.5s;
   animation: fadein 0.5s;
-}
-@-moz-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-o-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
 }
 .card {
   width: 50%;
@@ -587,6 +528,7 @@ header .search-close {
     top: 0;
     left: 0;
     -webkit-transform: none;
+    -moz-transform: none;
     transform: none;
   }
   .detail .photo-credit {
@@ -606,6 +548,7 @@ header .search-close {
     top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
   }
   .detail .photo-credit {
@@ -632,6 +575,7 @@ header .search-close {
     top: 0;
     left: 0;
     -webkit-transform: none;
+    -moz-transform: none;
     transform: none;
   }
   .detail .photo-credit,
@@ -654,38 +598,6 @@ header .search-close {
   -moz-animation: fadein 0.5s;
   -o-animation: fadein 0.5s;
   animation: fadein 0.5s;
-}
-@-moz-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-o-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
 }
 .about:after {
   width: 100%;

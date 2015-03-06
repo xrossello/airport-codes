@@ -12,8 +12,6 @@ header
   box-shadow: 0 2px 3px black(.2)
   {fadeIn}
 
-{fadeInKeyframes}
-
 header
 
   nav
@@ -63,9 +61,12 @@ header
     input
       width: 30px
       margin-left: 15px
-      padding-left: 20px
+      padding: 4px 10px 4px 20px
       position: absolute
       right: 0
+      font-size: 16px
+      -webkit-transition: width ease-out .2s
+      -moz-transition: width ease-out .2s
       transition: width ease-out .2s
 
       &:hover
@@ -85,11 +86,10 @@ header
           right: 0
           top: 0
           display: block
+          z-index: 1000
           background: url(images/icon-close.svg) no-repeat 6px 7px
           background-size: 15px auto
           {fadeIn}
 
           &:hover
             cursor: pointer
-
-{fadeInKeyframes}
