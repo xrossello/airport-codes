@@ -636,11 +636,17 @@ header input:focus {
     background-image: url("images/conair.jpg");
   }
 }
+.card.anc {
+  background-image: url("images/card/anc-frank-kovalchek.jpg");
+}
 .card.atl {
   background-image: url("images/card/atl-jon-tan.jpg");
 }
 .card.aus {
   background-image: url("images/card/aus-jon-collier.jpg");
+}
+.card.bdl {
+  background-image: url("images/card/bdl-pixel.jpg");
 }
 .card.bhm {
   background-image: url("images/card/bhm-martin-hartland.jpg");
@@ -708,6 +714,9 @@ header input:focus {
 .card.hnd {
   background-image: url("images/card/hnd-hideyuki-kamon.jpg");
 }
+.card.hnl {
+  background-image: url("images/card/hnl-brian-burger.jpg");
+}
 .card.iad {
   background-image: url("images/card/iad-the-q-speaks.jpg");
 }
@@ -734,6 +743,9 @@ header input:focus {
 }
 .card.lim {
   background-image: url("images/card/lim-vasenkaphotography.jpg");
+}
+.card.lit {
+  background-image: url("images/card/lit-johnathan-jianu.jpg");
 }
 .card.mci {
   background-image: url("images/card/mci-zhao-shouren.jpg");
@@ -790,6 +802,9 @@ header input:focus {
   background-image: url("images/card/yyz-coralie-mercier.jpg");
 }
 @media (max-width: 700px) {
+  .detail.anc {
+    background-image: url("images/small/anc-frank-kovalchek.jpg");
+  }
   .detail.atl {
     background-image: url("images/small/atl-jon-tan.jpg");
   }
@@ -798,6 +813,9 @@ header input:focus {
   }
   .detail.bhm {
     background-image: url("images/small/bhm-martin-hartland.jpg");
+  }
+  .detail.bdl {
+    background-image: url("images/small/bdl-pixel.jpg");
   }
   .detail.bog {
     background-image: url("images/small/bog-stephen-downes.jpg");
@@ -862,6 +880,9 @@ header input:focus {
   .detail.hnd {
     background-image: url("images/small/hnd-hideyuki-kamon.jpg");
   }
+  .detail.hnl {
+    background-image: url("images/small/hnl-brian-burger.jpg");
+  }
   .detail.iad {
     background-image: url("images/small/iad-the-q-speaks.jpg");
   }
@@ -888,6 +909,9 @@ header input:focus {
   }
   .detail.lim {
     background-image: url("images/small/lim-vasenkaphotography.jpg");
+  }
+  .detail.lit {
+    background-image: url("images/small/lit-johnathan-jianu.jpg");
   }
   .detail.mci {
     background-image: url("images/small/mci-zhao-shouren.jpg");
@@ -945,11 +969,17 @@ header input:focus {
   }
 }
 @media (min-width: 701px) and (max-width: 1200px) {
+  .detail.anc {
+    background-image: url("images/medium/anc-frank-kovalchek.jpg");
+  }
   .detail.atl {
     background-image: url("images/medium/atl-jon-tan.jpg");
   }
   .detail.aus {
     background-image: url("images/medium/aus-jon-collier.jpg");
+  }
+  .detail.bdl {
+    background-image: url("images/medium/bdl-pixel.jpg");
   }
   .detail.bhm {
     background-image: url("images/medium/bhm-martin-hartland.jpg");
@@ -1017,6 +1047,9 @@ header input:focus {
   .detail.hnd {
     background-image: url("images/medium/hnd-hideyuki-kamon.jpg");
   }
+  .detail.hnl {
+    background-image: url("images/medium/hnl-brian-burger.jpg");
+  }
   .detail.iad {
     background-image: url("images/medium/iad-the-q-speaks.jpg");
   }
@@ -1043,6 +1076,9 @@ header input:focus {
   }
   .detail.lim {
     background-image: url("images/medium/lim-vasenkaphotography.jpg");
+  }
+  .detail.lit {
+    background-image: url("images/medium/lit-johnathan-jianu.jpg");
   }
   .detail.mci {
     background-image: url("images/medium/mci-zhao-shouren.jpg");
@@ -1100,11 +1136,17 @@ header input:focus {
   }
 }
 @media (min-width: 1201px) {
+  .detail.anc {
+    background-image: url("images/large/anc-frank-kovalchek.jpg");
+  }
   .detail.atl {
     background-image: url("images/large/atl-jon-tan.jpg");
   }
   .detail.aus {
     background-image: url("images/large/aus-jon-collier.jpg");
+  }
+  .detail.bdl {
+    background-image: url("images/large/bdl-pixel.jpg");
   }
   .detail.bhm {
     background-image: url("images/large/bhm-martin-hartland.jpg");
@@ -1172,6 +1214,9 @@ header input:focus {
   .detail.hnd {
     background-image: url("images/large/hnd-hideyuki-kamon.jpg");
   }
+  .detail.hnl {
+    background-image: url("images/large/hnl-brian-burger.jpg");
+  }
   .detail.iad {
     background-image: url("images/large/iad-the-q-speaks.jpg");
   }
@@ -1198,6 +1243,9 @@ header input:focus {
   }
   .detail.lim {
     background-image: url("images/large/lim-vasenkaphotography.jpg");
+  }
+  .detail.lit {
+    background-image: url("images/large/lit-johnathan-jianu.jpg");
   }
   .detail.mci {
     background-image: url("images/large/mci-zhao-shouren.jpg");
