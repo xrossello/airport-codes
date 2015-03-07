@@ -139,6 +139,7 @@ body {
   font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
   line-height: 1;
   background: black;
+  color: white;
 }
 body.detail-open {
   overflow: hidden;
@@ -155,19 +156,18 @@ body.detail-open header {
   background-color: #0ff;
   color: white;
 }
-.cf:before,
-.cf:after {
-  content: " ";
-  display: table;
-}
-.cf:after {
-  clear: both;
-}
 h1,
 h2,
-h3 {
-  text-transform: uppercase;
+h3,
+h4 {
   font-weight: 900;
+  text-transform: uppercase;
+}
+p {
+  font-family: "clavo", Georgia, serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.4;
 }
 a {
   text-decoration: none;
@@ -177,6 +177,25 @@ a {
 }
 .hidden {
   display: none;
+}
+.overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.7);
+}
+.back {
+  padding: 5px 8px;
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  z-index: 2;
+  border-radius: 3px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: white;
+}
+.back:hover {
+  opacity: 0.5;
 }
 @-moz-keyframes fadein {
   from {
@@ -210,13 +229,20 @@ a {
     opacity: 1;
   }
 }
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+.cf:after {
+  clear: both;
+}
 .btn {
   margin: 15px 0;
   padding: 15px 20px 12px;
   display: inline-block;
   background-color: #40bae2;
   border-radius: 3px;
-  font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: white;
@@ -246,7 +272,6 @@ header h1 {
   margin-top: 8px;
   margin-left: -8px;
   float: left;
-  color: white;
 }
 header h1 a {
   color: white;
@@ -284,9 +309,6 @@ header input::-moz-placeholder {
 header input:focus {
   outline: none;
 }
-header .search-close {
-  display: none;
-}
 @media (max-width: 500px) {
   header input {
     width: 30px;
@@ -317,21 +339,18 @@ header .search-close {
   -moz-animation: fadein 0.5s;
   -o-animation: fadein 0.5s;
   animation: fadein 0.5s;
-}
-.card {
   width: 50%;
 }
 .card a {
   padding: 80px 20px;
   display: block;
-  background: rgba(0,0,0,0.3);
+  background: rgba(0,0,0,0.35);
   font-size: 60px;
   font-weight: 900;
   text-align: center;
   text-transform: uppercase;
   text-shadow: 0 0 10px rgba(0,0,0,0.7);
   color: white;
-  z-index: 3;
 }
 @media (max-width: 400px) {
   .card a {
@@ -377,48 +396,10 @@ header .search-close {
   background: #444 no-repeat 50% 50%;
   background-size: cover;
   text-align: center;
-  color: white;
   -webkit-animation: fadein 0.5s;
   -moz-animation: fadein 0.5s;
   -o-animation: fadein 0.5s;
   animation: fadein 0.5s;
-}
-@-moz-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-o-keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-.detail .overlay {
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.7);
 }
 .detail .detail-info {
   border: 1px solid white;
@@ -430,7 +411,6 @@ header .search-close {
 .detail h2 {
   margin-bottom: 10px;
   font-size: 20px;
-  font-weight-normal: 400;
   line-height: 1.2;
 }
 .detail h3 {
@@ -440,13 +420,6 @@ header .search-close {
 }
 .detail .btn {
   margin-top: 40px;
-}
-.detail .description {
-  font-family: "clavo", Georgia, serif;
-  font-weight: 400;
-  font-style: italic;
-  font-size: 18px;
-  line-height: 1.4;
 }
 .detail .description em {
   display: inline;
@@ -487,18 +460,6 @@ header .search-close {
 .detail .photo-credit a:hover {
   opacity: 0.5;
 }
-.detail .back {
-  padding: 5px 8px;
-  position: absolute;
-  top: 13px;
-  left: 7px;
-  text-transform: uppercase;
-  font-weight: 900;
-  color: white;
-}
-.detail .back:hover {
-  opacity: 0.5;
-}
 @media (max-width: 650px) {
   .detail {
     width: 100%;
@@ -516,9 +477,6 @@ header .search-close {
     position: static;
     top: 0;
     left: 0;
-    -webkit-transform: none;
-    -moz-transform: none;
-    transform: none;
   }
   .detail .photo-credit {
     margin: 20px 0;
@@ -572,7 +530,7 @@ header .search-close {
     background: rgba(0,0,0,0.6);
   }
 }
-.about {
+.site-info {
   width: 100vw;
   height: 100vh;
   position: fixed;
@@ -588,7 +546,7 @@ header .search-close {
   -o-animation: fadein 0.5s;
   animation: fadein 0.5s;
 }
-.about:after {
+.site-info:after {
   width: 100%;
   height: 50px;
   position: absolute;
@@ -598,75 +556,68 @@ header .search-close {
   background: rgba(50,50,50,0.8);
   content: '';
 }
-.about .overlay {
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.7);
-}
-.about .back {
-  padding: 5px 8px;
-  position: absolute;
-  top: 13px;
-  left: 7px;
-  z-index: 2;
-  text-transform: uppercase;
-  font-weight: 900;
-  color: white;
-}
-.about .back:hover {
-  opacity: 0.5;
-}
-.about .container {
+.site-info .container {
   width: 100%;
   height: 100%;
   padding: 30px 15px;
   overflow-y: auto;
 }
-.about .about-info {
+.site-info .content {
   max-width: 550px;
-  margin: 80px auto;
+  margin: 80px auto 50px;
 }
 @media (max-width: 500px) {
-  .about .about-info {
+  .site-info .content {
     margin-top: 50px;
   }
 }
-.about h1 {
+.site-info h1 {
   margin-bottom: 20px;
   font-size: 40px;
 }
-.about h2 {
-  margin-top: 20px;
+.site-info p,
+.site-info ul {
   margin-bottom: 15px;
-  font-size: 24px;
-  font-weight-normal: 400;
-  line-height: 1.2;
-}
-.about p {
-  margin-bottom: 15px;
-  font-family: "clavo", Georgia, serif;
-  font-weight: 400;
-  font-style: italic;
-  font-size: 18px;
-  line-height: 1.4;
   text-align: left;
 }
-.about p a {
+.site-info p a,
+.site-info ul a {
   border-bottom: 1px dotted transparent;
   color: #40bae2;
   font-weight: 700;
 }
-.about p a:hover {
+.site-info p a:hover,
+.site-info ul a:hover {
   border-color: #40bae2;
 }
-.about .sources {
+.site-info .quote {
+  font-size: 22px;
+  text-align: center;
+}
+.site-info ul {
+  padding-left: 30px;
+  font-family: "clavo", Georgia, serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.4;
+  list-style-type: disc;
+}
+.site-info ul li {
+  margin-bottom: 15px;
+}
+.site-info hr {
+  margin: 30px 0;
+  border: none;
+  border-bottom: 1px dotted rgba(255,255,255,0.3);
+}
+.site-info .footnote {
   margin-top: 40px;
 }
-.about .sources p {
+.site-info .footnote p {
   margin-bottom: 10px;
   font-size: 15px;
 }
-.about .sources p a {
+.site-info .footnote p a {
   color: white;
 }
 .lost {
@@ -674,6 +625,16 @@ header .search-close {
 }
 .about {
   background-image: url("images/airplane.gif");
+}
+@media (max-width: 700px) {
+  .contribute {
+    background-image: url("images/conair-small.jpg");
+  }
+}
+@media (min-width: 701px) {
+  .contribute {
+    background-image: url("images/conair.jpg");
+  }
 }
 .card.atl {
   background-image: url("images/card/atl-jon-tan.jpg");

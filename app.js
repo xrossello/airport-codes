@@ -29,7 +29,7 @@ jquery(function() {
 });
 
 },{"../data":"/Users/lfisher/git/airport-codes/data/index.js","./AppRouter":"/Users/lfisher/git/airport-codes/src/AppRouter.js","./collections/Airports":"/Users/lfisher/git/airport-codes/src/collections/Airports.js","./views/AppView":"/Users/lfisher/git/airport-codes/src/views/AppView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js","jquery":"/Users/lfisher/git/airport-codes/node_modules/jquery/dist/jquery.js"}],"/Users/lfisher/git/airport-codes/data/atl.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "atl",
     "classname": "atl",
     "code": "atl",
@@ -43,7 +43,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/jontangerine/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/aus.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "aus",
     "classname": "aus",
     "code": "aus",
@@ -57,7 +57,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/imnotquitejack/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/bhm.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "bhm",
     "classname": "bhm",
     "code": "bhm",
@@ -71,7 +71,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/martin_hartland/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/bog.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "bog",
     "classname": "bog",
     "code": "bog",
@@ -85,7 +85,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/stephen_downes/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/bom.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "bom",
     "classname": "bom",
     "code": "bom",
@@ -99,7 +99,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/u07ch/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/bos.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "bos",
     "classname": "bos",
     "code": "bos",
@@ -114,7 +114,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/andrewmalone/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/ccs.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "ccs",
     "classname": "ccs",
     "code": "ccs",
@@ -129,7 +129,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/galletonn/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/cdg.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "cdg",
     "classname": "cdg",
     "code": "cdg",
@@ -143,7 +143,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/jekkone/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/cgh.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "cgh",
     "classname": "cgh",
     "code": "cgh",
@@ -157,7 +157,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/bee/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/clt.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "clt",
     "classname": "clt",
     "code": "clt",
@@ -171,7 +171,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/emry/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/cmh.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "cmh",
     "classname": "cmh",
     "code": "cmh",
@@ -185,7 +185,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/gmanviz/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/cvg.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "cvg",
     "classname": "cvg",
     "code": "cvg",
@@ -200,7 +200,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/booleansplit/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/den.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "den",
     "classname": "den",
     "code": "den",
@@ -214,7 +214,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/chicagobart/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/dfw.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "dfw",
     "classname": "dfw",
     "code": "dfw",
@@ -229,7 +229,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/jimnix/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/dtw.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "dtw",
     "classname": "dtw",
     "code": "dtw",
@@ -243,7 +243,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/laughingsquid/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/dxb.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "dxb",
     "classname": "dxb",
     "code": "dxb",
@@ -258,7 +258,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/rwp-roger/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/ewr.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "ewr",
     "classname": "ewr",
     "code": "ewr",
@@ -272,7 +272,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/bartzoni/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/eze.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "eze",
     "classname": "eze",
     "code": "eze",
@@ -287,7 +287,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/gijlmar/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/fca.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "fca",
     "classname": "fca",
     "code": "fca",
@@ -302,7 +302,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/theilr/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/gig.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "gig",
     "classname": "gig",
     "code": "gig",
@@ -316,7 +316,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/veroyama/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/grr.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "grr",
     "classname": "grr",
     "code": "grr",
@@ -330,7 +330,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/wcouch/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/gru.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "gru",
     "classname": "gru",
     "code": "gru",
@@ -345,7 +345,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/stankuns/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/hkg.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "hkg",
     "classname": "hkg",
     "code": "hkg",
@@ -359,7 +359,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/dcmaster/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/hnd.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "hnd",
     "classname": "hnd",
     "code": "hnd",
@@ -373,7 +373,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/hyougushi/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/iad.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "iad",
     "classname": "iad",
     "code": "iad",
@@ -387,7 +387,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/theqspeaks/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/iah.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "iah",
     "classname": "iah",
     "code": "iah",
@@ -401,7 +401,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/hyku/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/icn.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "icn",
     "classname": "icn",
     "code": "icn",
@@ -471,7 +471,7 @@ module.exports = {
   ]
 };
 },{"./atl.json":"/Users/lfisher/git/airport-codes/data/atl.json","./aus.json":"/Users/lfisher/git/airport-codes/data/aus.json","./bhm.json":"/Users/lfisher/git/airport-codes/data/bhm.json","./bog.json":"/Users/lfisher/git/airport-codes/data/bog.json","./bom.json":"/Users/lfisher/git/airport-codes/data/bom.json","./bos.json":"/Users/lfisher/git/airport-codes/data/bos.json","./ccs.json":"/Users/lfisher/git/airport-codes/data/ccs.json","./cdg.json":"/Users/lfisher/git/airport-codes/data/cdg.json","./cgh.json":"/Users/lfisher/git/airport-codes/data/cgh.json","./clt.json":"/Users/lfisher/git/airport-codes/data/clt.json","./cmh.json":"/Users/lfisher/git/airport-codes/data/cmh.json","./cvg.json":"/Users/lfisher/git/airport-codes/data/cvg.json","./den.json":"/Users/lfisher/git/airport-codes/data/den.json","./dfw.json":"/Users/lfisher/git/airport-codes/data/dfw.json","./dtw.json":"/Users/lfisher/git/airport-codes/data/dtw.json","./dxb.json":"/Users/lfisher/git/airport-codes/data/dxb.json","./ewr.json":"/Users/lfisher/git/airport-codes/data/ewr.json","./eze.json":"/Users/lfisher/git/airport-codes/data/eze.json","./fca.json":"/Users/lfisher/git/airport-codes/data/fca.json","./gig.json":"/Users/lfisher/git/airport-codes/data/gig.json","./grr.json":"/Users/lfisher/git/airport-codes/data/grr.json","./gru.json":"/Users/lfisher/git/airport-codes/data/gru.json","./hkg.json":"/Users/lfisher/git/airport-codes/data/hkg.json","./hnd.json":"/Users/lfisher/git/airport-codes/data/hnd.json","./iad.json":"/Users/lfisher/git/airport-codes/data/iad.json","./iah.json":"/Users/lfisher/git/airport-codes/data/iah.json","./icn.json":"/Users/lfisher/git/airport-codes/data/icn.json","./jfk.json":"/Users/lfisher/git/airport-codes/data/jfk.json","./las.json":"/Users/lfisher/git/airport-codes/data/las.json","./lax.json":"/Users/lfisher/git/airport-codes/data/lax.json","./lga.json":"/Users/lfisher/git/airport-codes/data/lga.json","./lhr.json":"/Users/lfisher/git/airport-codes/data/lhr.json","./lim.json":"/Users/lfisher/git/airport-codes/data/lim.json","./mci.json":"/Users/lfisher/git/airport-codes/data/mci.json","./mco.json":"/Users/lfisher/git/airport-codes/data/mco.json","./mia.json":"/Users/lfisher/git/airport-codes/data/mia.json","./msp.json":"/Users/lfisher/git/airport-codes/data/msp.json","./msy.json":"/Users/lfisher/git/airport-codes/data/msy.json","./ogg.json":"/Users/lfisher/git/airport-codes/data/ogg.json","./ord.json":"/Users/lfisher/git/airport-codes/data/ord.json","./pdx.json":"/Users/lfisher/git/airport-codes/data/pdx.json","./pek.json":"/Users/lfisher/git/airport-codes/data/pek.json","./phl.json":"/Users/lfisher/git/airport-codes/data/phl.json","./phx.json":"/Users/lfisher/git/airport-codes/data/phx.json","./rsw.json":"/Users/lfisher/git/airport-codes/data/rsw.json","./scl.json":"/Users/lfisher/git/airport-codes/data/scl.json","./sea.json":"/Users/lfisher/git/airport-codes/data/sea.json","./sfo.json":"/Users/lfisher/git/airport-codes/data/sfo.json","./smf.json":"/Users/lfisher/git/airport-codes/data/smf.json","./yvr.json":"/Users/lfisher/git/airport-codes/data/yvr.json","./yyz.json":"/Users/lfisher/git/airport-codes/data/yyz.json"}],"/Users/lfisher/git/airport-codes/data/jfk.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "jfk",
     "classname": "jfk",
     "code": "jfk",
@@ -485,7 +485,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/vogelium/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/las.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "las",
     "classname": "las",
     "code": "las",
@@ -500,7 +500,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/kevinreese/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lax.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "lax",
     "classname": "lax",
     "code": "lax",
@@ -514,7 +514,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/thomashawk/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lga.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "lga",
     "classname": "lga",
     "code": "lga",
@@ -528,7 +528,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/terrycady/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lhr.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "lhr",
     "classname": "lhr",
     "code": "lhr",
@@ -542,7 +542,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/twinkabauter/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lim.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "lim",
     "classname": "lim",
     "code": "lim",
@@ -557,7 +557,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/vasenka/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/mci.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "mci",
     "classname": "mci",
     "code": "mci",
@@ -571,7 +571,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/ajanhelendam/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/mco.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "mco",
     "classname": "mco",
     "code": "mco",
@@ -585,7 +585,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/beija/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/mia.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "mia",
     "classname": "mia",
     "code": "mia",
@@ -599,7 +599,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/thelotuscarroll/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/msp.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "msp",
     "classname": "msp",
     "code": "msp",
@@ -615,7 +615,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/tkellyphoto/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/msy.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "msy",
     "classname": "msy",
     "code": "msy",
@@ -629,7 +629,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/visualities/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/ogg.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "ogg",
     "classname": "ogg",
     "code": "ogg",
@@ -644,7 +644,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/j-and-p/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/ord.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "ord",
     "code": "ord",
     "classname": "ord",
@@ -658,7 +658,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/nickharris1/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/pdx.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "pdx",
     "classname": "pdx",
     "code": "pdx",
@@ -672,7 +672,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/pfly/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/pek.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "pek",
     "classname": "pek",
     "code": "pek",
@@ -686,7 +686,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/mattweibo/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/phl.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "phl",
     "code": "phl",
     "classname": "phl",
@@ -700,7 +700,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/uchiuska/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/phx.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "phx",
     "code": "phx",
     "classname": "phx",
@@ -714,7 +714,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/68956811@N00/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/rsw.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "rsw",
     "classname": "rsw",
     "code": "rsw",
@@ -728,7 +728,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/11561957@N06/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/scl.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "scl",
     "classname": "scl",
     "code": "scl",
@@ -743,7 +743,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/monstro/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/sea.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "sea",
     "classname": "sea",
     "code": "sea",
@@ -759,7 +759,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/84346589@N00/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/sfo.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "sfo",
     "code": "sfo",
     "classname": "sfo",
@@ -773,7 +773,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/richardwinchell/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/smf.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "smf",
     "code": "smf",
     "classname": "smf",
@@ -787,7 +787,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/yvr.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "yvr",
     "classname": "yvr",
     "code": "yvr",
@@ -802,7 +802,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/justenoughfocus/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/yyz.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports={
     "id": "yyz",
     "classname": "yyz",
     "code": "yyz",
@@ -15710,6 +15710,7 @@ function merge_text_nodes( jsonml ) {
 },{"util":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/util.js"}],"/Users/lfisher/git/airport-codes/src/AppRouter.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var AboutView = require('./views/AboutView');
+var ContributeView = require('./views/ContributeView');
 var AirportDetailView = require('./views/AirportDetailView');
 
 var Router = Backbone.Router.extend({
@@ -15722,6 +15723,7 @@ var Router = Backbone.Router.extend({
 
   routes: {
     "about":           "about",
+    "contribute":      "contribute",
     "airport/:code":   "airport",
     "*path":           "default"
   },
@@ -15738,8 +15740,15 @@ var Router = Backbone.Router.extend({
     }
   },
 
+  _hideContribute: function() {
+    if (this._contributeView) {
+      this._contributeView.hide();
+    }
+  },
+
   default: function() {
     this._hideAbout();
+    this._hideContribute();
     this._hideAirports();
     Backbone.$('body').removeClass('detail-open');
   },
@@ -15756,10 +15765,24 @@ var Router = Backbone.Router.extend({
     Backbone.$('body').addClass('detail-open');
   },
 
+  contribute: function() {
+    if (!this._contributeView) {
+      this._contributeView = new ContributeView();
+      Backbone.$('body').append(this._contributeView.render().el);
+    }
+
+    this._contributeView.show();
+
+    this._hideAirports();
+    this._hideAbout();
+    Backbone.$('body').addClass('detail-open');
+  },
+
   airport: function(code) {
     var airport = this.airports.get(code);
 
     this._hideAbout();
+    this._hideContribute();
     this._hideAirports();
 
     if (airport) {
@@ -15779,7 +15802,7 @@ var Router = Backbone.Router.extend({
 });
 
 module.exports = Router;
-},{"./views/AboutView":"/Users/lfisher/git/airport-codes/src/views/AboutView.js","./views/AirportDetailView":"/Users/lfisher/git/airport-codes/src/views/AirportDetailView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/collections/Airports.js":[function(require,module,exports){
+},{"./views/AboutView":"/Users/lfisher/git/airport-codes/src/views/AboutView.js","./views/AirportDetailView":"/Users/lfisher/git/airport-codes/src/views/AirportDetailView.js","./views/ContributeView":"/Users/lfisher/git/airport-codes/src/views/ContributeView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/collections/Airports.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var Airport = require('../models/Airport');
 
@@ -15825,7 +15848,7 @@ var template = require('./templates/AboutView.jade');
 var AboutView = Backbone.View.extend({
 
   tagName: 'div',
-  className: 'about',
+  className: 'about site-info',
 
   show: function() {
     this.$el.removeClass('hidden');
@@ -16043,7 +16066,32 @@ var AppView = Backbone.View.extend({
 });
 
 module.exports = AppView;
-},{"./AirportListView":"/Users/lfisher/git/airport-codes/src/views/AirportListView.js","./SearchView":"/Users/lfisher/git/airport-codes/src/views/SearchView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/SearchView.js":[function(require,module,exports){
+},{"./AirportListView":"/Users/lfisher/git/airport-codes/src/views/AirportListView.js","./SearchView":"/Users/lfisher/git/airport-codes/src/views/SearchView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/ContributeView.js":[function(require,module,exports){
+var Backbone = require('backbone');
+var template = require('./templates/ContributeView.jade');
+
+var ContributeView = Backbone.View.extend({
+
+  tagName: 'div',
+  className: 'contribute site-info',
+
+  show: function() {
+    this.$el.removeClass('hidden');
+  },
+
+  hide: function() {
+    this.$el.addClass('hidden');
+  },
+
+  render: function() {
+    this.$el.html(template());
+    return this;
+  }
+
+});
+
+module.exports = ContributeView;
+},{"./templates/ContributeView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/ContributeView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/SearchView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/SearchView.jade');
 
@@ -16147,7 +16195,7 @@ var buf = [];
 var jade_mixins = {};
 var jade_interp;
 
-buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"about-info\"><h1>About</h1><p>Every airport has a unique three-letter <a href=\"http://en.wikipedia.org/wiki/International_Air_Transport_Association\">IATA</a> code. Some make sense if you know the city or the name of the airport and others, well, what the heck?</p><p>Turns out there’s usually a reasonable explanation. Knowing what each IATA code stands for isn’t super useful, but it sure can be fun.</p><p>This site was designed and built by <a href=\"https://twitter.com/lynnandtonic\">Lynn Fisher</a> and <a href=\"https://twitter.com/nickcrohn\">Nick Crohn</a>.</p><p>More airports will be added on an ongoing basis. Got an airport to add or see something that’s wrong? Hit us up on Twitter or contribute via <a href=\"https://github.com/lynnandtonic/airport-codes\">GitHub</a>.</p><div class=\"sources\"><p>All photographs are from Flickr, under Creative Commons licenses.</p><p>Sources: <a href=\"http://www.wikipedia.org/\">wikipedia.org</a>, <a href=\"http://www.skygod.com/asstd/abc.html\">skygod.com</a>, <a href=\"http://www.city-data.com/forum/toronto/2177590-why-airport-code-toronto-yyz.html\">citydata.com</a>, <a href=\"http://abcnews.go.com/Travel/history-airport-codes-logic-letter-codes/story?id=11684406&amp;singlePage=true\">abcnews.com</a></p></div></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");;return buf.join("");
+buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"content\"><h1>About</h1><p>Every airport has a unique three-letter <a href=\"http://en.wikipedia.org/wiki/International_Air_Transport_Association\">IATA</a> code. Some make sense if you know the city or the name of the airport and others, well, what the heck?</p><p>Turns out there’s usually a reasonable explanation. Knowing what each IATA code stands for isn’t super useful, but it sure can be fun.</p><p>This site was designed and built by <a href=\"https://twitter.com/lynnandtonic\">Lynn Fisher</a> and <a href=\"https://twitter.com/nickcrohn\">Nick Crohn</a>.</p><hr/><p class=\"quote\">“Hey, you left [my airport] off the list!”</p><a href=\"#contribute\" class=\"btn\">Contribute</a><hr/><div class=\"footnote\"><p>All photographs are from Flickr, under Creative Commons licenses.</p><p>Sources: <a href=\"http://www.wikipedia.org/\">wikipedia.org</a>, <a href=\"http://www.skygod.com/asstd/abc.html\">skygod.com</a>, <a href=\"http://www.city-data.com/forum/toronto/2177590-why-airport-code-toronto-yyz.html\">citydata.com</a>, <a href=\"http://abcnews.go.com/Travel/history-airport-codes-logic-letter-codes/story?id=11684406&amp;singlePage=true\">abcnews.com</a></p></div></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");;return buf.join("");
 };
 },{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/AirportDetailView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
@@ -16169,6 +16217,16 @@ var jade_interp;
 ;var locals_for_with = (locals || {});(function (code) {
 buf.push("<a" + (jade.attr("href", "#airport/"+code, true, false)) + ">" + (jade.escape(null == (jade_interp = code) ? "" : jade_interp)) + "</a>");}.call(this,"code" in locals_for_with?locals_for_with.code:typeof code!=="undefined"?code:undefined));;return buf.join("");
 };
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/ContributeView.jade":[function(require,module,exports){
+var jade = require("jade/runtime");
+
+module.exports = function template(locals) {
+var buf = [];
+var jade_mixins = {};
+var jade_interp;
+
+buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"content\"><h1>Contribute</h1><p>There are lots (and we mean lots!) of airports in the world. We’ll add as many as we can and we encourage you to contribute airports, too.</p><p>A couple ways you can help make the site more awesome:</p><ul><li>Tweet at us! We’d love to hear your suggestions. We’re <a href=\"https://twitter.com/lynnandtonic\">@lynnandtonic</a> and <a href=\"https://twitter.com/nickcrohn\">@nickcrohn</a> on Twitter.</li><li>Contribute code and/or content to Airport Codes via <a href=\"https://github.com/lynnandtonic/airport-codes\">GitHub</a>.</li></ul><p>Fly well, friends.</p></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");;return buf.join("");
+};
 },{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/SearchView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
@@ -16177,7 +16235,7 @@ var buf = [];
 var jade_mixins = {};
 var jade_interp;
 
-buf.push("<nav class=\"cf\"><h1><a href=\"#\">Airport Codes</a><a href=\"#about\" class=\"nav-about\">About</a></h1><input type=\"text\" name=\"search\" autocomplete=\"off\" placeholder=\"Search for your airport\"/><a class=\"search-close\"></a></nav>");;return buf.join("");
+buf.push("<nav class=\"cf\"><h1><a href=\"#\">Airport Codes</a><a href=\"#about\" class=\"nav-about\">About</a></h1><input type=\"text\" name=\"search\" autocomplete=\"off\" placeholder=\"Search for your airport\"/></nav>");;return buf.join("");
 };
 },{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/SocialView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
