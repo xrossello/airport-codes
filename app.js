@@ -28,8 +28,21 @@ jquery(function() {
   var application = new Application();
 });
 
-},{"../data":"/Users/lfisher/git/airport-codes/data/index.js","./AppRouter":"/Users/lfisher/git/airport-codes/src/AppRouter.js","./collections/Airports":"/Users/lfisher/git/airport-codes/src/collections/Airports.js","./views/AppView":"/Users/lfisher/git/airport-codes/src/views/AppView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js","jquery":"/Users/lfisher/git/airport-codes/node_modules/jquery/dist/jquery.js"}],"/Users/lfisher/git/airport-codes/data/anc.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{"../data":"/Users/lfisher/git/airport-codes/data/index.js","./AppRouter":"/Users/lfisher/git/airport-codes/src/AppRouter.js","./collections/Airports":"/Users/lfisher/git/airport-codes/src/collections/Airports.js","./views/AppView":"/Users/lfisher/git/airport-codes/src/views/AppView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js","jquery":"/Users/lfisher/git/airport-codes/node_modules/jquery/dist/jquery.js"}],"/Users/lfisher/git/airport-codes/data/abq.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "abq",
+    "code": "abq",
+    "name": "Albuquerque International Sunport",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "stateShort": "NM",
+    "country": "USA",
+    "description": "Opened in 1939, New Mexico’s largest airport gets its name and airport code from its home in *A*l*b*u*q*uerque.",
+    "imageCredit": "David Basanta",
+    "imageCreditLink": "https://www.flickr.com/photos/dbasanta/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/anc.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "anc",
     "code": "anc",
     "name": "Ted Stevens Anchorage International Airport",
@@ -42,7 +55,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/72213316@N00/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/atl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "atl",
     "code": "atl",
     "name": "Hartsfield–Jackson International Airport",
@@ -55,7 +68,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/jontangerine/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/aus.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "aus",
     "code": "aus",
     "name": "Austin–Bergstrom International Airport",
@@ -68,7 +81,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/imnotquitejack/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/bdl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bdl",
     "code": "bdl",
     "name": "Bradley International Airport",
@@ -83,7 +96,7 @@ module.exports=module.exports=module.exports=module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/improbcat/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/bhm.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bhm",
     "code": "bhm",
     "name": "Birmingham–Shuttlesworth International Airport",
@@ -96,7 +109,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/martin_hartland/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/bog.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bog",
     "code": "bog",
     "name": "El Dorado International Airport",
@@ -108,8 +121,21 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Stephen Downes",
     "imageCreditLink": "https://www.flickr.com/photos/stephen_downes/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/boi.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "boi",
+    "code": "boi",
+    "name": "Boise Airport",
+    "city": "Boise",
+    "state": "Idaho",
+    "stateShort": "ID",
+    "country": "USA",
+    "description": "Originally named (and often still called) Gowen Field, Boise Airport honored U.S. Army 1st Lieutenant Paul R. Gowen. Its airport code honors its home in *Boi*se.",
+    "imageCredit": "Mark Hillary",
+    "imageCreditLink": "https://www.flickr.com/photos/markhillary/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/bom.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bom",
     "code": "bom",
     "name": "Chhatrapati Shivaji International Airport",
@@ -122,7 +148,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/u07ch/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/bos.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bos",
     "code": "bos",
     "name": "Logan International Airport",
@@ -135,8 +161,52 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Andrew Malone",
     "imageCreditLink": "https://www.flickr.com/photos/andrewmalone/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/buf.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "buf",
+    "code": "buf",
+    "name": "Buffalo Niagara International Airport",
+    "city": "Buffalo",
+    "city2": "Cheektowaga",
+    "city3": "Niagra Falls",
+    "state": "New York",
+    "stateShort": "NY",
+    "country": "USA",
+    "description": "Opened in 1926 as Buffalo Municipal, *Buf*falo Niagra International was rebuilt and renamed in 1997 to honor the oft-visited Niagra Falls.",
+    "imageCredit": "Julien Bowry",
+    "imageCreditLink": "https://www.flickr.com/photos/jjbowry_blogspot_com/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/bwi.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "bwi",
+    "code": "bwi",
+    "name": "Baltimore/Washington International Thurgood Marshall Airport",
+    "city": "Baltimore",
+    "city2": "Glen Burnie",
+    "city3": "Washington D.C.",
+    "state": "Maryland",
+    "stateShort": "MD",
+    "country": "USA",
+    "description": "Originally Friendship International (perhaps the best airport name ever), *B*altimore/*W*ashington *I*nternational was renamed in 1973 and again in 2005 to honor Thurgood Marshall, former U.S. Supreme Court justice.",
+    "imageCredit": "Mike Procario",
+    "imageCreditLink": "https://www.flickr.com/photos/procario/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/bzn.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "bzn",
+    "code": "bzn",
+    "name": "Bozeman Yellowstone International Airport",
+    "city": "Bozeman",
+    "city2": "Belgrade",
+    "state": "Montana",
+    "stateShort": "MT",
+    "country": "USA",
+    "description": "In 2005, Gallatin Field was renamed to *B*o*z*ema*n* Yellowstone International in honor of the famous national park.",
+    "imageCredit": "Roderick Hsiao",
+    "imageCreditLink": "https://www.flickr.com/photos/roderickhsiao/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/ccs.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ccs",
     "code": "ccs",
     "name": "Simón Bolívar International Airport",
@@ -150,7 +220,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/galletonn/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/cdg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cdg",
     "code": "cdg",
     "name": "Charles de Gaulle Airport",
@@ -163,7 +233,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/jekkone/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/cgh.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cgh",
     "code": "cgh",
     "name": "Congonhas Airport",
@@ -175,8 +245,34 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Barbara Dieu",
     "imageCreditLink": "https://www.flickr.com/photos/bee/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/cid.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "cid",
+    "code": "cid",
+    "name": "The Eastern Iowa Airport",
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "stateShort": "IA",
+    "country": "USA",
+    "description": "Before being renamed in 1997, The Eastern Iowa Airport was known as *C*edar Rap*id*s Municipal.",
+    "imageCredit": "Carole",
+    "imageCreditLink": "https://www.flickr.com/photos/leita/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/cle.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "cle",
+    "code": "cle",
+    "name": "Hopkins International Airport",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "stateShort": "OH",
+    "country": "USA",
+    "description": "Hopkins International, the first U.S. municipal airport, is named after former mayor William R. Hopkins. Its airport code honors its home in *Cle*veland.",
+    "imageCredit": "Trey Ratcliff",
+    "imageCreditLink": "https://www.flickr.com/photos/stuckincustoms/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/clt.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "clt",
     "code": "clt",
     "name": "Douglas International Airport",
@@ -189,7 +285,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/emry/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/cmh.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cmh",
     "code": "cmh",
     "name": "Port Columbus International Airport",
@@ -202,7 +298,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/gmanviz/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/cvg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cvg",
     "code": "cvg",
     "name": "Cincinnati/Northern Kentucky International Airport",
@@ -215,8 +311,21 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Robert S. Donovan",
     "imageCreditLink": "https://www.flickr.com/photos/booleansplit/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/day.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "day",
+    "code": "day",
+    "name": "James M. Cox Dayton International Airport",
+    "city": "Dayton",
+    "state": "Ohio",
+    "stateShort": "OH",
+    "country": "USA",
+    "description": "In 1952, Dayton Municipal was renamed to honor James M. Cox, former governor of Ohio. Its airport code honors its home in *Day*ton.",
+    "imageCredit": "redlegsfan21",
+    "imageCreditLink": "https://www.flickr.com/photos/redlegsfan21/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/den.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "den",
     "code": "den",
     "name": "Denver International Airport",
@@ -229,7 +338,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/chicagobart/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/dfw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dfw",
     "code": "dfw",
     "name": "Dallas/Fort Worth International Airport",
@@ -243,7 +352,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/jimnix/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/dtw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dtw",
     "code": "dtw",
     "name": "Detroit Metropolitan Wayne County Airport",
@@ -256,7 +365,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/laughingsquid/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/dxb.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dxb",
     "code": "dxb",
     "name": "Dubai International Airport",
@@ -270,7 +379,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/rwp-roger/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/ewr.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ewr",
     "code": "ewr",
     "name": "Liberty International Airport",
@@ -283,7 +392,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/bartzoni/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/eze.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "eze",
     "code": "eze",
     "name": "Ministro Pistarini International Airport",
@@ -297,7 +406,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/gijlmar/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/fca.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "fca",
     "code": "fca",
     "name": "Glacier Park International Airport",
@@ -311,7 +420,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/theilr/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/gig.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "gig",
     "code": "gig",
     "name": "Galeão–Antonio Carlos Jobim International Airport",
@@ -324,7 +433,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/veroyama/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/grr.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "grr",
     "code": "grr",
     "name": "Gerald R. Ford International Airport",
@@ -337,7 +446,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/wcouch/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/gru.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "gru",
     "code": "gru",
     "name": "Guarulhos–Governador André Franco Montoro International Airport",
@@ -351,7 +460,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/stankuns/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/hkg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "hkg",
     "code": "hkg",
     "name": "Hong Kong International Airport",
@@ -364,7 +473,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/dcmaster/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/hnd.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "hnd",
     "code": "hnd",
     "name": "Tokyo International Airport",
@@ -377,7 +486,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/hyougushi/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/hnl.json":[function(require,module,exports){
-module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "hnl",
     "code": "hnl",
     "name": "Honolulu International Airport",
@@ -391,7 +500,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/wirelizard/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/iad.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "iad",
     "code": "iad",
     "name": "Dulles International Airport",
@@ -404,7 +513,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/theqspeaks/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/iah.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "iah",
     "code": "iah",
     "name": "George Bush Intercontinental Airport",
@@ -417,7 +526,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/hyku/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/icn.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "icn",
     "code": "icn",
     "name": "Incheon International Airport",
@@ -429,23 +538,57 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Marcella Bona",
     "imageCreditLink": "https://www.flickr.com/photos/marcella_bona/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/ict.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "ict",
+    "code": "ict",
+    "name": "Dwight D. Eisenhower National Airport",
+    "city": "Wichita",
+    "state": "Kansas",
+    "stateShort": "KS",
+    "country": "USA",
+    "description": "The FCC restricted airport codes from beginning with the letters ‘W’ and ‘K’, reserving them for radio station designations. Formerly named Mid-Continent Airport, W*ic*hi*t*a opted for ICT.",
+    "imageCredit": "Michael Sauers",
+    "imageCreditLink": "https://www.flickr.com/photos/travelinlibrarian/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/ind.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "ind",
+    "code": "ind",
+    "name": "Indianapolis International Airport",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "stateShort": "IN",
+    "country": "USA",
+    "description": "Before being renamed in 1976, Indianapolis International was called Weir-Cook Municipal, honoring World War I flying ace Colonel Harvey Weir-Cook. Its airport code honors its home in *Ind*ianapolis.",
+    "imageCredit": "Don J Schulte",
+    "imageCreditLink": "https://www.flickr.com/photos/oxherder/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/index.js":[function(require,module,exports){
 module.exports = {
   airports: [
+    require('./abq.json'),
     require('./anc.json'),
     require('./atl.json'),
     require('./aus.json'),
     require('./bdl.json'),
     require('./bhm.json'),
     require('./bog.json'),
+    require('./boi.json'),
     require('./bom.json'),
     require('./bos.json'),
+    require('./buf.json'),
+    require('./bwi.json'),
+    require('./bzn.json'),
     require('./ccs.json'),
     require('./cdg.json'),
     require('./cgh.json'),
+    require('./cid.json'),
+    require('./cle.json'),
     require('./clt.json'),
     require('./cmh.json'),
     require('./cvg.json'),
+    require('./day.json'),
     require('./den.json'),
     require('./dfw.json'),
     require('./dtw.json'),
@@ -462,6 +605,8 @@ module.exports = {
     require('./iad.json'),
     require('./iah.json'),
     require('./icn.json'),
+    require('./ict.json'),
+    require('./ind.json'),
     require('./jfk.json'),
     require('./las.json'),
     require('./lax.json'),
@@ -471,26 +616,36 @@ module.exports = {
     require('./lit.json'),
     require('./mci.json'),
     require('./mco.json'),
+    require('./mdt.json'),
+    require('./mdw.json'),
+    require('./mht.json'),
     require('./mia.json'),
     require('./msp.json'),
     require('./msy.json'),
     require('./ogg.json'),
+    require('./okc.json'),
+    require('./oma.json'),
     require('./ord.json'),
     require('./pdx.json'),
     require('./pek.json'),
     require('./phl.json'),
     require('./phx.json'),
+    require('./pit.json'),
+    require('./pwm.json'),
+    require('./rdu.json'),
     require('./rsw.json'),
     require('./scl.json'),
+    require('./sdf.json'),
     require('./sea.json'),
     require('./sfo.json'),
     require('./smf.json'),
+    require('./stl.json'),
     require('./yvr.json'),
     require('./yyz.json')
   ]
 };
-},{"./anc.json":"/Users/lfisher/git/airport-codes/data/anc.json","./atl.json":"/Users/lfisher/git/airport-codes/data/atl.json","./aus.json":"/Users/lfisher/git/airport-codes/data/aus.json","./bdl.json":"/Users/lfisher/git/airport-codes/data/bdl.json","./bhm.json":"/Users/lfisher/git/airport-codes/data/bhm.json","./bog.json":"/Users/lfisher/git/airport-codes/data/bog.json","./bom.json":"/Users/lfisher/git/airport-codes/data/bom.json","./bos.json":"/Users/lfisher/git/airport-codes/data/bos.json","./ccs.json":"/Users/lfisher/git/airport-codes/data/ccs.json","./cdg.json":"/Users/lfisher/git/airport-codes/data/cdg.json","./cgh.json":"/Users/lfisher/git/airport-codes/data/cgh.json","./clt.json":"/Users/lfisher/git/airport-codes/data/clt.json","./cmh.json":"/Users/lfisher/git/airport-codes/data/cmh.json","./cvg.json":"/Users/lfisher/git/airport-codes/data/cvg.json","./den.json":"/Users/lfisher/git/airport-codes/data/den.json","./dfw.json":"/Users/lfisher/git/airport-codes/data/dfw.json","./dtw.json":"/Users/lfisher/git/airport-codes/data/dtw.json","./dxb.json":"/Users/lfisher/git/airport-codes/data/dxb.json","./ewr.json":"/Users/lfisher/git/airport-codes/data/ewr.json","./eze.json":"/Users/lfisher/git/airport-codes/data/eze.json","./fca.json":"/Users/lfisher/git/airport-codes/data/fca.json","./gig.json":"/Users/lfisher/git/airport-codes/data/gig.json","./grr.json":"/Users/lfisher/git/airport-codes/data/grr.json","./gru.json":"/Users/lfisher/git/airport-codes/data/gru.json","./hkg.json":"/Users/lfisher/git/airport-codes/data/hkg.json","./hnd.json":"/Users/lfisher/git/airport-codes/data/hnd.json","./hnl.json":"/Users/lfisher/git/airport-codes/data/hnl.json","./iad.json":"/Users/lfisher/git/airport-codes/data/iad.json","./iah.json":"/Users/lfisher/git/airport-codes/data/iah.json","./icn.json":"/Users/lfisher/git/airport-codes/data/icn.json","./jfk.json":"/Users/lfisher/git/airport-codes/data/jfk.json","./las.json":"/Users/lfisher/git/airport-codes/data/las.json","./lax.json":"/Users/lfisher/git/airport-codes/data/lax.json","./lga.json":"/Users/lfisher/git/airport-codes/data/lga.json","./lhr.json":"/Users/lfisher/git/airport-codes/data/lhr.json","./lim.json":"/Users/lfisher/git/airport-codes/data/lim.json","./lit.json":"/Users/lfisher/git/airport-codes/data/lit.json","./mci.json":"/Users/lfisher/git/airport-codes/data/mci.json","./mco.json":"/Users/lfisher/git/airport-codes/data/mco.json","./mia.json":"/Users/lfisher/git/airport-codes/data/mia.json","./msp.json":"/Users/lfisher/git/airport-codes/data/msp.json","./msy.json":"/Users/lfisher/git/airport-codes/data/msy.json","./ogg.json":"/Users/lfisher/git/airport-codes/data/ogg.json","./ord.json":"/Users/lfisher/git/airport-codes/data/ord.json","./pdx.json":"/Users/lfisher/git/airport-codes/data/pdx.json","./pek.json":"/Users/lfisher/git/airport-codes/data/pek.json","./phl.json":"/Users/lfisher/git/airport-codes/data/phl.json","./phx.json":"/Users/lfisher/git/airport-codes/data/phx.json","./rsw.json":"/Users/lfisher/git/airport-codes/data/rsw.json","./scl.json":"/Users/lfisher/git/airport-codes/data/scl.json","./sea.json":"/Users/lfisher/git/airport-codes/data/sea.json","./sfo.json":"/Users/lfisher/git/airport-codes/data/sfo.json","./smf.json":"/Users/lfisher/git/airport-codes/data/smf.json","./yvr.json":"/Users/lfisher/git/airport-codes/data/yvr.json","./yyz.json":"/Users/lfisher/git/airport-codes/data/yyz.json"}],"/Users/lfisher/git/airport-codes/data/jfk.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{"./abq.json":"/Users/lfisher/git/airport-codes/data/abq.json","./anc.json":"/Users/lfisher/git/airport-codes/data/anc.json","./atl.json":"/Users/lfisher/git/airport-codes/data/atl.json","./aus.json":"/Users/lfisher/git/airport-codes/data/aus.json","./bdl.json":"/Users/lfisher/git/airport-codes/data/bdl.json","./bhm.json":"/Users/lfisher/git/airport-codes/data/bhm.json","./bog.json":"/Users/lfisher/git/airport-codes/data/bog.json","./boi.json":"/Users/lfisher/git/airport-codes/data/boi.json","./bom.json":"/Users/lfisher/git/airport-codes/data/bom.json","./bos.json":"/Users/lfisher/git/airport-codes/data/bos.json","./buf.json":"/Users/lfisher/git/airport-codes/data/buf.json","./bwi.json":"/Users/lfisher/git/airport-codes/data/bwi.json","./bzn.json":"/Users/lfisher/git/airport-codes/data/bzn.json","./ccs.json":"/Users/lfisher/git/airport-codes/data/ccs.json","./cdg.json":"/Users/lfisher/git/airport-codes/data/cdg.json","./cgh.json":"/Users/lfisher/git/airport-codes/data/cgh.json","./cid.json":"/Users/lfisher/git/airport-codes/data/cid.json","./cle.json":"/Users/lfisher/git/airport-codes/data/cle.json","./clt.json":"/Users/lfisher/git/airport-codes/data/clt.json","./cmh.json":"/Users/lfisher/git/airport-codes/data/cmh.json","./cvg.json":"/Users/lfisher/git/airport-codes/data/cvg.json","./day.json":"/Users/lfisher/git/airport-codes/data/day.json","./den.json":"/Users/lfisher/git/airport-codes/data/den.json","./dfw.json":"/Users/lfisher/git/airport-codes/data/dfw.json","./dtw.json":"/Users/lfisher/git/airport-codes/data/dtw.json","./dxb.json":"/Users/lfisher/git/airport-codes/data/dxb.json","./ewr.json":"/Users/lfisher/git/airport-codes/data/ewr.json","./eze.json":"/Users/lfisher/git/airport-codes/data/eze.json","./fca.json":"/Users/lfisher/git/airport-codes/data/fca.json","./gig.json":"/Users/lfisher/git/airport-codes/data/gig.json","./grr.json":"/Users/lfisher/git/airport-codes/data/grr.json","./gru.json":"/Users/lfisher/git/airport-codes/data/gru.json","./hkg.json":"/Users/lfisher/git/airport-codes/data/hkg.json","./hnd.json":"/Users/lfisher/git/airport-codes/data/hnd.json","./hnl.json":"/Users/lfisher/git/airport-codes/data/hnl.json","./iad.json":"/Users/lfisher/git/airport-codes/data/iad.json","./iah.json":"/Users/lfisher/git/airport-codes/data/iah.json","./icn.json":"/Users/lfisher/git/airport-codes/data/icn.json","./ict.json":"/Users/lfisher/git/airport-codes/data/ict.json","./ind.json":"/Users/lfisher/git/airport-codes/data/ind.json","./jfk.json":"/Users/lfisher/git/airport-codes/data/jfk.json","./las.json":"/Users/lfisher/git/airport-codes/data/las.json","./lax.json":"/Users/lfisher/git/airport-codes/data/lax.json","./lga.json":"/Users/lfisher/git/airport-codes/data/lga.json","./lhr.json":"/Users/lfisher/git/airport-codes/data/lhr.json","./lim.json":"/Users/lfisher/git/airport-codes/data/lim.json","./lit.json":"/Users/lfisher/git/airport-codes/data/lit.json","./mci.json":"/Users/lfisher/git/airport-codes/data/mci.json","./mco.json":"/Users/lfisher/git/airport-codes/data/mco.json","./mdt.json":"/Users/lfisher/git/airport-codes/data/mdt.json","./mdw.json":"/Users/lfisher/git/airport-codes/data/mdw.json","./mht.json":"/Users/lfisher/git/airport-codes/data/mht.json","./mia.json":"/Users/lfisher/git/airport-codes/data/mia.json","./msp.json":"/Users/lfisher/git/airport-codes/data/msp.json","./msy.json":"/Users/lfisher/git/airport-codes/data/msy.json","./ogg.json":"/Users/lfisher/git/airport-codes/data/ogg.json","./okc.json":"/Users/lfisher/git/airport-codes/data/okc.json","./oma.json":"/Users/lfisher/git/airport-codes/data/oma.json","./ord.json":"/Users/lfisher/git/airport-codes/data/ord.json","./pdx.json":"/Users/lfisher/git/airport-codes/data/pdx.json","./pek.json":"/Users/lfisher/git/airport-codes/data/pek.json","./phl.json":"/Users/lfisher/git/airport-codes/data/phl.json","./phx.json":"/Users/lfisher/git/airport-codes/data/phx.json","./pit.json":"/Users/lfisher/git/airport-codes/data/pit.json","./pwm.json":"/Users/lfisher/git/airport-codes/data/pwm.json","./rdu.json":"/Users/lfisher/git/airport-codes/data/rdu.json","./rsw.json":"/Users/lfisher/git/airport-codes/data/rsw.json","./scl.json":"/Users/lfisher/git/airport-codes/data/scl.json","./sdf.json":"/Users/lfisher/git/airport-codes/data/sdf.json","./sea.json":"/Users/lfisher/git/airport-codes/data/sea.json","./sfo.json":"/Users/lfisher/git/airport-codes/data/sfo.json","./smf.json":"/Users/lfisher/git/airport-codes/data/smf.json","./stl.json":"/Users/lfisher/git/airport-codes/data/stl.json","./yvr.json":"/Users/lfisher/git/airport-codes/data/yvr.json","./yyz.json":"/Users/lfisher/git/airport-codes/data/yyz.json"}],"/Users/lfisher/git/airport-codes/data/jfk.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "jfk",
     "code": "jfk",
     "name": "John F. Kennedy International Airport",
@@ -503,7 +658,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/vogelium/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/las.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "las",
     "code": "las",
     "name": "McCarran International Airport",
@@ -517,7 +672,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/kevinreese/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lax.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lax",
     "code": "lax",
     "name": "Los Angeles International Airport",
@@ -530,7 +685,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/thomashawk/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lga.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lga",
     "code": "lga",
     "name": "LaGuardia Airport",
@@ -543,7 +698,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/terrycady/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lhr.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lhr",
     "code": "lhr",
     "name": "London Heathrow Airport",
@@ -556,7 +711,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/twinkabauter/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lim.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lim",
     "code": "lim",
     "name": "Jorge Chávez International Airport",
@@ -570,13 +725,13 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/vasenka/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/lit.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lit",
     "code": "lit",
     "name": "Bill and Hillary Clinton National Airport",
     "city": "Little Rock",
     "city2": "Adams Field",
-    "city2": "Clinton",
+    "city3": "Clinton",
     "state": "Arkansas",
     "stateShort": "AR",
     "country": "USA",
@@ -585,7 +740,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/commanderclicktft/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/mci.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mci",
     "code": "mci",
     "name": "Kansas City International Airport",
@@ -598,7 +753,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/ajanhelendam/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/mco.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mco",
     "code": "mco",
     "name": "Orlando International Airport",
@@ -610,8 +765,50 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Benjamin Thompson",
     "imageCreditLink": "https://www.flickr.com/photos/beija/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/mdt.json":[function(require,module,exports){
+module.exports={
+    "id": "mdt",
+    "code": "mdt",
+    "name": "Harrisburg International Airport",
+    "city": "Harrisburg",
+    "city2": "Middletown",
+    "state": "Pennsylvania",
+    "stateShort": "PA",
+    "country": "USA",
+    "description": "Often called HIA incorrectly, Harrisburg International’s airport code comes from *M*i*d*dle*t*own, a nearby Harrisburg suburb.",
+    "imageCredit": "Timothy Rezendes",
+    "imageCreditLink": "https://www.flickr.com/photos/trezendes/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/mdw.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "mdw",
+    "code": "mdw",
+    "name": "Midway International Airport",
+    "city": "Chicago",
+    "state": "Illinois",
+    "stateShort": "IL",
+    "country": "USA",
+    "description": "Once called Chicago Air Park and later Chicago Municipal, Midway International was renamed in 1949 to honor World War II’s Battle of *M*i*dw*ay.",
+    "imageCredit": "Jackie Popp",
+    "imageCreditLink": "https://www.flickr.com/photos/jackie-popp/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/mht.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "mht",
+    "code": "mht",
+    "name": "Manchester–Boston Regional Airport",
+    "city": "Manchester",
+    "city2": "Londonberry",
+    "city3": "Boston",
+    "state": "New Hampshire",
+    "stateShort": "NH",
+    "country": "USA",
+    "description": "Manchester Airport added ‘-Boston Regional’ to its name in 2005 to serve as another option for Boston travelers. Its airport code still honors its home in *M*anc*h*es*t*er.",
+    "imageCredit": "Elizabeth Krumbach Joseph",
+    "imageCreditLink": "https://www.flickr.com/photos/pleia2/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/mia.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mia",
     "code": "mia",
     "name": "Miami International Airport",
@@ -624,7 +821,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/thelotuscarroll/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/msp.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "msp",
     "code": "msp",
     "name": "Minneapolis–Saint Paul International Airport",
@@ -639,7 +836,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/tkellyphoto/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/msy.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "msy",
     "code": "msy",
     "name": "Louis Armstrong International Airport",
@@ -652,7 +849,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/visualities/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/ogg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ogg",
     "code": "ogg",
     "name": "Kahului Airport",
@@ -665,8 +862,34 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jonathan Caves",
     "imageCreditLink": "https://www.flickr.com/photos/j-and-p/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/okc.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "okc",
+    "code": "okc",
+    "name": "Will Rogers World Airport",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "stateShort": "OK",
+    "country": "USA",
+    "description": "It may sound like an amusement park, but Will Rogers World Airport honors legendary cowboy and entertainer, Will Rogers. Its airport code honors its home in *Ok*lahoma *C*ity.",
+    "imageCredit": "Wesley Fryer",
+    "imageCreditLink": "https://www.flickr.com/photos/wfryer/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/oma.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "oma",
+    "code": "oma",
+    "name": "Eppley Airfield",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "stateShort": "NE",
+    "country": "USA",
+    "description": "Eppley Airfield is Nebraska's largest airport and honors hotel mogul Eugene C. Eppley. Its aiport code honors its home in *Oma*ha.",
+    "imageCredit": "Jimmy Emerson",
+    "imageCreditLink": "https://www.flickr.com/photos/auvet/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/ord.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ord",
     "code": "ord",
     "name": "O’Hare International Airport",
@@ -679,7 +902,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/nickharris1/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/pdx.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "pdx",
     "code": "pdx",
     "name": "Portland International Airport",
@@ -692,7 +915,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/pfly/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/pek.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "pek",
     "code": "pek",
     "name": "Beijing Capital International Airport",
@@ -705,7 +928,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/mattweibo/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/phl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "phl",
     "code": "phl",
     "name": "Philadelphia International Airport",
@@ -718,7 +941,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/uchiuska/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/phx.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "phx",
     "code": "phx",
     "name": "Sky Harbor International Airport",
@@ -730,8 +953,51 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Liebe5",
     "imageCreditLink": "https://www.flickr.com/photos/68956811@N00/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/pit.json":[function(require,module,exports){
+module.exports=module.exports=module.exports={
+    "id": "pit",
+    "code": "pit",
+    "name": "Pittsburgh International Airport",
+    "city": "Pittsburgh",
+    "city2": "Findlay",
+    "city3": "Moon",
+    "state": "Pennsylvania",
+    "stateShort": "PA",
+    "country": "USA",
+    "description": "Opened in 1952, the ‘Greater Pitt’ Airport serves and honors the city of *Pit*tsburgh.",
+    "imageCredit": "John Marino",
+    "imageCreditLink": "https://www.flickr.com/photos/j26/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/pwm.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "pwm",
+    "code": "pwm",
+    "name": "Portland International Jetport",
+    "city": "Portland",
+    "city2": "Westbrook",
+    "state": "Maine",
+    "stateShort": "ME",
+    "country": "USA",
+    "description": "The airport serving the original Portland (in Maine) started as small Stroudwater Field, later renamed to *P*ortland-*W*estbrook *M*unicipal Airport.",
+    "imageCredit": "Jimmy Emerson",
+    "imageCreditLink": "https://www.flickr.com/photos/auvet/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/rdu.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "rdu",
+    "code": "rdu",
+    "name": "Raleigh–Durham International Airport",
+    "city": "Raleigh",
+    "city2": "Durham",
+    "state": "North Carolina",
+    "stateShort": "NC",
+    "country": "USA",
+    "description": "Opened in 1943, Raleigh-Durham International is located in Wake County in between the cities of *R*aleigh and *Du*rham.",
+    "imageCredit": "Suzie Tremmel",
+    "imageCreditLink": "https://www.flickr.com/photos/23727257@N00/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/rsw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "rsw",
     "code": "rsw",
     "name": "Southwest Florida International Airport",
@@ -744,7 +1010,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/11561957@N06/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/scl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "scl",
     "code": "scl",
     "name": "Arturo Merino Benítez International Airport",
@@ -757,8 +1023,21 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "lane becker",
     "imageCreditLink": "https://www.flickr.com/photos/monstro/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/sdf.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "sdf",
+    "code": "sdf",
+    "name": "Louisville International Airport",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "stateShort": "KY",
+    "country": "USA",
+    "description": "Before being renamed in 1995, Louisville International was known as *S*tan*d*i*f*ord Field, honoring former state senator Elisha David Standiford.",
+    "imageCredit": "Lisa Padilla",
+    "imageCreditLink": "https://www.flickr.com/photos/lisap/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/sea.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "sea",
     "code": "sea",
     "name": "Seattle–Tacoma International Airport",
@@ -773,7 +1052,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/84346589@N00/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/sfo.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "sfo",
     "code": "sfo",
     "name": "San Francisco International Airport",
@@ -786,7 +1065,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/richardwinchell/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/smf.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "smf",
     "code": "smf",
     "name": "Sacramento International Airport",
@@ -798,8 +1077,21 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Rich",
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/stl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports={
+    "id": "stl",
+    "code": "stl",
+    "name": "Lambert–St. Louis International Airport",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "stateShort": "MO",
+    "country": "USA",
+    "description": "Lambert-St. Louis International is named after Albert Bond Lambert, Olympic golfer and the first to receive a pilot's license in the city of *St*. *L*ouis.",
+    "imageCredit": "Rich",
+    "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/yvr.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "yvr",
     "code": "yvr",
     "name": "Vancouver International Airport",
@@ -813,7 +1105,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/justenoughfocus/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/yyz.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "yyz",
     "code": "yyz",
     "name": "Pearson International Airport",
@@ -16239,7 +16531,7 @@ var buf = [];
 var jade_mixins = {};
 var jade_interp;
 
-buf.push("<nav class=\"cf\"><h1><a href=\"#\">Airport Codes</a><a href=\"#about\" class=\"nav-about\">About</a></h1><input type=\"text\" name=\"search\" autocomplete=\"off\" placeholder=\"Search for your airport\"/></nav>");;return buf.join("");
+buf.push("<nav class=\"cf\"><h1><a href=\"#\">Airport Codes</a><a href=\"#about\" class=\"nav-about\">About</a></h1><input type=\"text\" name=\"search\" autocomplete=\"off\" placeholder=\"Find your airport\"/></nav>");;return buf.join("");
 };
 },{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/SocialView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
