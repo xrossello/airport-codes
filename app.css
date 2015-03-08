@@ -654,6 +654,9 @@ header input:focus {
 .card.bhm {
   background-image: url("images/card/bhm-martin-hartland.jpg");
 }
+.card.bna {
+  background-image: url("images/card/bna-shooting-chris.jpg");
+}
 .card.bog {
   background-image: url("images/card/bog-stephen-downes.jpg");
 }
@@ -665,6 +668,9 @@ header input:focus {
 }
 .card.bos {
   background-image: url("images/card/bos-andrew-malone.jpg");
+}
+.card.btv {
+  background-image: url("images/card/btv-neil-hunt.jpg");
 }
 .card.buf {
   background-image: url("images/card/buf-julien-bowry.jpg");
@@ -684,6 +690,9 @@ header input:focus {
 .card.cgh {
   background-image: url("images/card/cgh-barbara-dieu.jpg");
 }
+.card.chs {
+  background-image: url("images/card/chs-scpetrel.jpg");
+}
 .card.cid {
   background-image: url("images/card/cid-carole.jpg");
 }
@@ -701,6 +710,9 @@ header input:focus {
 }
 .card.day {
   background-image: url("images/card/day-redlegsfan21.jpg");
+}
+.card.dca {
+  background-image: url("images/card/dca-thisisbossi.jpg");
 }
 .card.den {
   background-image: url("images/card/den-bart-heird.jpg");
@@ -723,6 +735,12 @@ header input:focus {
 .card.fca {
   background-image: url("images/card/fca-theilr.jpg");
 }
+.card.fsd {
+  background-image: url("images/card/fsd-donna.jpg");
+}
+.card.geg {
+  background-image: url("images/card/geg-chris-saulit.jpg");
+}
 .card.gig {
   background-image: url("images/card/gig-veroyama.jpg");
 }
@@ -740,6 +758,9 @@ header input:focus {
 }
 .card.hnl {
   background-image: url("images/card/hnl-brian-burger.jpg");
+}
+.card.hou {
+  background-image: url("images/card/hou-ryan-basilio.jpg");
 }
 .card.iad {
   background-image: url("images/card/iad-the-q-speaks.jpg");
@@ -789,6 +810,9 @@ header input:focus {
 .card.mdw {
   background-image: url("images/card/mdw-jackie-popp.jpg");
 }
+.card.mem {
+  background-image: url("images/card/mem-joseph.jpg");
+}
 .card.mht {
   background-image: url("images/card/mht-elizabeth-krumbach-joseph.jpg");
 }
@@ -813,6 +837,9 @@ header input:focus {
 .card.ord {
   background-image: url("images/card/ord-nick-harris.jpg");
 }
+.card.orf {
+  background-image: url("images/card/orf-stacey-huggins.jpg");
+}
 .card.pdx {
   background-image: url("images/card/pdx-pfly.jpg");
 }
@@ -827,6 +854,9 @@ header input:focus {
 }
 .card.pit {
   background-image: url("images/card/pit-john-marino.jpg");
+}
+.card.pvd {
+  background-image: url("images/card/pvd-marc-choquette.jpg");
 }
 .card.pwm {
   background-image: url("images/card/pwm-jimmy-emerson-dvm.jpg");
@@ -880,6 +910,9 @@ header input:focus {
   .detail.bdl {
     background-image: url("images/small/bdl-pixel.jpg");
   }
+  .detail.bna {
+    background-image: url("images/small/bna-shooting-chris.jpg");
+  }
   .detail.bog {
     background-image: url("images/small/bog-stephen-downes.jpg");
   }
@@ -891,6 +924,9 @@ header input:focus {
   }
   .detail.bos {
     background-image: url("images/small/bos-andrew-malone.jpg");
+  }
+  .detail.btv {
+    background-image: url("images/small/btv-neil-hunt.jpg");
   }
   .detail.buf {
     background-image: url("images/small/buf-julien-bowry.jpg");
@@ -910,6 +946,9 @@ header input:focus {
   .detail.cgh {
     background-image: url("images/small/cgh-barbara-dieu.jpg");
   }
+  .detail.chs {
+    background-image: url("images/small/chs-scpetrel.jpg");
+  }
   .detail.cid {
     background-image: url("images/small/cid-carole.jpg");
   }
@@ -927,6 +966,9 @@ header input:focus {
   }
   .detail.day {
     background-image: url("images/small/day-redlegsfan21.jpg");
+  }
+  .detail.dca {
+    background-image: url("images/small/dca-thisisbossi.jpg");
   }
   .detail.den {
     background-image: url("images/small/den-bart-heird.jpg");
@@ -949,6 +991,12 @@ header input:focus {
   .detail.fca {
     background-image: url("images/small/fca-theilr.jpg");
   }
+  .detail.fsd {
+    background-image: url("images/small/fsd-donna.jpg");
+  }
+  .detail.geg {
+    background-image: url("images/small/geg-chris-saulit.jpg");
+  }
   .detail.gig {
     background-image: url("images/small/gig-veroyama.jpg");
   }
@@ -966,6 +1014,9 @@ header input:focus {
   }
   .detail.hnl {
     background-image: url("images/small/hnl-brian-burger.jpg");
+  }
+  .detail.hou {
+    background-image: url("images/small/hou-ryan-basilio.jpg");
   }
   .detail.iad {
     background-image: url("images/small/iad-the-q-speaks.jpg");
@@ -1015,6 +1066,9 @@ header input:focus {
   .detail.mdw {
     background-image: url("images/small/mdw-jackie-popp.jpg");
   }
+  .detail.mem {
+    background-image: url("images/small/mem-joseph.jpg");
+  }
   .detail.mht {
     background-image: url("images/small/mht-elizabeth-krumbach-joseph.jpg");
   }
@@ -1039,6 +1093,9 @@ header input:focus {
   .detail.ord {
     background-image: url("images/small/ord-nick-harris.jpg");
   }
+  .detail.orf {
+    background-image: url("images/small/orf-stacey-huggins.jpg");
+  }
   .detail.pdx {
     background-image: url("images/small/pdx-pfly.jpg");
   }
@@ -1053,6 +1110,9 @@ header input:focus {
   }
   .detail.pit {
     background-image: url("images/small/pit-john-marino.jpg");
+  }
+  .detail.pvd {
+    background-image: url("images/small/pvd-marc-choquette.jpg");
   }
   .detail.pwm {
     background-image: url("images/small/pwm-jimmy-emerson-dvm.jpg");
@@ -1107,6 +1167,9 @@ header input:focus {
   .detail.bhm {
     background-image: url("images/medium/bhm-martin-hartland.jpg");
   }
+  .detail.bna {
+    background-image: url("images/medium/bna-shooting-chris.jpg");
+  }
   .detail.bog {
     background-image: url("images/medium/bog-stephen-downes.jpg");
   }
@@ -1118,6 +1181,9 @@ header input:focus {
   }
   .detail.bos {
     background-image: url("images/medium/bos-andrew-malone.jpg");
+  }
+  .detail.btv {
+    background-image: url("images/medium/btv-neil-hunt.jpg");
   }
   .detail.buf {
     background-image: url("images/medium/buf-julien-bowry.jpg");
@@ -1137,6 +1203,9 @@ header input:focus {
   .detail.cgh {
     background-image: url("images/medium/cgh-barbara-dieu.jpg");
   }
+  .detail.chs {
+    background-image: url("images/medium/chs-scpetrel.jpg");
+  }
   .detail.cid {
     background-image: url("images/medium/cid-carole.jpg");
   }
@@ -1154,6 +1223,9 @@ header input:focus {
   }
   .detail.day {
     background-image: url("images/medium/day-redlegsfan21.jpg");
+  }
+  .detail.dca {
+    background-image: url("images/medium/dca-thisisbossi.jpg");
   }
   .detail.den {
     background-image: url("images/medium/den-bart-heird.jpg");
@@ -1176,6 +1248,12 @@ header input:focus {
   .detail.fca {
     background-image: url("images/medium/fca-theilr.jpg");
   }
+  .detail.fsd {
+    background-image: url("images/medium/fsd-donna.jpg");
+  }
+  .detail.geg {
+    background-image: url("images/medium/geg-chris-saulit.jpg");
+  }
   .detail.gig {
     background-image: url("images/medium/gig-veroyama.jpg");
   }
@@ -1193,6 +1271,9 @@ header input:focus {
   }
   .detail.hnl {
     background-image: url("images/medium/hnl-brian-burger.jpg");
+  }
+  .detail.hou {
+    background-image: url("images/medium/hou-ryan-basilio.jpg");
   }
   .detail.iad {
     background-image: url("images/medium/iad-the-q-speaks.jpg");
@@ -1242,6 +1323,9 @@ header input:focus {
   .detail.mdw {
     background-image: url("images/medium/mdw-jackie-popp.jpg");
   }
+  .detail.mem {
+    background-image: url("images/medium/mem-joseph.jpg");
+  }
   .detail.mht {
     background-image: url("images/medium/mht-elizabeth-krumbach-joseph.jpg");
   }
@@ -1266,6 +1350,9 @@ header input:focus {
   .detail.ord {
     background-image: url("images/medium/ord-nick-harris.jpg");
   }
+  .detail.orf {
+    background-image: url("images/medium/orf-stacey-huggins.jpg");
+  }
   .detail.pdx {
     background-image: url("images/medium/pdx-pfly.jpg");
   }
@@ -1280,6 +1367,9 @@ header input:focus {
   }
   .detail.pit {
     background-image: url("images/medium/pit-john-marino.jpg");
+  }
+  .detail.pvd {
+    background-image: url("images/medium/pvd-marc-choquette.jpg");
   }
   .detail.pwm {
     background-image: url("images/medium/pwm-jimmy-emerson-dvm.jpg");
@@ -1334,6 +1424,9 @@ header input:focus {
   .detail.bhm {
     background-image: url("images/large/bhm-martin-hartland.jpg");
   }
+  .detail.bna {
+    background-image: url("images/large/bna-shooting-chris.jpg");
+  }
   .detail.bog {
     background-image: url("images/large/bog-stephen-downes.jpg");
   }
@@ -1345,6 +1438,9 @@ header input:focus {
   }
   .detail.bos {
     background-image: url("images/large/bos-andrew-malone.jpg");
+  }
+  .detail.btv {
+    background-image: url("images/large/btv-neil-hunt.jpg");
   }
   .detail.buf {
     background-image: url("images/large/buf-julien-bowry.jpg");
@@ -1364,6 +1460,9 @@ header input:focus {
   .detail.cgh {
     background-image: url("images/large/cgh-barbara-dieu.jpg");
   }
+  .detail.chs {
+    background-image: url("images/large/chs-scpetrel.jpg");
+  }
   .detail.cid {
     background-image: url("images/large/cid-carole.jpg");
   }
@@ -1381,6 +1480,9 @@ header input:focus {
   }
   .detail.day {
     background-image: url("images/large/day-redlegsfan21.jpg");
+  }
+  .detail.dca {
+    background-image: url("images/large/dca-thisisbossi.jpg");
   }
   .detail.den {
     background-image: url("images/large/den-bart-heird.jpg");
@@ -1403,6 +1505,12 @@ header input:focus {
   .detail.fca {
     background-image: url("images/large/fca-theilr.jpg");
   }
+  .detail.fsd {
+    background-image: url("images/large/fsd-donna.jpg");
+  }
+  .detail.geg {
+    background-image: url("images/large/geg-chris-saulit.jpg");
+  }
   .detail.gig {
     background-image: url("images/large/gig-veroyama.jpg");
   }
@@ -1420,6 +1528,9 @@ header input:focus {
   }
   .detail.hnl {
     background-image: url("images/large/hnl-brian-burger.jpg");
+  }
+  .detail.hou {
+    background-image: url("images/large/hou-ryan-basilio.jpg");
   }
   .detail.iad {
     background-image: url("images/large/iad-the-q-speaks.jpg");
@@ -1469,6 +1580,9 @@ header input:focus {
   .detail.mdw {
     background-image: url("images/large/mdw-jackie-popp.jpg");
   }
+  .detail.mem {
+    background-image: url("images/large/mem-joseph.jpg");
+  }
   .detail.mht {
     background-image: url("images/large/mht-elizabeth-krumbach-joseph.jpg");
   }
@@ -1493,6 +1607,9 @@ header input:focus {
   .detail.ord {
     background-image: url("images/large/ord-nick-harris.jpg");
   }
+  .detail.orf {
+    background-image: url("images/large/orf-stacey-huggins.jpg");
+  }
   .detail.pdx {
     background-image: url("images/large/pdx-pfly.jpg");
   }
@@ -1507,6 +1624,9 @@ header input:focus {
   }
   .detail.pit {
     background-image: url("images/large/pit-john-marino.jpg");
+  }
+  .detail.pvd {
+    background-image: url("images/large/pvd-marc-choquette.jpg");
   }
   .detail.pwm {
     background-image: url("images/large/pwm-jimmy-emerson-dvm.jpg");
