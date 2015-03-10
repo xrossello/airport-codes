@@ -7,10 +7,22 @@
   top: 0
   left: 0
   z-index: 2
+  visbility: visible
+  opacity: 1
   background: $grey-drk no-repeat 50% 50%
   background-size: cover
   text-align: center
   {fadeIn}
+  -webkit-transition: opacity .2s ease-out, visibility .2s ease-out
+  -moz-transition: opacity .2s ease-out, visibility .2s ease-out
+  transition: opacity .2s ease-out, visibility .2s ease-out
+
+  &.hidden
+    visibility: hidden
+    opacity: 0
+    -webkit-transition-delay: 0s
+    -moz-transition-delay: 0s
+    transition-delay: 0s
 
 .detail
 
