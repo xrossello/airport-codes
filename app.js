@@ -41,6 +41,20 @@ module.exports={
     "imageCredit": "David Basanta",
     "imageCreditLink": "https://www.flickr.com/photos/dbasanta/"
 }
+},{}],"/Users/lfisher/git/airport-codes/data/akl.json":[function(require,module,exports){
+module.exports={
+    "id": "akl",
+    "code": "akl",
+    "name": "Auckland Airport",
+    "city": "Aukland",
+    "cidy2": "Mangere",
+    "state": "",
+    "stateShort": "",
+    "country": "New Zealand",
+    "description": "Once the site for the Mangere Aerodrome, New Zealand’s busiest airport is located in Mangere, a suburb of *A*u*kl*and.",
+    "imageCredit": "Kathrin & Stefan Marks",
+    "imageCreditLink": "https://www.flickr.com/photos/ks_marks/"
+}
 },{}],"/Users/lfisher/git/airport-codes/data/ams.json":[function(require,module,exports){
 module.exports={
     "id": "ams",
@@ -862,6 +876,7 @@ module.exports={
 module.exports = {
   airports: [
     require('./abq.json'),
+    require('./akl.json'),
     require('./ams.json'),
     require('./anc.json'),
     require('./arn.json'),
@@ -937,6 +952,7 @@ module.exports = {
     require('./mdt.json'),
     require('./mdw.json'),
     require('./mem.json'),
+    require('./mex.json'),
     require('./mht.json'),
     require('./mia.json'),
     require('./mke.json'),
@@ -967,6 +983,8 @@ module.exports = {
     require('./sfo.json'),
     require('./smf.json'),
     require('./stl.json'),
+    require('./sux.json'),
+    require('./syd.json'),
     require('./szg.json'),
     require('./tbs.json'),
     require('./tia.json'),
@@ -978,7 +996,7 @@ module.exports = {
     require('./zrh.json')
   ]
 };
-},{"./abq.json":"/Users/lfisher/git/airport-codes/data/abq.json","./ams.json":"/Users/lfisher/git/airport-codes/data/ams.json","./anc.json":"/Users/lfisher/git/airport-codes/data/anc.json","./arn.json":"/Users/lfisher/git/airport-codes/data/arn.json","./atl.json":"/Users/lfisher/git/airport-codes/data/atl.json","./aus.json":"/Users/lfisher/git/airport-codes/data/aus.json","./bdl.json":"/Users/lfisher/git/airport-codes/data/bdl.json","./bhm.json":"/Users/lfisher/git/airport-codes/data/bhm.json","./bna.json":"/Users/lfisher/git/airport-codes/data/bna.json","./bog.json":"/Users/lfisher/git/airport-codes/data/bog.json","./boi.json":"/Users/lfisher/git/airport-codes/data/boi.json","./bom.json":"/Users/lfisher/git/airport-codes/data/bom.json","./bos.json":"/Users/lfisher/git/airport-codes/data/bos.json","./bru.json":"/Users/lfisher/git/airport-codes/data/bru.json","./btv.json":"/Users/lfisher/git/airport-codes/data/btv.json","./bud.json":"/Users/lfisher/git/airport-codes/data/bud.json","./buf.json":"/Users/lfisher/git/airport-codes/data/buf.json","./bwi.json":"/Users/lfisher/git/airport-codes/data/bwi.json","./bzn.json":"/Users/lfisher/git/airport-codes/data/bzn.json","./ccs.json":"/Users/lfisher/git/airport-codes/data/ccs.json","./cdg.json":"/Users/lfisher/git/airport-codes/data/cdg.json","./cgh.json":"/Users/lfisher/git/airport-codes/data/cgh.json","./chs.json":"/Users/lfisher/git/airport-codes/data/chs.json","./cid.json":"/Users/lfisher/git/airport-codes/data/cid.json","./cle.json":"/Users/lfisher/git/airport-codes/data/cle.json","./clt.json":"/Users/lfisher/git/airport-codes/data/clt.json","./cmh.json":"/Users/lfisher/git/airport-codes/data/cmh.json","./cph.json":"/Users/lfisher/git/airport-codes/data/cph.json","./crw.json":"/Users/lfisher/git/airport-codes/data/crw.json","./cvg.json":"/Users/lfisher/git/airport-codes/data/cvg.json","./day.json":"/Users/lfisher/git/airport-codes/data/day.json","./dca.json":"/Users/lfisher/git/airport-codes/data/dca.json","./den.json":"/Users/lfisher/git/airport-codes/data/den.json","./dfw.json":"/Users/lfisher/git/airport-codes/data/dfw.json","./dtw.json":"/Users/lfisher/git/airport-codes/data/dtw.json","./dub.json":"/Users/lfisher/git/airport-codes/data/dub.json","./dus.json":"/Users/lfisher/git/airport-codes/data/dus.json","./dxb.json":"/Users/lfisher/git/airport-codes/data/dxb.json","./evn.json":"/Users/lfisher/git/airport-codes/data/evn.json","./ewr.json":"/Users/lfisher/git/airport-codes/data/ewr.json","./eze.json":"/Users/lfisher/git/airport-codes/data/eze.json","./fca.json":"/Users/lfisher/git/airport-codes/data/fca.json","./fco.json":"/Users/lfisher/git/airport-codes/data/fco.json","./fra.json":"/Users/lfisher/git/airport-codes/data/fra.json","./fsd.json":"/Users/lfisher/git/airport-codes/data/fsd.json","./geg.json":"/Users/lfisher/git/airport-codes/data/geg.json","./gig.json":"/Users/lfisher/git/airport-codes/data/gig.json","./grr.json":"/Users/lfisher/git/airport-codes/data/grr.json","./gru.json":"/Users/lfisher/git/airport-codes/data/gru.json","./gyd.json":"/Users/lfisher/git/airport-codes/data/gyd.json","./hel.json":"/Users/lfisher/git/airport-codes/data/hel.json","./hkg.json":"/Users/lfisher/git/airport-codes/data/hkg.json","./hnd.json":"/Users/lfisher/git/airport-codes/data/hnd.json","./hnl.json":"/Users/lfisher/git/airport-codes/data/hnl.json","./hou.json":"/Users/lfisher/git/airport-codes/data/hou.json","./iad.json":"/Users/lfisher/git/airport-codes/data/iad.json","./iah.json":"/Users/lfisher/git/airport-codes/data/iah.json","./icn.json":"/Users/lfisher/git/airport-codes/data/icn.json","./ict.json":"/Users/lfisher/git/airport-codes/data/ict.json","./ind.json":"/Users/lfisher/git/airport-codes/data/ind.json","./ist.json":"/Users/lfisher/git/airport-codes/data/ist.json","./jac.json":"/Users/lfisher/git/airport-codes/data/jac.json","./jfk.json":"/Users/lfisher/git/airport-codes/data/jfk.json","./las.json":"/Users/lfisher/git/airport-codes/data/las.json","./lax.json":"/Users/lfisher/git/airport-codes/data/lax.json","./lga.json":"/Users/lfisher/git/airport-codes/data/lga.json","./lhr.json":"/Users/lfisher/git/airport-codes/data/lhr.json","./lim.json":"/Users/lfisher/git/airport-codes/data/lim.json","./lis.json":"/Users/lfisher/git/airport-codes/data/lis.json","./lit.json":"/Users/lfisher/git/airport-codes/data/lit.json","./mad.json":"/Users/lfisher/git/airport-codes/data/mad.json","./mci.json":"/Users/lfisher/git/airport-codes/data/mci.json","./mco.json":"/Users/lfisher/git/airport-codes/data/mco.json","./mdt.json":"/Users/lfisher/git/airport-codes/data/mdt.json","./mdw.json":"/Users/lfisher/git/airport-codes/data/mdw.json","./mem.json":"/Users/lfisher/git/airport-codes/data/mem.json","./mht.json":"/Users/lfisher/git/airport-codes/data/mht.json","./mia.json":"/Users/lfisher/git/airport-codes/data/mia.json","./mke.json":"/Users/lfisher/git/airport-codes/data/mke.json","./msp.json":"/Users/lfisher/git/airport-codes/data/msp.json","./msy.json":"/Users/lfisher/git/airport-codes/data/msy.json","./muc.json":"/Users/lfisher/git/airport-codes/data/muc.json","./nce.json":"/Users/lfisher/git/airport-codes/data/nce.json","./ogg.json":"/Users/lfisher/git/airport-codes/data/ogg.json","./okc.json":"/Users/lfisher/git/airport-codes/data/okc.json","./oma.json":"/Users/lfisher/git/airport-codes/data/oma.json","./ord.json":"/Users/lfisher/git/airport-codes/data/ord.json","./orf.json":"/Users/lfisher/git/airport-codes/data/orf.json","./ory.json":"/Users/lfisher/git/airport-codes/data/ory.json","./osl.json":"/Users/lfisher/git/airport-codes/data/osl.json","./pdx.json":"/Users/lfisher/git/airport-codes/data/pdx.json","./pek.json":"/Users/lfisher/git/airport-codes/data/pek.json","./phl.json":"/Users/lfisher/git/airport-codes/data/phl.json","./phx.json":"/Users/lfisher/git/airport-codes/data/phx.json","./pit.json":"/Users/lfisher/git/airport-codes/data/pit.json","./prg.json":"/Users/lfisher/git/airport-codes/data/prg.json","./pvd.json":"/Users/lfisher/git/airport-codes/data/pvd.json","./pwm.json":"/Users/lfisher/git/airport-codes/data/pwm.json","./rdu.json":"/Users/lfisher/git/airport-codes/data/rdu.json","./rsw.json":"/Users/lfisher/git/airport-codes/data/rsw.json","./scl.json":"/Users/lfisher/git/airport-codes/data/scl.json","./sdf.json":"/Users/lfisher/git/airport-codes/data/sdf.json","./sea.json":"/Users/lfisher/git/airport-codes/data/sea.json","./sfo.json":"/Users/lfisher/git/airport-codes/data/sfo.json","./smf.json":"/Users/lfisher/git/airport-codes/data/smf.json","./stl.json":"/Users/lfisher/git/airport-codes/data/stl.json","./szg.json":"/Users/lfisher/git/airport-codes/data/szg.json","./tbs.json":"/Users/lfisher/git/airport-codes/data/tbs.json","./tia.json":"/Users/lfisher/git/airport-codes/data/tia.json","./tll.json":"/Users/lfisher/git/airport-codes/data/tll.json","./vie.json":"/Users/lfisher/git/airport-codes/data/vie.json","./waw.json":"/Users/lfisher/git/airport-codes/data/waw.json","./yvr.json":"/Users/lfisher/git/airport-codes/data/yvr.json","./yyz.json":"/Users/lfisher/git/airport-codes/data/yyz.json","./zrh.json":"/Users/lfisher/git/airport-codes/data/zrh.json"}],"/Users/lfisher/git/airport-codes/data/ist.json":[function(require,module,exports){
+},{"./abq.json":"/Users/lfisher/git/airport-codes/data/abq.json","./akl.json":"/Users/lfisher/git/airport-codes/data/akl.json","./ams.json":"/Users/lfisher/git/airport-codes/data/ams.json","./anc.json":"/Users/lfisher/git/airport-codes/data/anc.json","./arn.json":"/Users/lfisher/git/airport-codes/data/arn.json","./atl.json":"/Users/lfisher/git/airport-codes/data/atl.json","./aus.json":"/Users/lfisher/git/airport-codes/data/aus.json","./bdl.json":"/Users/lfisher/git/airport-codes/data/bdl.json","./bhm.json":"/Users/lfisher/git/airport-codes/data/bhm.json","./bna.json":"/Users/lfisher/git/airport-codes/data/bna.json","./bog.json":"/Users/lfisher/git/airport-codes/data/bog.json","./boi.json":"/Users/lfisher/git/airport-codes/data/boi.json","./bom.json":"/Users/lfisher/git/airport-codes/data/bom.json","./bos.json":"/Users/lfisher/git/airport-codes/data/bos.json","./bru.json":"/Users/lfisher/git/airport-codes/data/bru.json","./btv.json":"/Users/lfisher/git/airport-codes/data/btv.json","./bud.json":"/Users/lfisher/git/airport-codes/data/bud.json","./buf.json":"/Users/lfisher/git/airport-codes/data/buf.json","./bwi.json":"/Users/lfisher/git/airport-codes/data/bwi.json","./bzn.json":"/Users/lfisher/git/airport-codes/data/bzn.json","./ccs.json":"/Users/lfisher/git/airport-codes/data/ccs.json","./cdg.json":"/Users/lfisher/git/airport-codes/data/cdg.json","./cgh.json":"/Users/lfisher/git/airport-codes/data/cgh.json","./chs.json":"/Users/lfisher/git/airport-codes/data/chs.json","./cid.json":"/Users/lfisher/git/airport-codes/data/cid.json","./cle.json":"/Users/lfisher/git/airport-codes/data/cle.json","./clt.json":"/Users/lfisher/git/airport-codes/data/clt.json","./cmh.json":"/Users/lfisher/git/airport-codes/data/cmh.json","./cph.json":"/Users/lfisher/git/airport-codes/data/cph.json","./crw.json":"/Users/lfisher/git/airport-codes/data/crw.json","./cvg.json":"/Users/lfisher/git/airport-codes/data/cvg.json","./day.json":"/Users/lfisher/git/airport-codes/data/day.json","./dca.json":"/Users/lfisher/git/airport-codes/data/dca.json","./den.json":"/Users/lfisher/git/airport-codes/data/den.json","./dfw.json":"/Users/lfisher/git/airport-codes/data/dfw.json","./dtw.json":"/Users/lfisher/git/airport-codes/data/dtw.json","./dub.json":"/Users/lfisher/git/airport-codes/data/dub.json","./dus.json":"/Users/lfisher/git/airport-codes/data/dus.json","./dxb.json":"/Users/lfisher/git/airport-codes/data/dxb.json","./evn.json":"/Users/lfisher/git/airport-codes/data/evn.json","./ewr.json":"/Users/lfisher/git/airport-codes/data/ewr.json","./eze.json":"/Users/lfisher/git/airport-codes/data/eze.json","./fca.json":"/Users/lfisher/git/airport-codes/data/fca.json","./fco.json":"/Users/lfisher/git/airport-codes/data/fco.json","./fra.json":"/Users/lfisher/git/airport-codes/data/fra.json","./fsd.json":"/Users/lfisher/git/airport-codes/data/fsd.json","./geg.json":"/Users/lfisher/git/airport-codes/data/geg.json","./gig.json":"/Users/lfisher/git/airport-codes/data/gig.json","./grr.json":"/Users/lfisher/git/airport-codes/data/grr.json","./gru.json":"/Users/lfisher/git/airport-codes/data/gru.json","./gyd.json":"/Users/lfisher/git/airport-codes/data/gyd.json","./hel.json":"/Users/lfisher/git/airport-codes/data/hel.json","./hkg.json":"/Users/lfisher/git/airport-codes/data/hkg.json","./hnd.json":"/Users/lfisher/git/airport-codes/data/hnd.json","./hnl.json":"/Users/lfisher/git/airport-codes/data/hnl.json","./hou.json":"/Users/lfisher/git/airport-codes/data/hou.json","./iad.json":"/Users/lfisher/git/airport-codes/data/iad.json","./iah.json":"/Users/lfisher/git/airport-codes/data/iah.json","./icn.json":"/Users/lfisher/git/airport-codes/data/icn.json","./ict.json":"/Users/lfisher/git/airport-codes/data/ict.json","./ind.json":"/Users/lfisher/git/airport-codes/data/ind.json","./ist.json":"/Users/lfisher/git/airport-codes/data/ist.json","./jac.json":"/Users/lfisher/git/airport-codes/data/jac.json","./jfk.json":"/Users/lfisher/git/airport-codes/data/jfk.json","./las.json":"/Users/lfisher/git/airport-codes/data/las.json","./lax.json":"/Users/lfisher/git/airport-codes/data/lax.json","./lga.json":"/Users/lfisher/git/airport-codes/data/lga.json","./lhr.json":"/Users/lfisher/git/airport-codes/data/lhr.json","./lim.json":"/Users/lfisher/git/airport-codes/data/lim.json","./lis.json":"/Users/lfisher/git/airport-codes/data/lis.json","./lit.json":"/Users/lfisher/git/airport-codes/data/lit.json","./mad.json":"/Users/lfisher/git/airport-codes/data/mad.json","./mci.json":"/Users/lfisher/git/airport-codes/data/mci.json","./mco.json":"/Users/lfisher/git/airport-codes/data/mco.json","./mdt.json":"/Users/lfisher/git/airport-codes/data/mdt.json","./mdw.json":"/Users/lfisher/git/airport-codes/data/mdw.json","./mem.json":"/Users/lfisher/git/airport-codes/data/mem.json","./mex.json":"/Users/lfisher/git/airport-codes/data/mex.json","./mht.json":"/Users/lfisher/git/airport-codes/data/mht.json","./mia.json":"/Users/lfisher/git/airport-codes/data/mia.json","./mke.json":"/Users/lfisher/git/airport-codes/data/mke.json","./msp.json":"/Users/lfisher/git/airport-codes/data/msp.json","./msy.json":"/Users/lfisher/git/airport-codes/data/msy.json","./muc.json":"/Users/lfisher/git/airport-codes/data/muc.json","./nce.json":"/Users/lfisher/git/airport-codes/data/nce.json","./ogg.json":"/Users/lfisher/git/airport-codes/data/ogg.json","./okc.json":"/Users/lfisher/git/airport-codes/data/okc.json","./oma.json":"/Users/lfisher/git/airport-codes/data/oma.json","./ord.json":"/Users/lfisher/git/airport-codes/data/ord.json","./orf.json":"/Users/lfisher/git/airport-codes/data/orf.json","./ory.json":"/Users/lfisher/git/airport-codes/data/ory.json","./osl.json":"/Users/lfisher/git/airport-codes/data/osl.json","./pdx.json":"/Users/lfisher/git/airport-codes/data/pdx.json","./pek.json":"/Users/lfisher/git/airport-codes/data/pek.json","./phl.json":"/Users/lfisher/git/airport-codes/data/phl.json","./phx.json":"/Users/lfisher/git/airport-codes/data/phx.json","./pit.json":"/Users/lfisher/git/airport-codes/data/pit.json","./prg.json":"/Users/lfisher/git/airport-codes/data/prg.json","./pvd.json":"/Users/lfisher/git/airport-codes/data/pvd.json","./pwm.json":"/Users/lfisher/git/airport-codes/data/pwm.json","./rdu.json":"/Users/lfisher/git/airport-codes/data/rdu.json","./rsw.json":"/Users/lfisher/git/airport-codes/data/rsw.json","./scl.json":"/Users/lfisher/git/airport-codes/data/scl.json","./sdf.json":"/Users/lfisher/git/airport-codes/data/sdf.json","./sea.json":"/Users/lfisher/git/airport-codes/data/sea.json","./sfo.json":"/Users/lfisher/git/airport-codes/data/sfo.json","./smf.json":"/Users/lfisher/git/airport-codes/data/smf.json","./stl.json":"/Users/lfisher/git/airport-codes/data/stl.json","./sux.json":"/Users/lfisher/git/airport-codes/data/sux.json","./syd.json":"/Users/lfisher/git/airport-codes/data/syd.json","./szg.json":"/Users/lfisher/git/airport-codes/data/szg.json","./tbs.json":"/Users/lfisher/git/airport-codes/data/tbs.json","./tia.json":"/Users/lfisher/git/airport-codes/data/tia.json","./tll.json":"/Users/lfisher/git/airport-codes/data/tll.json","./vie.json":"/Users/lfisher/git/airport-codes/data/vie.json","./waw.json":"/Users/lfisher/git/airport-codes/data/waw.json","./yvr.json":"/Users/lfisher/git/airport-codes/data/yvr.json","./yyz.json":"/Users/lfisher/git/airport-codes/data/yyz.json","./zrh.json":"/Users/lfisher/git/airport-codes/data/zrh.json"}],"/Users/lfisher/git/airport-codes/data/ist.json":[function(require,module,exports){
 module.exports={
     "id": "ist",
     "code": "ist",
@@ -1198,6 +1216,20 @@ module.exports={
     "description": "In 1969, Memphis Municipal Airport changed its name to “International”, presenting *Mem*phis as a hub for international travel and cargo.",
     "imageCredit": "Joseph",
     "imageCreditLink": "https://www.flickr.com/photos/josepha/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/mex.json":[function(require,module,exports){
+module.exports={
+    "id": "mex",
+    "code": "mex",
+    "name": "Aeropuerto Internacional Benito Juárez",
+    "nameEnglish": "Benito Juárez International Airport",
+    "city": "Mexico City",
+    "state": "",
+    "stateShort": "",
+    "country": "Mexico",
+    "description": "Once called Central Airport and most commonly referred to as *Mex*ico City International, Mexico’s busiest airport is named in honor of 19th century president, Benito Juárez.",
+    "imageCredit": "George Oates",
+    "imageCreditLink": "https://www.flickr.com/photos/george/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/mht.json":[function(require,module,exports){
 module.exports={
@@ -1613,6 +1645,32 @@ module.exports={
     "description": "Lambert-St. Louis International is named after Albert Bond Lambert, Olympic golfer and the first to receive a pilot's license in the city of *St*. *L*ouis.",
     "imageCredit": "Rich",
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/sux.json":[function(require,module,exports){
+module.exports={
+    "id": "sux",
+    "code": "sux",
+    "name": "Sioux Gateway Airport",
+    "city": "Sioux City",
+    "state": "Iowa",
+    "stateShort": "IA",
+    "country": "USA",
+    "description": "*S*io*ux* City petitioned twice to have its airport code SUX changed. With no great alternatives, they stuck with it and now use the slogan “Fly SUX.”",
+    "imageCredit": "David Mulder",
+    "imageCreditLink": "https://www.flickr.com/photos/113026679@N03/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/syd.json":[function(require,module,exports){
+module.exports={
+    "id": "syd",
+    "code": "syd",
+    "name": "Sydney (Kingsford Smith) Airport",
+    "city": "Sydney",
+    "state": "New South Wales",
+    "stateShort": "NSW",
+    "country": "Australia",
+    "description": "Kingsford Smith Airport is named in honor of Sir Charles Kingsford Smith, Australian aviator. Its airport code honors its home in *Syd*ney.",
+    "imageCredit": "Bobby Das",
+    "imageCreditLink": "https://www.flickr.com/photos/bobbydas/"
 }
 },{}],"/Users/lfisher/git/airport-codes/data/szg.json":[function(require,module,exports){
 module.exports={

@@ -123,6 +123,7 @@ header input:focus:hover{cursor:default}}
 @media (max-width:700px){.contribute{background-image:url(images/conair-small.jpg)}}
 @media (min-width:701px){.contribute{background-image:url(images/conair.jpg)}}
 .card.abq{background-image:url(images/card/abq-david-basanta.jpg)}
+.card.akl{background-image:url(images/card/akl-kathrin-stefan-marks.jpg)}
 .card.ams{background-image:url(images/card/ams-wayne-taylor.jpg)}
 .card.anc{background-image:url(images/card/anc-frank-kovalchek.jpg)}
 .card.arn{background-image:url(images/card/arn-samuel-bietenholz.jpg)}
@@ -198,6 +199,7 @@ header input:focus:hover{cursor:default}}
 .card.mdt{background-image:url(images/card/mdt-timothy-rezendes.jpg)}
 .card.mdw{background-image:url(images/card/mdw-jackie-popp.jpg)}
 .card.mem{background-image:url(images/card/mem-joseph.jpg)}
+.card.mex{background-image:url(images/card/mex-george-oates.jpg)}
 .card.mht{background-image:url(images/card/mht-elizabeth-krumbach-joseph.jpg)}
 .card.mia{background-image:url(images/card/mia-lotus-carroll.jpg)}
 .card.mke{background-image:url(images/card/mke-transguyjay.jpg)}
@@ -228,6 +230,8 @@ header input:focus:hover{cursor:default}}
 .card.sfo{background-image:url(images/card/sfo-richard-winchell.jpg)}
 .card.smf{background-image:url(images/card/smf-rich.jpg)}
 .card.stl{background-image:url(images/card/stl-rich.jpg)}
+.card.sux{background-image:url(images/card/sux-david-mulder.jpg)}
+.card.syd{background-image:url(images/card/syd-bobby-das.jpg)}
 .card.szg{background-image:url(images/card/szg-flightlog.jpg)}
 .card.tbs{background-image:url(images/card/tbs-james-emery.jpg)}
 .card.tia{background-image:url(images/card/tia-george-redgrave.jpg)}
@@ -238,6 +242,7 @@ header input:focus:hover{cursor:default}}
 .card.yyz{background-image:url(images/card/yyz-coralie-mercier.jpg)}
 .card.zrh{background-image:url(images/card/zrh-reto-fetz.jpg)}
 @media (max-width:700px){.detail.abq{background-image:url(images/small/abq-david-basanta.jpg)}
+.detail.akl{background-image:url(images/small/akl-kathrin-stefan-marks.jpg)}
 .detail.ams{background-image:url(images/small/ams-wayne-taylor.jpg)}
 .detail.anc{background-image:url(images/small/anc-frank-kovalchek.jpg)}
 .detail.arn{background-image:url(images/small/arn-samuel-bietenholz.jpg)}
@@ -313,6 +318,7 @@ header input:focus:hover{cursor:default}}
 .detail.mdt{background-image:url(images/small/mdt-timothy-rezendes.jpg)}
 .detail.mdw{background-image:url(images/small/mdw-jackie-popp.jpg)}
 .detail.mem{background-image:url(images/small/mem-joseph.jpg)}
+.detail.mex{background-image:url(images/small/mex-george-oates.jpg)}
 .detail.mht{background-image:url(images/small/mht-elizabeth-krumbach-joseph.jpg)}
 .detail.mia{background-image:url(images/small/mia-lotus-carroll.jpg)}
 .detail.mke{background-image:url(images/small/mke-transguyjay.jpg)}
@@ -343,6 +349,8 @@ header input:focus:hover{cursor:default}}
 .detail.sfo{background-image:url(images/small/sfo-richard-winchell.jpg)}
 .detail.smf{background-image:url(images/small/smf-rich.jpg)}
 .detail.stl{background-image:url(images/small/stl-rich.jpg)}
+.detail.sux{background-image:url(images/small/sux-david-mulder.jpg)}
+.detail.syd{background-image:url(images/small/syd-bobby-das.jpg)}
 .detail.szg{background-image:url(images/small/szg-flightlog.jpg)}
 .detail.tbs{background-image:url(images/small/tbs-james-emery.jpg)}
 .detail.tia{background-image:url(images/small/tia-george-redgrave.jpg)}
@@ -353,6 +361,7 @@ header input:focus:hover{cursor:default}}
 .detail.yyz{background-image:url(images/small/yyz-coralie-mercier.jpg)}
 .detail.zrh{background-image:url(images/small/zrh-reto-fetz.jpg)}}
 @media (min-width:701px)and (max-width:1500px){.detail.abq{background-image:url(images/medium/abq-david-basanta.jpg)}
+.detail.akl{background-image:url(images/medium/akl-kathrin-stefan-marks.jpg)}
 .detail.ams{background-image:url(images/medium/ams-wayne-taylor.jpg)}
 .detail.anc{background-image:url(images/medium/anc-frank-kovalchek.jpg)}
 .detail.arn{background-image:url(images/medium/arn-samuel-bietenholz.jpg)}
@@ -428,6 +437,7 @@ header input:focus:hover{cursor:default}}
 .detail.mdt{background-image:url(images/medium/mdt-timothy-rezendes.jpg)}
 .detail.mdw{background-image:url(images/medium/mdw-jackie-popp.jpg)}
 .detail.mem{background-image:url(images/medium/mem-joseph.jpg)}
+.detail.mex{background-image:url(images/medium/mex-george-oates.jpg)}
 .detail.mht{background-image:url(images/medium/mht-elizabeth-krumbach-joseph.jpg)}
 .detail.mia{background-image:url(images/medium/mia-lotus-carroll.jpg)}
 .detail.mke{background-image:url(images/medium/mke-transguyjay.jpg)}
@@ -458,6 +468,8 @@ header input:focus:hover{cursor:default}}
 .detail.sfo{background-image:url(images/medium/sfo-richard-winchell.jpg)}
 .detail.smf{background-image:url(images/medium/smf-rich.jpg)}
 .detail.stl{background-image:url(images/medium/stl-rich.jpg)}
+.detail.sux{background-image:url(images/medium/sux-david-mulder.jpg)}
+.detail.syd{background-image:url(images/medium/syd-bobby-das.jpg)}
 .detail.szg{background-image:url(images/medium/szg-flightlog.jpg)}
 .detail.tbs{background-image:url(images/medium/tbs-james-emery.jpg)}
 .detail.tia{background-image:url(images/medium/tia-george-redgrave.jpg)}
@@ -468,6 +480,7 @@ header input:focus:hover{cursor:default}}
 .detail.yyz{background-image:url(images/medium/yyz-coralie-mercier.jpg)}
 .detail.zrh{background-image:url(images/medium/zrh-reto-fetz.jpg)}}
 @media (min-width:1501px){.detail.abq{background-image:url(images/large/abq-david-basanta.jpg)}
+.detail.akl{background-image:url(images/large/akl-kathrin-stefan-marks.jpg)}
 .detail.ams{background-image:url(images/large/ams-wayne-taylor.jpg)}
 .detail.anc{background-image:url(images/large/anc-frank-kovalchek.jpg)}
 .detail.arn{background-image:url(images/large/arn-samuel-bietenholz.jpg)}
@@ -543,6 +556,7 @@ header input:focus:hover{cursor:default}}
 .detail.mdt{background-image:url(images/large/mdt-timothy-rezendes.jpg)}
 .detail.mdw{background-image:url(images/large/mdw-jackie-popp.jpg)}
 .detail.mem{background-image:url(images/large/mem-joseph.jpg)}
+.detail.mex{background-image:url(images/large/mex-george-oates.jpg)}
 .detail.mht{background-image:url(images/large/mht-elizabeth-krumbach-joseph.jpg)}
 .detail.mia{background-image:url(images/large/mia-lotus-carroll.jpg)}
 .detail.mke{background-image:url(images/large/mke-transguyjay.jpg)}
@@ -573,6 +587,8 @@ header input:focus:hover{cursor:default}}
 .detail.sfo{background-image:url(images/large/sfo-richard-winchell.jpg)}
 .detail.smf{background-image:url(images/large/smf-rich.jpg)}
 .detail.stl{background-image:url(images/large/stl-rich.jpg)}
+.detail.sux{background-image:url(images/large/sux-david-mulder.jpg)}
+.detail.syd{background-image:url(images/large/syd-bobby-das.jpg)}
 .detail.szg{background-image:url(images/large/szg-flightlog.jpg)}
 .detail.tbs{background-image:url(images/large/tbs-james-emery.jpg)}
 .detail.tia{background-image:url(images/large/tia-george-redgrave.jpg)}
