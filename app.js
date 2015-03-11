@@ -270,14 +270,15 @@ module.exports={
     "name": "Buffalo Niagara International Airport",
     "city": "Buffalo",
     "city2": "Cheektowaga",
-    "city3": "Niagra Falls",
+    "city3": "Niagara Falls",
     "state": "New York",
     "stateShort": "NY",
     "country": "USA",
-    "description": "Opened in 1926 as Buffalo Municipal, *Buf*falo Niagra International was rebuilt and renamed in 1997 to honor the oft-visited Niagra Falls.",
+    "description": "Opened in 1926 as Buffalo Municipal, *Buf*falo Niagara International was rebuilt and renamed in 1997 to honor the oft-visited Niagara Falls.",
     "imageCredit": "Julien Bowry",
     "imageCreditLink": "https://www.flickr.com/photos/jjbowry_blogspot_com/"
 }
+
 },{}],"/Users/lfisher/git/airport-codes/data/bwi.json":[function(require,module,exports){
 module.exports={
     "id": "bwi",
