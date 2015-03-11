@@ -16809,6 +16809,7 @@ var Router = Backbone.Router.extend({
 
     this._aboutView.show();
 
+    this._hideContribute();
     this._hideAirports();
     Backbone.$('body').addClass('detail-open');
   },
@@ -17003,6 +17004,7 @@ module.exports = AirportDetailView;
 },{"./SocialView":"/Users/lfisher/git/airport-codes/src/views/SocialView.js","./templates/AirportDetailView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AirportDetailView.jade","_process":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/process/browser.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportListView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var AirportView = require('./AirportView');
+var ContributeItemView = require('./ContributeItemView');
 
 var AirportListView = Backbone.View.extend({
 
@@ -17018,6 +17020,9 @@ var AirportListView = Backbone.View.extend({
     var views = this.renderAirports();
     this.$el.html('');
     this.$el.append(views);
+
+    var contributeItemView = new ContributeItemView();
+    this.$el.append(contributeItemView.render().el);
     return this;
   },
 
@@ -17038,9 +17043,8 @@ var AirportListView = Backbone.View.extend({
 });
 
 module.exports = AirportListView;
-},{"./AirportView":"/Users/lfisher/git/airport-codes/src/views/AirportView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportView.js":[function(require,module,exports){
+},{"./AirportView":"/Users/lfisher/git/airport-codes/src/views/AirportView.js","./ContributeItemView":"/Users/lfisher/git/airport-codes/src/views/ContributeItemView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportView.js":[function(require,module,exports){
 var Backbone = require('backbone');
-var AirportDetailView = require('./AirportDetailView');
 var template = require('./templates/AirportView.jade');
 
 var AirportView = Backbone.View.extend({
@@ -17079,7 +17083,7 @@ var AirportView = Backbone.View.extend({
 });
 
 module.exports = AirportView;
-},{"./AirportDetailView":"/Users/lfisher/git/airport-codes/src/views/AirportDetailView.js","./templates/AirportView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AirportView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AppView.js":[function(require,module,exports){
+},{"./templates/AirportView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AirportView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AppView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var SearchView = require('./SearchView');
 var AirportListView = require('./AirportListView');
@@ -17109,7 +17113,24 @@ var AppView = Backbone.View.extend({
 });
 
 module.exports = AppView;
-},{"./AirportListView":"/Users/lfisher/git/airport-codes/src/views/AirportListView.js","./SearchView":"/Users/lfisher/git/airport-codes/src/views/SearchView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/ContributeView.js":[function(require,module,exports){
+},{"./AirportListView":"/Users/lfisher/git/airport-codes/src/views/AirportListView.js","./SearchView":"/Users/lfisher/git/airport-codes/src/views/SearchView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/ContributeItemView.js":[function(require,module,exports){
+var Backbone = require('backbone');
+var template = require('./templates/ContributeItemView.jade');
+
+var ContributeItemView = Backbone.View.extend({
+
+  tagName: 'li',
+  className: 'card card-contribute',
+
+  render: function() {
+    this.$el.html(template());
+    return this;
+  }
+
+});
+
+module.exports = ContributeItemView;
+},{"./templates/ContributeItemView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/ContributeItemView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/ContributeView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/ContributeView.jade');
 
@@ -17259,6 +17280,16 @@ var jade_mixins = {};
 var jade_interp;
 ;var locals_for_with = (locals || {});(function (code) {
 buf.push("<a" + (jade.attr("href", "#airport/"+code, true, false)) + ">" + (jade.escape(null == (jade_interp = code) ? "" : jade_interp)) + "</a>");}.call(this,"code" in locals_for_with?locals_for_with.code:typeof code!=="undefined"?code:undefined));;return buf.join("");
+};
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/ContributeItemView.jade":[function(require,module,exports){
+var jade = require("jade/runtime");
+
+module.exports = function template(locals) {
+var buf = [];
+var jade_mixins = {};
+var jade_interp;
+
+buf.push("<a href=\"#contribute\"><span class=\"placeholder\">New</span><span class=\"card-contribute-content\">Contribute an airport</span></a>");;return buf.join("");
 };
 },{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/ContributeView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
