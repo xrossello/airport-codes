@@ -65,14 +65,13 @@ header input:focus:hover{cursor:default}}
 .card-contribute{position:relative}
 .card-contribute .card-contribute-content{width:80%;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}
 .card-contribute .card-contribute-content:after{position:absolute;left:50%;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);transform:translateX(-50%);bottom:0;background:rgba(255,255,255,.5);border-radius:50%;content:'+';color:#fff;text-align:center;text-shadow:none;-webkit-transition:all .2s ease-in;-moz-transition:all .2s ease-in;transition:all .2s ease-in}
-.detail,.site-info{-moz-transition:opacity .2s ease-out,visibility .2s ease-out;-webkit-transition:opacity .2s ease-out,visibility .2s ease-out}
 .card-contribute:hover .card-contribute-content:after{background:#40bae2}
 @media (max-width:400px){.card a{padding:50px 20px;font-size:46px}
 .card-contribute .card-contribute-content{padding-bottom:50px;font-size:18px;line-height:22px}
 .card-contribute .card-contribute-content:after{width:40px;height:40px;padding:10px 0;font-size:40px}}
 @media (min-width:401px){.card-contribute .card-contribute-content{padding-bottom:60px;font-size:22px;line-height:28px}
 .card-contribute .card-contribute-content:after{width:50px;height:50px;padding:13px 0;font-size:50px}}
-.detail{width:100vw;height:100vh;position:fixed;top:0;left:0;z-index:2;visbility:visible;opacity:1;background:50% 50% no-repeat #444;background-size:cover;transition:opacity .2s ease-out,visibility .2s ease-out}
+.detail{width:100vw;height:100vh;position:fixed;top:0;left:0;z-index:2;visbility:visible;opacity:1;background:50% 50% no-repeat #444;background-size:cover;-webkit-transition:opacity .2s ease-out,visibility .2s ease-out;-moz-transition:opacity .2s ease-out,visibility .2s ease-out;transition:opacity .2s ease-out,visibility .2s ease-out}
 .detail.hidden{opacity:0;-webkit-transition-delay:0s;-moz-transition-delay:0s;transition-delay:0s}
 .detail h1{margin-bottom:20px;font-size:80px}
 .detail h2{margin-bottom:10px;font-size:20px;line-height:1.2}
@@ -83,7 +82,7 @@ header input:focus:hover{cursor:default}}
 .detail .btn{margin-top:40px}
 .detail .description em{display:inline;border-bottom:1px solid #fff;font-weight:700}
 .detail .social{margin:30px 5px 0;display:inline-block}
-.detail .social a{width:35px;height:25px;display:block;background:no-repeat;background-size:auto 25px;text-indent:-9999em}
+.detail .social a{width:35px;height:25px;display:block;background:no-repeat;background-size:auto 25px;text-indent:-9999em;-webkit-transition:none;-moz-transition:none;transition:none}
 .detail .social a.twitter{background-image:url(images/logo-twitter.svg)}
 .detail .social a.facebook{background-image:url(images/logo-facebook.svg)}
 .detail .social a:hover{opacity:.6}
@@ -101,7 +100,7 @@ header input:focus:hover{cursor:default}}
 .detail .container{padding:60px 15px 30px;overflow-y:auto}
 .detail .detail-info{min-height:320px;margin:0 auto;position:static;top:0;left:0;-webkit-transform:none;-moz-transform:none;transform:none}
 .detail .back,.detail .photo-credit{background:rgba(0,0,0,.6)}}
-.site-info{width:100vw;height:100vh;position:fixed;top:0;left:0;z-index:2;background:50% 50% no-repeat #444;background-size:cover;color:#fff;transition:opacity .2s ease-out,visibility .2s ease-out}
+.site-info{width:100vw;height:100vh;position:fixed;top:0;left:0;z-index:2;background:50% 50% no-repeat #444;background-size:cover;color:#fff;-webkit-transition:opacity .2s ease-out,visibility .2s ease-out;-moz-transition:opacity .2s ease-out,visibility .2s ease-out;transition:opacity .2s ease-out,visibility .2s ease-out}
 .site-info.hidden{opacity:0;-webkit-transition-delay:0s;-moz-transition-delay:0s;transition-delay:0s}
 .site-info:after{width:100%;height:50px;position:absolute;top:0;left:0;z-index:1;background:rgba(50,50,50,.8);content:''}
 .site-info .container{width:100%;height:100%;padding:30px 15px;overflow-y:auto}
