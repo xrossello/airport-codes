@@ -162,6 +162,7 @@ header input:focus:hover{cursor:default}}
 .card.dub{background-image:url(images/card/dub-tearbringer.jpg)}
 .card.dus{background-image:url(images/card/dus-eole-wind.jpg)}
 .card.dxb{background-image:url(images/card/dxb-roger-price.jpg)}
+.card.edi{background-image:url(images/card/edi-paradasos.jpg)}
 .card.evn{background-image:url(images/card/evn-p-fabian.jpg)}
 .card.ewr{background-image:url(images/card/ewr-bartnj.jpg)}
 .card.eze{background-image:url(images/card/eze-gilmar-mattos.jpg)}
@@ -171,6 +172,7 @@ header input:focus:hover{cursor:default}}
 .card.fsd{background-image:url(images/card/fsd-donna.jpg)}
 .card.geg{background-image:url(images/card/geg-chris-saulit.jpg)}
 .card.gig{background-image:url(images/card/gig-veroyama.jpg)}
+.card.gla{background-image:url(images/card/gla-paisley-scotland.jpg)}
 .card.grb{background-image:url(images/card/grb-cimexus.jpg)}
 .card.grr{background-image:url(images/card/grr-bill-couch.jpg)}
 .card.gru{background-image:url(images/card/gru-fernando-stankuns.jpg)}
@@ -234,6 +236,7 @@ header input:focus:hover{cursor:default}}
 .card.sfo{background-image:url(images/card/sfo-richard-winchell.jpg)}
 .card.slc{background-image:url(images/card/slc-andrew-herington.jpg)}
 .card.smf{background-image:url(images/card/smf-rich.jpg)}
+.card.sna{background-image:url(images/card/sna-peter-talke.jpg)}
 .card.stl{background-image:url(images/card/stl-rich.jpg)}
 .card.sux{background-image:url(images/card/sux-david-mulder.jpg)}
 .card.syd{background-image:url(images/card/syd-bobby-das.jpg)}
@@ -287,6 +290,7 @@ header input:focus:hover{cursor:default}}
 .detail.dub{background-image:url(images/small/dub-tearbringer.jpg)}
 .detail.dus{background-image:url(images/small/dus-eole-wind.jpg)}
 .detail.dxb{background-image:url(images/small/dxb-roger-price.jpg)}
+.detail.edi{background-image:url(images/small/edi-paradasos.jpg)}
 .detail.evn{background-image:url(images/small/evn-p-fabian.jpg)}
 .detail.ewr{background-image:url(images/small/ewr-bartnj.jpg)}
 .detail.eze{background-image:url(images/small/eze-gilmar-mattos.jpg)}
@@ -296,6 +300,7 @@ header input:focus:hover{cursor:default}}
 .detail.fsd{background-image:url(images/small/fsd-donna.jpg)}
 .detail.geg{background-image:url(images/small/geg-chris-saulit.jpg)}
 .detail.gig{background-image:url(images/small/gig-veroyama.jpg)}
+.detail.gla{background-image:url(images/small/gla-paisley-scotland.jpg)}
 .detail.grb{background-image:url(images/small/grb-cimexus.jpg)}
 .detail.grr{background-image:url(images/small/grr-bill-couch.jpg)}
 .detail.gru{background-image:url(images/small/gru-fernando-stankuns.jpg)}
@@ -359,6 +364,7 @@ header input:focus:hover{cursor:default}}
 .detail.sfo{background-image:url(images/small/sfo-richard-winchell.jpg)}
 .detail.slc{background-image:url(images/small/slc-andrew-herington.jpg)}
 .detail.smf{background-image:url(images/small/smf-rich.jpg)}
+.detail.sna{background-image:url(images/small/sna-peter-talke.jpg)}
 .detail.stl{background-image:url(images/small/stl-rich.jpg)}
 .detail.sux{background-image:url(images/small/sux-david-mulder.jpg)}
 .detail.syd{background-image:url(images/small/syd-bobby-das.jpg)}
@@ -412,6 +418,7 @@ header input:focus:hover{cursor:default}}
 .detail.dub{background-image:url(images/medium/dub-tearbringer.jpg)}
 .detail.dus{background-image:url(images/medium/dus-eole-wind.jpg)}
 .detail.dxb{background-image:url(images/medium/dxb-roger-price.jpg)}
+.detail.edi{background-image:url(images/medium/edi-paradasos.jpg)}
 .detail.evn{background-image:url(images/medium/evn-p-fabian.jpg)}
 .detail.ewr{background-image:url(images/medium/ewr-bartnj.jpg)}
 .detail.eze{background-image:url(images/medium/eze-gilmar-mattos.jpg)}
@@ -421,6 +428,7 @@ header input:focus:hover{cursor:default}}
 .detail.fsd{background-image:url(images/medium/fsd-donna.jpg)}
 .detail.geg{background-image:url(images/medium/geg-chris-saulit.jpg)}
 .detail.gig{background-image:url(images/medium/gig-veroyama.jpg)}
+.detail.gla{background-image:url(images/medium/gla-paisley-scotland.jpg)}
 .detail.grb{background-image:url(images/medium/grb-cimexus.jpg)}
 .detail.grr{background-image:url(images/medium/grr-bill-couch.jpg)}
 .detail.gru{background-image:url(images/medium/gru-fernando-stankuns.jpg)}
@@ -484,6 +492,7 @@ header input:focus:hover{cursor:default}}
 .detail.sfo{background-image:url(images/medium/sfo-richard-winchell.jpg)}
 .detail.slc{background-image:url(images/medium/slc-andrew-herington.jpg)}
 .detail.smf{background-image:url(images/medium/smf-rich.jpg)}
+.detail.sna{background-image:url(images/medium/sna-peter-talke.jpg)}
 .detail.stl{background-image:url(images/medium/stl-rich.jpg)}
 .detail.sux{background-image:url(images/medium/sux-david-mulder.jpg)}
 .detail.syd{background-image:url(images/medium/syd-bobby-das.jpg)}
@@ -537,6 +546,7 @@ header input:focus:hover{cursor:default}}
 .detail.dub{background-image:url(images/large/dub-tearbringer.jpg)}
 .detail.dus{background-image:url(images/large/dus-eole-wind.jpg)}
 .detail.dxb{background-image:url(images/large/dxb-roger-price.jpg)}
+.detail.edi{background-image:url(images/large/edi-paradasos.jpg)}
 .detail.evn{background-image:url(images/large/evn-p-fabian.jpg)}
 .detail.ewr{background-image:url(images/large/ewr-bartnj.jpg)}
 .detail.eze{background-image:url(images/large/eze-gilmar-mattos.jpg)}
@@ -546,6 +556,7 @@ header input:focus:hover{cursor:default}}
 .detail.fsd{background-image:url(images/large/fsd-donna.jpg)}
 .detail.geg{background-image:url(images/large/geg-chris-saulit.jpg)}
 .detail.gig{background-image:url(images/large/gig-veroyama.jpg)}
+.detail.gla{background-image:url(images/large/gla-paisley-scotland.jpg)}
 .detail.grb{background-image:url(images/large/grb-cimexus.jpg)}
 .detail.grr{background-image:url(images/large/grr-bill-couch.jpg)}
 .detail.gru{background-image:url(images/large/gru-fernando-stankuns.jpg)}
@@ -609,6 +620,7 @@ header input:focus:hover{cursor:default}}
 .detail.sfo{background-image:url(images/large/sfo-richard-winchell.jpg)}
 .detail.slc{background-image:url(images/large/slc-andrew-herington.jpg)}
 .detail.smf{background-image:url(images/large/smf-rich.jpg)}
+.detail.sna{background-image:url(images/large/sna-peter-talke.jpg)}
 .detail.stl{background-image:url(images/large/stl-rich.jpg)}
 .detail.sux{background-image:url(images/large/sux-david-mulder.jpg)}
 .detail.syd{background-image:url(images/large/syd-bobby-das.jpg)}
