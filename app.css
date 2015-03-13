@@ -122,7 +122,7 @@ header input:focus:hover{cursor:default}}
 @media (max-width:700px){.contribute{background-image:url(images/conair-small.jpg)}}
 @media (min-width:701px){.contribute{background-image:url(images/conair.jpg)}}
 .card.abq{background-image:url(images/card/abq-david-basanta.jpg)}
-.card.akl{background-image:url(images/card/akl-kathrin-stefan-marks.jpg)}
+.card.akl{background-image:url(images/card/akl-mario-ruckh.jpg)}
 .card.ams{background-image:url(images/card/ams-wayne-taylor.jpg)}
 .card.anc{background-image:url(images/card/anc-frank-kovalchek.jpg)}
 .card.arn{background-image:url(images/card/arn-samuel-bietenholz.jpg)}
@@ -246,11 +246,12 @@ header input:focus:hover{cursor:default}}
 .card.tll{background-image:url(images/card/tll-ton-zijlstra.jpg)}
 .card.vie{background-image:url(images/card/vie-rosmary.jpg)}
 .card.waw{background-image:url(images/card/waw-robert-s-donovan.jpg)}
+.card.wlg{background-image:url(images/card/wlg-kathrin-stefan-marks.jpg)}
 .card.yvr{background-image:url(images/card/yvr-rick-schwartz.jpg)}
 .card.yyz{background-image:url(images/card/yyz-coralie-mercier.jpg)}
 .card.zrh{background-image:url(images/card/zrh-reto-fetz.jpg)}
 @media (max-width:700px){.detail.abq{background-image:url(images/small/abq-david-basanta.jpg)}
-.detail.akl{background-image:url(images/small/akl-kathrin-stefan-marks.jpg)}
+.detail.akl{background-image:url(images/small/akl-mario-ruckh.jpg)}
 .detail.ams{background-image:url(images/small/ams-wayne-taylor.jpg)}
 .detail.anc{background-image:url(images/small/anc-frank-kovalchek.jpg)}
 .detail.arn{background-image:url(images/small/arn-samuel-bietenholz.jpg)}
@@ -374,11 +375,12 @@ header input:focus:hover{cursor:default}}
 .detail.tll{background-image:url(images/small/tll-ton-zijlstra.jpg)}
 .detail.vie{background-image:url(images/small/vie-rosmary.jpg)}
 .detail.waw{background-image:url(images/small/waw-robert-s-donovan.jpg)}
+.detail.wlg{background-image:url(images/small/wlg-kathrin-stefan-marks.jpg)}
 .detail.yvr{background-image:url(images/small/yvr-rick-schwartz.jpg)}
 .detail.yyz{background-image:url(images/small/yyz-coralie-mercier.jpg)}
 .detail.zrh{background-image:url(images/small/zrh-reto-fetz.jpg)}}
 @media (min-width:701px)and (max-width:1500px){.detail.abq{background-image:url(images/medium/abq-david-basanta.jpg)}
-.detail.akl{background-image:url(images/medium/akl-kathrin-stefan-marks.jpg)}
+.detail.akl{background-image:url(images/medium/akl-mario-ruckh.jpg)}
 .detail.ams{background-image:url(images/medium/ams-wayne-taylor.jpg)}
 .detail.anc{background-image:url(images/medium/anc-frank-kovalchek.jpg)}
 .detail.arn{background-image:url(images/medium/arn-samuel-bietenholz.jpg)}
@@ -502,11 +504,12 @@ header input:focus:hover{cursor:default}}
 .detail.tll{background-image:url(images/medium/tll-ton-zijlstra.jpg)}
 .detail.vie{background-image:url(images/medium/vie-rosmary.jpg)}
 .detail.waw{background-image:url(images/medium/waw-robert-s-donovan.jpg)}
+.detail.wlg{background-image:url(images/medium/wlg-kathrin-stefan-marks.jpg)}
 .detail.yvr{background-image:url(images/medium/yvr-rick-schwartz.jpg)}
 .detail.yyz{background-image:url(images/medium/yyz-coralie-mercier.jpg)}
 .detail.zrh{background-image:url(images/medium/zrh-reto-fetz.jpg)}}
 @media (min-width:1501px){.detail.abq{background-image:url(images/large/abq-david-basanta.jpg)}
-.detail.akl{background-image:url(images/large/akl-kathrin-stefan-marks.jpg)}
+.detail.akl{background-image:url(images/large/akl-mario-ruckh.jpg)}
 .detail.ams{background-image:url(images/large/ams-wayne-taylor.jpg)}
 .detail.anc{background-image:url(images/large/anc-frank-kovalchek.jpg)}
 .detail.arn{background-image:url(images/large/arn-samuel-bietenholz.jpg)}
@@ -630,6 +633,7 @@ header input:focus:hover{cursor:default}}
 .detail.tll{background-image:url(images/large/tll-ton-zijlstra.jpg)}
 .detail.vie{background-image:url(images/large/vie-rosmary.jpg)}
 .detail.waw{background-image:url(images/large/waw-robert-s-donovan.jpg)}
+.detail.wlg{background-image:url(images/large/wlg-kathrin-stefan-marks.jpg)}
 .detail.yvr{background-image:url(images/large/yvr-rick-schwartz.jpg)}
 .detail.yyz{background-image:url(images/large/yyz-coralie-mercier.jpg)}
 .detail.zrh{background-image:url(images/large/zrh-reto-fetz.jpg)}}
