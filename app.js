@@ -28,8 +28,8 @@ jquery(function() {
   var application = new Application();
 });
 
-},{"../data":"/Users/lfisher/git/airport-codes/data/index.js","./AppRouter":"/Users/lfisher/git/airport-codes/src/AppRouter.js","./collections/Airports":"/Users/lfisher/git/airport-codes/src/collections/Airports.js","./views/AppView":"/Users/lfisher/git/airport-codes/src/views/AppView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js","jquery":"/Users/lfisher/git/airport-codes/node_modules/jquery/dist/jquery.js"}],"/Users/lfisher/git/airport-codes/data/abq.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{"../data":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/index.js","./AppRouter":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/AppRouter.js","./collections/Airports":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/collections/Airports.js","./views/AppView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AppView.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js","jquery":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jquery/dist/jquery.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/abq.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "abq",
     "code": "abq",
     "name": "Albuquerque International Sunport",
@@ -41,8 +41,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "David Basanta",
     "imageCreditLink": "https://www.flickr.com/photos/dbasanta/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/akl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/akl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "akl",
     "code": "akl",
     "name": "Auckland Airport",
@@ -55,8 +55,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "mario_ruckh",
     "imageCreditLink": "https://www.flickr.com/photos/ruckh/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/ams.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ams.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ams",
     "code": "ams",
     "name": "Luchthaven Schiphol",
@@ -71,8 +71,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Wayne Taylor",
     "imageCreditLink": "https://www.flickr.com/photos/wonderwheel/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/anc.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/anc.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "anc",
     "code": "anc",
     "name": "Ted Stevens Anchorage International Airport",
@@ -84,8 +84,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Frank Kovalchek",
     "imageCreditLink": "https://www.flickr.com/photos/72213316@N00/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/arn.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/arn.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "arn",
     "code": "arn",
     "name": "Stockholm-Arlanda flygplats",
@@ -100,8 +100,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Samuel Bietenholz",
     "imageCreditLink": "https://www.flickr.com/photos/sunnyshine80/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/atl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/atl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "atl",
     "code": "atl",
     "name": "Hartsfield–Jackson International Airport",
@@ -113,8 +113,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jon Tan",
     "imageCreditLink": "https://www.flickr.com/photos/jontangerine/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/aus.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/aus.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "aus",
     "code": "aus",
     "name": "Austin–Bergstrom International Airport",
@@ -126,8 +126,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jon Collier",
     "imageCreditLink": "https://www.flickr.com/photos/imnotquitejack/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bdl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bdl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bdl",
     "code": "bdl",
     "name": "Bradley International Airport",
@@ -141,8 +141,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Pixel",
     "imageCreditLink": "https://www.flickr.com/photos/improbcat/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bhm.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bhm.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bhm",
     "code": "bhm",
     "name": "Birmingham–Shuttlesworth International Airport",
@@ -154,8 +154,8 @@ module.exports=module.exports=module.exports=module.exports={
     "imageCredit": "mary",
     "imageCreditLink": "https://www.flickr.com/photos/maryatuab/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bhx.json":[function(require,module,exports){
-module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bhx.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bhx",
     "code": "bhx",
     "name": "Birmingham Airport",
@@ -167,8 +167,8 @@ module.exports={
     "imageCredit": "Martin Hartland",
     "imageCreditLink": "https://www.flickr.com/photos/martin_hartland/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bna.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bna.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bna",
     "code": "bna",
     "name": "Nashville International Airport",
@@ -180,8 +180,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Shooting Chris",
     "imageCreditLink": "https://www.flickr.com/photos/shootingchris/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bog.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bog.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bog",
     "code": "bog",
     "name": "Aeropuerto Internacional El Dorado",
@@ -194,8 +194,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Stephen Downes",
     "imageCreditLink": "https://www.flickr.com/photos/stephen_downes/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/boh.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/boh.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "boh",
     "code": "boh",
     "name": "Bournemouth Airport",
@@ -208,8 +208,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Dean Morley",
     "imageCreditLink": "https://www.flickr.com/photos/33465428@N02/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/boi.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/boi.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "boi",
     "code": "boi",
     "name": "Boise Airport",
@@ -221,8 +221,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Mark Hillary",
     "imageCreditLink": "https://www.flickr.com/photos/markhillary/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bom.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bom.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bom",
     "code": "bom",
     "name": "Chhatrapati Shivaji International Airport",
@@ -234,8 +234,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Chris Hoare",
     "imageCreditLink": "https://www.flickr.com/photos/u07ch/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bos.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bos.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bos",
     "code": "bos",
     "name": "Logan International Airport",
@@ -248,8 +248,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Andrew Malone",
     "imageCreditLink": "https://www.flickr.com/photos/andrewmalone/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bru.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bru.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bru",
     "code": "bru",
     "name": "Luchthaven Brussel-Nationaal",
@@ -263,8 +263,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Patrice Heylighen",
     "imageCreditLink": "https://www.flickr.com/photos/126981452@N07/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/btv.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/btv.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "btv",
     "code": "btv",
     "name": "Burlington International Airport",
@@ -276,8 +276,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Neil Hunt",
     "imageCreditLink": "https://www.flickr.com/photos/nhunt/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bud.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bud.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bud",
     "code": "bud",
     "name": "Budapest Liszt Ferenc Nemzetközi Repülőtér",
@@ -290,8 +290,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "HatM",
     "imageCreditLink": "https://www.flickr.com/photos/hatm/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/buf.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/buf.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "buf",
     "code": "buf",
     "name": "Buffalo Niagara International Airport",
@@ -306,8 +306,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/jjbowry_blogspot_com/"
 }
 
-},{}],"/Users/lfisher/git/airport-codes/data/bwi.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bwi.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bwi",
     "code": "bwi",
     "name": "Baltimore/Washington International Thurgood Marshall Airport",
@@ -321,8 +321,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Mike Procario",
     "imageCreditLink": "https://www.flickr.com/photos/procario/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/bzn.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bzn.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "bzn",
     "code": "bzn",
     "name": "Bozeman Yellowstone International Airport",
@@ -335,8 +335,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Roderick Hsiao",
     "imageCreditLink": "https://www.flickr.com/photos/roderickhsiao/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/ccs.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ccs.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ccs",
     "code": "ccs",
     "name": "Aeropuerto Internacional de Maiquetia “Simón Bolívar”",
@@ -350,8 +350,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Carlos Graterol",
     "imageCreditLink": "https://www.flickr.com/photos/galletonn/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/cdg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cdg.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cdg",
     "code": "cdg",
     "name": "Aéroport de Paris-Charles-de-Gaulle",
@@ -364,8 +364,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Giacomo Carena",
     "imageCreditLink": "https://www.flickr.com/photos/jekkone/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/cgh.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cgh.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cgh",
     "code": "cgh",
     "name": "Aeroporto de São Paulo/Congonhas",
@@ -379,8 +379,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Barbara Dieu",
     "imageCreditLink": "https://www.flickr.com/photos/bee/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/cgn.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cgn.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cgn",
     "code": "cgn",
     "name": "Flughafen Köln/Bonn",
@@ -394,8 +394,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": ".mw",
     "imageCreditLink": "https://www.flickr.com/photos/mwillms/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/chs.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/chs.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "chs",
     "code": "chs",
     "name": "Charleston International Airport",
@@ -408,8 +408,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "scpetrel",
     "imageCreditLink": "https://www.flickr.com/photos/scpetrel/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/cid.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cid.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cid",
     "code": "cid",
     "name": "The Eastern Iowa Airport",
@@ -421,8 +421,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Carole",
     "imageCreditLink": "https://www.flickr.com/photos/leita/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/cle.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cle.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cle",
     "code": "cle",
     "name": "Hopkins International Airport",
@@ -434,8 +434,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Trey Ratcliff",
     "imageCreditLink": "https://www.flickr.com/photos/stuckincustoms/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/clt.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/clt.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "clt",
     "code": "clt",
     "name": "Douglas International Airport",
@@ -447,8 +447,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Steve & Sara Emry",
     "imageCreditLink": "https://www.flickr.com/photos/emry/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/cmh.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cmh.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cmh",
     "code": "cmh",
     "name": "Port Columbus International Airport",
@@ -460,8 +460,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "GmanViz",
     "imageCreditLink": "https://www.flickr.com/photos/gmanviz/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/cph.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cph.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cph",
     "code": "cph",
     "name": "Københavns Lufthavn, Kastrup",
@@ -475,8 +475,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Arnþór Snær Sævarsson",
     "imageCreditLink": "https://www.flickr.com/photos/easysleazycheesy/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/crw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/crw.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "crw",
     "code": "crw",
     "name": "Yeager Airport",
@@ -488,8 +488,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Rich",
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/cvg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cvg.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "cvg",
     "code": "cvg",
     "name": "Cincinnati/Northern Kentucky International Airport",
@@ -502,8 +502,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Robert S. Donovan",
     "imageCreditLink": "https://www.flickr.com/photos/booleansplit/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/day.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/day.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "day",
     "code": "day",
     "name": "James M. Cox Dayton International Airport",
@@ -515,8 +515,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "redlegsfan21",
     "imageCreditLink": "https://www.flickr.com/photos/redlegsfan21/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/dca.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dca.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dca",
     "code": "dca",
     "name": "Ronald Reagan Washington National Airport",
@@ -529,8 +529,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "thisisbossi",
     "imageCreditLink": "https://www.flickr.com/photos/thisisbossi/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/del.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/del.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
 	"id": "del",
 	"code": "del",
 	"name":	"Indira Gandhi International Airport",
@@ -544,8 +544,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
 	"imageCreditLink": "https://www.flickr.com/photos/nadircruise/"
 }
 
-},{}],"/Users/lfisher/git/airport-codes/data/den.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/den.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "den",
     "code": "den",
     "name": "Denver International Airport",
@@ -557,8 +557,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Bart Heird",
     "imageCreditLink": "https://www.flickr.com/photos/chicagobart/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/dfw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dfw.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dfw",
     "code": "dfw",
     "name": "Dallas/Fort Worth International Airport",
@@ -571,8 +571,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jim Nix",
     "imageCreditLink": "https://www.flickr.com/photos/jimnix/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/dtm.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dtm.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dtm",
     "code": "dtm",
     "name": "Flughafen Dortmund",
@@ -585,8 +585,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Andreas",
     "imageCreditLink": "https://www.flickr.com/photos/zargony/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/dtw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dtw.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dtw",
     "code": "dtw",
     "name": "Detroit Metropolitan Wayne County Airport",
@@ -598,8 +598,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Scott Beale",
     "imageCreditLink": "https://www.flickr.com/photos/laughingsquid/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/dub.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dub.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dub",
     "code": "dub",
     "name": "Aerfort Bhaile Átha Cliath",
@@ -613,8 +613,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "tearbringer",
     "imageCreditLink": "https://www.flickr.com/photos/tearbringer/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/dus.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dus.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dus",
     "code": "dus",
     "name": "Flughafen Düsseldorf",
@@ -628,8 +628,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Éole Wind",
     "imageCreditLink": "https://www.flickr.com/photos/eole/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/dxb.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dxb.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "dxb",
     "code": "dxb",
     "name": "Dubai International Airport",
@@ -642,8 +642,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Roger Price",
     "imageCreditLink": "https://www.flickr.com/photos/rwp-roger/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/edi.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/edi.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "edi",
     "code": "edi",
     "name": "Port-adhair Dhùn Èideann",
@@ -656,8 +656,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Paradasos",
     "imageCreditLink": "https://www.flickr.com/photos/paradasos/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/evn.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/evn.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "evn",
     "code": "evn",
     "name": "Zvart'nots' Mijazgayin Odanavakayan",
@@ -671,8 +671,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "p.fabian",
     "imageCreditLink": "https://www.flickr.com/photos/fabianp/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/ewr.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ewr.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ewr",
     "code": "ewr",
     "name": "Liberty International Airport",
@@ -684,8 +684,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "BartNJ",
     "imageCreditLink": "https://www.flickr.com/photos/bartzoni/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/eze.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/eze.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "eze",
     "code": "eze",
     "name": "Aeropuerto Internacional Ministro Pistarini",
@@ -699,8 +699,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Gilmar Mattos",
     "imageCreditLink": "https://www.flickr.com/photos/gijlmar/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/fca.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fca.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "fca",
     "code": "fca",
     "name": "Glacier Park International Airport",
@@ -713,8 +713,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "theilr",
     "imageCreditLink": "https://www.flickr.com/photos/theilr/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/fco.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fco.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "fco",
     "code": "fco",
     "name": "Fiumicino – Aeroporto Internazionale Leonardo da Vinci",
@@ -727,8 +727,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Maurizio Pucci",
     "imageCreditLink": "https://www.flickr.com/photos/the_night_flier/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/fra.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fra.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "fra",
     "code": "fra",
     "name": "Flughafen Frankfurt am Main",
@@ -741,8 +741,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Nicolás Rupcich",
     "imageCreditLink": "https://www.flickr.com/photos/nicolasrupcich/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/fsd.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fsd.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "fsd",
     "code": "fsd",
     "name": "Sioux Falls Regional Airport",
@@ -754,8 +754,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Donna",
     "imageCreditLink": "https://www.flickr.com/photos/pugfreak/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/geg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/geg.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "geg",
     "code": "geg",
     "name": "Spokane International Airport",
@@ -767,8 +767,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Chris Saulit",
     "imageCreditLink": "https://www.flickr.com/photos/csaulit/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/gig.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gig.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "gig",
     "code": "gig",
     "name": "Aeroporto Internacional do Galeão–Antonio Carlos Jobim",
@@ -781,8 +781,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "veroyama",
     "imageCreditLink": "https://www.flickr.com/photos/veroyama/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/gla.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gla.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "gla",
     "code": "gla",
     "name": "Port-adhair Eadar-nàiseanta Ghlaschu",
@@ -795,8 +795,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Paisley Scotland",
     "imageCreditLink": "https://www.flickr.com/photos/paisleyorguk/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/grb.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/grb.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "grb",
     "code": "grb",
     "name": "Austin Straubel International Airport",
@@ -809,8 +809,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/cimexus/"
 }
 
-},{}],"/Users/lfisher/git/airport-codes/data/grr.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/grr.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "grr",
     "code": "grr",
     "name": "Gerald R. Ford International Airport",
@@ -822,8 +822,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Bill Couch",
     "imageCreditLink": "https://www.flickr.com/photos/wcouch/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/gru.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gru.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "gru",
     "code": "gru",
     "name": "Aeroporto Internacional Guarulhos–Governador André Franco Montoro",
@@ -838,8 +838,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Fernando Stankuns",
     "imageCreditLink": "https://www.flickr.com/photos/stankuns/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/gyd.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gyd.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "gyd",
     "code": "gyd",
     "name": "Heydar Aliyev International Airport",
@@ -851,8 +851,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "ge'shmally",
     "imageCreditLink": "https://www.flickr.com/photos/geshmally/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/hel.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hel.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "hel",
     "code": "hel",
     "name": "Helsinki-Vantaan lentoasema",
@@ -866,8 +866,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Sergey Nazarov",
     "imageCreditLink": "https://www.flickr.com/photos/phearnot/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/hkg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hkg.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "hkg",
     "code": "hkg",
     "name": "Hong Kong International Airport",
@@ -880,8 +880,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Chris",
     "imageCreditLink": "https://www.flickr.com/photos/dcmaster/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/hnd.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hnd.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "hnd",
     "code": "hnd",
     "name": "Tokyo International Airport",
@@ -893,8 +893,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Hideyuki KAMON",
     "imageCreditLink": "https://www.flickr.com/photos/hyougushi/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/hnl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hnl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "hnl",
     "code": "hnl",
     "name": "Honolulu International Airport",
@@ -907,8 +907,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Brian Burger",
     "imageCreditLink": "https://www.flickr.com/photos/wirelizard/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/hou.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hou.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "hou",
     "code": "hou",
     "name": "William P. Hobby Airport",
@@ -920,8 +920,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Ryan Basilio",
     "imageCreditLink": "https://www.flickr.com/photos/thetalesend/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/iad.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/iad.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "iad",
     "code": "iad",
     "name": "Dulles International Airport",
@@ -933,8 +933,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "The Q Speaks",
     "imageCreditLink": "https://www.flickr.com/photos/theqspeaks/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/iah.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/iah.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "iah",
     "code": "iah",
     "name": "George Bush Intercontinental Airport",
@@ -946,8 +946,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Josh Hallett",
     "imageCreditLink": "https://www.flickr.com/photos/hyku/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/icn.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/icn.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "icn",
     "code": "icn",
     "name": "Incheon International Airport",
@@ -960,8 +960,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Marcella Bona",
     "imageCreditLink": "https://www.flickr.com/photos/marcella_bona/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/ict.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ict.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ict",
     "code": "ict",
     "name": "Dwight D. Eisenhower National Airport",
@@ -973,8 +973,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Michael Sauers",
     "imageCreditLink": "https://www.flickr.com/photos/travelinlibrarian/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/ind.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ind.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ind",
     "code": "ind",
     "name": "Indianapolis International Airport",
@@ -986,7 +986,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Don J Schulte",
     "imageCreditLink": "https://www.flickr.com/photos/oxherder/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/index.js":[function(require,module,exports){
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/index.js":[function(require,module,exports){
 module.exports = {
   airports: [
     require('./abq.json'),
@@ -1125,8 +1125,8 @@ module.exports = {
   ]
 };
 
-},{"./abq.json":"/Users/lfisher/git/airport-codes/data/abq.json","./akl.json":"/Users/lfisher/git/airport-codes/data/akl.json","./ams.json":"/Users/lfisher/git/airport-codes/data/ams.json","./anc.json":"/Users/lfisher/git/airport-codes/data/anc.json","./arn.json":"/Users/lfisher/git/airport-codes/data/arn.json","./atl.json":"/Users/lfisher/git/airport-codes/data/atl.json","./aus.json":"/Users/lfisher/git/airport-codes/data/aus.json","./bdl.json":"/Users/lfisher/git/airport-codes/data/bdl.json","./bhm.json":"/Users/lfisher/git/airport-codes/data/bhm.json","./bhx.json":"/Users/lfisher/git/airport-codes/data/bhx.json","./bna.json":"/Users/lfisher/git/airport-codes/data/bna.json","./bog.json":"/Users/lfisher/git/airport-codes/data/bog.json","./boh.json":"/Users/lfisher/git/airport-codes/data/boh.json","./boi.json":"/Users/lfisher/git/airport-codes/data/boi.json","./bom.json":"/Users/lfisher/git/airport-codes/data/bom.json","./bos.json":"/Users/lfisher/git/airport-codes/data/bos.json","./bru.json":"/Users/lfisher/git/airport-codes/data/bru.json","./btv.json":"/Users/lfisher/git/airport-codes/data/btv.json","./bud.json":"/Users/lfisher/git/airport-codes/data/bud.json","./buf.json":"/Users/lfisher/git/airport-codes/data/buf.json","./bwi.json":"/Users/lfisher/git/airport-codes/data/bwi.json","./bzn.json":"/Users/lfisher/git/airport-codes/data/bzn.json","./ccs.json":"/Users/lfisher/git/airport-codes/data/ccs.json","./cdg.json":"/Users/lfisher/git/airport-codes/data/cdg.json","./cgh.json":"/Users/lfisher/git/airport-codes/data/cgh.json","./cgn.json":"/Users/lfisher/git/airport-codes/data/cgn.json","./chs.json":"/Users/lfisher/git/airport-codes/data/chs.json","./cid.json":"/Users/lfisher/git/airport-codes/data/cid.json","./cle.json":"/Users/lfisher/git/airport-codes/data/cle.json","./clt.json":"/Users/lfisher/git/airport-codes/data/clt.json","./cmh.json":"/Users/lfisher/git/airport-codes/data/cmh.json","./cph.json":"/Users/lfisher/git/airport-codes/data/cph.json","./crw.json":"/Users/lfisher/git/airport-codes/data/crw.json","./cvg.json":"/Users/lfisher/git/airport-codes/data/cvg.json","./day.json":"/Users/lfisher/git/airport-codes/data/day.json","./dca.json":"/Users/lfisher/git/airport-codes/data/dca.json","./del.json":"/Users/lfisher/git/airport-codes/data/del.json","./den.json":"/Users/lfisher/git/airport-codes/data/den.json","./dfw.json":"/Users/lfisher/git/airport-codes/data/dfw.json","./dtm.json":"/Users/lfisher/git/airport-codes/data/dtm.json","./dtw.json":"/Users/lfisher/git/airport-codes/data/dtw.json","./dub.json":"/Users/lfisher/git/airport-codes/data/dub.json","./dus.json":"/Users/lfisher/git/airport-codes/data/dus.json","./dxb.json":"/Users/lfisher/git/airport-codes/data/dxb.json","./edi.json":"/Users/lfisher/git/airport-codes/data/edi.json","./evn.json":"/Users/lfisher/git/airport-codes/data/evn.json","./ewr.json":"/Users/lfisher/git/airport-codes/data/ewr.json","./eze.json":"/Users/lfisher/git/airport-codes/data/eze.json","./fca.json":"/Users/lfisher/git/airport-codes/data/fca.json","./fco.json":"/Users/lfisher/git/airport-codes/data/fco.json","./fra.json":"/Users/lfisher/git/airport-codes/data/fra.json","./fsd.json":"/Users/lfisher/git/airport-codes/data/fsd.json","./geg.json":"/Users/lfisher/git/airport-codes/data/geg.json","./gig.json":"/Users/lfisher/git/airport-codes/data/gig.json","./gla.json":"/Users/lfisher/git/airport-codes/data/gla.json","./grb.json":"/Users/lfisher/git/airport-codes/data/grb.json","./grr.json":"/Users/lfisher/git/airport-codes/data/grr.json","./gru.json":"/Users/lfisher/git/airport-codes/data/gru.json","./gyd.json":"/Users/lfisher/git/airport-codes/data/gyd.json","./hel.json":"/Users/lfisher/git/airport-codes/data/hel.json","./hkg.json":"/Users/lfisher/git/airport-codes/data/hkg.json","./hnd.json":"/Users/lfisher/git/airport-codes/data/hnd.json","./hnl.json":"/Users/lfisher/git/airport-codes/data/hnl.json","./hou.json":"/Users/lfisher/git/airport-codes/data/hou.json","./iad.json":"/Users/lfisher/git/airport-codes/data/iad.json","./iah.json":"/Users/lfisher/git/airport-codes/data/iah.json","./icn.json":"/Users/lfisher/git/airport-codes/data/icn.json","./ict.json":"/Users/lfisher/git/airport-codes/data/ict.json","./ind.json":"/Users/lfisher/git/airport-codes/data/ind.json","./ist.json":"/Users/lfisher/git/airport-codes/data/ist.json","./jac.json":"/Users/lfisher/git/airport-codes/data/jac.json","./jfk.json":"/Users/lfisher/git/airport-codes/data/jfk.json","./las.json":"/Users/lfisher/git/airport-codes/data/las.json","./lax.json":"/Users/lfisher/git/airport-codes/data/lax.json","./lga.json":"/Users/lfisher/git/airport-codes/data/lga.json","./lhr.json":"/Users/lfisher/git/airport-codes/data/lhr.json","./lim.json":"/Users/lfisher/git/airport-codes/data/lim.json","./lis.json":"/Users/lfisher/git/airport-codes/data/lis.json","./lit.json":"/Users/lfisher/git/airport-codes/data/lit.json","./mad.json":"/Users/lfisher/git/airport-codes/data/mad.json","./mci.json":"/Users/lfisher/git/airport-codes/data/mci.json","./mco.json":"/Users/lfisher/git/airport-codes/data/mco.json","./mdt.json":"/Users/lfisher/git/airport-codes/data/mdt.json","./mdw.json":"/Users/lfisher/git/airport-codes/data/mdw.json","./mem.json":"/Users/lfisher/git/airport-codes/data/mem.json","./mex.json":"/Users/lfisher/git/airport-codes/data/mex.json","./mht.json":"/Users/lfisher/git/airport-codes/data/mht.json","./mia.json":"/Users/lfisher/git/airport-codes/data/mia.json","./mke.json":"/Users/lfisher/git/airport-codes/data/mke.json","./msp.json":"/Users/lfisher/git/airport-codes/data/msp.json","./msy.json":"/Users/lfisher/git/airport-codes/data/msy.json","./muc.json":"/Users/lfisher/git/airport-codes/data/muc.json","./nce.json":"/Users/lfisher/git/airport-codes/data/nce.json","./ogg.json":"/Users/lfisher/git/airport-codes/data/ogg.json","./okc.json":"/Users/lfisher/git/airport-codes/data/okc.json","./oma.json":"/Users/lfisher/git/airport-codes/data/oma.json","./ord.json":"/Users/lfisher/git/airport-codes/data/ord.json","./orf.json":"/Users/lfisher/git/airport-codes/data/orf.json","./ory.json":"/Users/lfisher/git/airport-codes/data/ory.json","./osl.json":"/Users/lfisher/git/airport-codes/data/osl.json","./pdx.json":"/Users/lfisher/git/airport-codes/data/pdx.json","./pek.json":"/Users/lfisher/git/airport-codes/data/pek.json","./phl.json":"/Users/lfisher/git/airport-codes/data/phl.json","./phx.json":"/Users/lfisher/git/airport-codes/data/phx.json","./pit.json":"/Users/lfisher/git/airport-codes/data/pit.json","./prg.json":"/Users/lfisher/git/airport-codes/data/prg.json","./psc.json":"/Users/lfisher/git/airport-codes/data/psc.json","./pvd.json":"/Users/lfisher/git/airport-codes/data/pvd.json","./pwm.json":"/Users/lfisher/git/airport-codes/data/pwm.json","./rdu.json":"/Users/lfisher/git/airport-codes/data/rdu.json","./rix.json":"/Users/lfisher/git/airport-codes/data/rix.json","./rsw.json":"/Users/lfisher/git/airport-codes/data/rsw.json","./scl.json":"/Users/lfisher/git/airport-codes/data/scl.json","./sdf.json":"/Users/lfisher/git/airport-codes/data/sdf.json","./sea.json":"/Users/lfisher/git/airport-codes/data/sea.json","./sfo.json":"/Users/lfisher/git/airport-codes/data/sfo.json","./slc.json":"/Users/lfisher/git/airport-codes/data/slc.json","./smf.json":"/Users/lfisher/git/airport-codes/data/smf.json","./sna.json":"/Users/lfisher/git/airport-codes/data/sna.json","./stl.json":"/Users/lfisher/git/airport-codes/data/stl.json","./sux.json":"/Users/lfisher/git/airport-codes/data/sux.json","./syd.json":"/Users/lfisher/git/airport-codes/data/syd.json","./szg.json":"/Users/lfisher/git/airport-codes/data/szg.json","./tbs.json":"/Users/lfisher/git/airport-codes/data/tbs.json","./tia.json":"/Users/lfisher/git/airport-codes/data/tia.json","./tll.json":"/Users/lfisher/git/airport-codes/data/tll.json","./vie.json":"/Users/lfisher/git/airport-codes/data/vie.json","./waw.json":"/Users/lfisher/git/airport-codes/data/waw.json","./wlg.json":"/Users/lfisher/git/airport-codes/data/wlg.json","./yqb.json":"/Users/lfisher/git/airport-codes/data/yqb.json","./yvr.json":"/Users/lfisher/git/airport-codes/data/yvr.json","./yyz.json":"/Users/lfisher/git/airport-codes/data/yyz.json","./zrh.json":"/Users/lfisher/git/airport-codes/data/zrh.json"}],"/Users/lfisher/git/airport-codes/data/ist.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{"./abq.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/abq.json","./akl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/akl.json","./ams.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ams.json","./anc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/anc.json","./arn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/arn.json","./atl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/atl.json","./aus.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/aus.json","./bdl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bdl.json","./bhm.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bhm.json","./bhx.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bhx.json","./bna.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bna.json","./bog.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bog.json","./boh.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/boh.json","./boi.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/boi.json","./bom.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bom.json","./bos.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bos.json","./bru.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bru.json","./btv.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/btv.json","./bud.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bud.json","./buf.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/buf.json","./bwi.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bwi.json","./bzn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bzn.json","./ccs.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ccs.json","./cdg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cdg.json","./cgh.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cgh.json","./cgn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cgn.json","./chs.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/chs.json","./cid.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cid.json","./cle.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cle.json","./clt.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/clt.json","./cmh.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cmh.json","./cph.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cph.json","./crw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/crw.json","./cvg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cvg.json","./day.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/day.json","./dca.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dca.json","./del.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/del.json","./den.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/den.json","./dfw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dfw.json","./dtm.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dtm.json","./dtw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dtw.json","./dub.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dub.json","./dus.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dus.json","./dxb.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dxb.json","./edi.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/edi.json","./evn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/evn.json","./ewr.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ewr.json","./eze.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/eze.json","./fca.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fca.json","./fco.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fco.json","./fra.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fra.json","./fsd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fsd.json","./geg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/geg.json","./gig.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gig.json","./gla.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gla.json","./grb.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/grb.json","./grr.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/grr.json","./gru.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gru.json","./gyd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gyd.json","./hel.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hel.json","./hkg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hkg.json","./hnd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hnd.json","./hnl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hnl.json","./hou.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hou.json","./iad.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/iad.json","./iah.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/iah.json","./icn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/icn.json","./ict.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ict.json","./ind.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ind.json","./ist.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ist.json","./jac.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/jac.json","./jfk.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/jfk.json","./las.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/las.json","./lax.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lax.json","./lga.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lga.json","./lhr.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lhr.json","./lim.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lim.json","./lis.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lis.json","./lit.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lit.json","./mad.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mad.json","./mci.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mci.json","./mco.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mco.json","./mdt.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mdt.json","./mdw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mdw.json","./mem.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mem.json","./mex.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mex.json","./mht.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mht.json","./mia.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mia.json","./mke.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mke.json","./msp.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/msp.json","./msy.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/msy.json","./muc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/muc.json","./nce.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/nce.json","./ogg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ogg.json","./okc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/okc.json","./oma.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/oma.json","./ord.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ord.json","./orf.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/orf.json","./ory.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ory.json","./osl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/osl.json","./pdx.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pdx.json","./pek.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pek.json","./phl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/phl.json","./phx.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/phx.json","./pit.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pit.json","./prg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/prg.json","./psc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/psc.json","./pvd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pvd.json","./pwm.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pwm.json","./rdu.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rdu.json","./rix.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rix.json","./rsw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rsw.json","./scl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/scl.json","./sdf.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sdf.json","./sea.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sea.json","./sfo.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sfo.json","./slc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/slc.json","./smf.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/smf.json","./sna.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sna.json","./stl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/stl.json","./sux.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sux.json","./syd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/syd.json","./szg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/szg.json","./tbs.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tbs.json","./tia.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tia.json","./tll.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tll.json","./vie.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/vie.json","./waw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/waw.json","./wlg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/wlg.json","./yqb.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yqb.json","./yvr.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yvr.json","./yyz.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yyz.json","./zrh.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/zrh.json"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ist.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ist",
     "code": "ist",
     "name": "İstanbul Atatürk Havalimanı",
@@ -1140,8 +1140,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "jaime.silva",
     "imageCreditLink": "https://www.flickr.com/photos/20792787@N00/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/jac.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/jac.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "jac",
     "code": "jac",
     "name": "Jackson Hole Airport",
@@ -1154,8 +1154,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Sarah Nichols",
     "imageCreditLink": "https://www.flickr.com/photos/pocheco/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/jfk.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/jfk.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "jfk",
     "code": "jfk",
     "name": "John F. Kennedy International Airport",
@@ -1167,8 +1167,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Timothy Vogel",
     "imageCreditLink": "https://www.flickr.com/photos/vogelium/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/las.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/las.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "las",
     "code": "las",
     "name": "McCarran International Airport",
@@ -1181,8 +1181,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Kevin Reese",
     "imageCreditLink": "https://www.flickr.com/photos/kevinreese/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/lax.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lax.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lax",
     "code": "lax",
     "name": "Los Angeles International Airport",
@@ -1194,8 +1194,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Thomas Hawk",
     "imageCreditLink": "https://www.flickr.com/photos/thomashawk/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/lga.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lga.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lga",
     "code": "lga",
     "name": "LaGuardia Airport",
@@ -1207,8 +1207,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "stantontcady",
     "imageCreditLink": "https://www.flickr.com/photos/terrycady/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/lhr.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lhr.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lhr",
     "code": "lhr",
     "name": "London Heathrow Airport",
@@ -1220,8 +1220,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "twinkabauter",
     "imageCreditLink": "https://www.flickr.com/photos/twinkabauter/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/lim.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lim.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lim",
     "code": "lim",
     "name": "Aeropuerto Internacional Jorge Chávez",
@@ -1235,8 +1235,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "VasenkaPhotography",
     "imageCreditLink": "https://www.flickr.com/photos/vasenka/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/lis.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lis.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lis",
     "code": "lis",
     "name": "Aeroporto da Portela",
@@ -1250,8 +1250,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "hom26",
     "imageCreditLink": "https://www.flickr.com/photos/hom26/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/lit.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lit.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "lit",
     "code": "lit",
     "name": "Bill and Hillary Clinton National Airport",
@@ -1265,8 +1265,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Johnathan Jianu",
     "imageCreditLink": "https://www.flickr.com/photos/commanderclicktft/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mad.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mad.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mad",
     "code": "mad",
     "name": "Aeropuerto Adolfo Suárez Madrid-Barajas",
@@ -1280,8 +1280,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Anh Dinh",
     "imageCreditLink": "https://www.flickr.com/photos/anhgemus-photography/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mci.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mci.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mci",
     "code": "mci",
     "name": "Kansas City International Airport",
@@ -1293,8 +1293,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Zhao Shouren",
     "imageCreditLink": "https://www.flickr.com/photos/ajanhelendam/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mco.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mco.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mco",
     "code": "mco",
     "name": "Orlando International Airport",
@@ -1306,8 +1306,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Benjamin Thompson",
     "imageCreditLink": "https://www.flickr.com/photos/beija/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mdt.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mdt.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mdt",
     "code": "mdt",
     "name": "Harrisburg International Airport",
@@ -1320,8 +1320,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Timothy Rezendes",
     "imageCreditLink": "https://www.flickr.com/photos/trezendes/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mdw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mdw.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mdw",
     "code": "mdw",
     "name": "Midway International Airport",
@@ -1333,8 +1333,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jackie Popp",
     "imageCreditLink": "https://www.flickr.com/photos/jackie-popp/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mem.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mem.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mem",
     "code": "mem",
     "name": "Memphis International Airport",
@@ -1346,8 +1346,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Joseph",
     "imageCreditLink": "https://www.flickr.com/photos/josepha/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mex.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mex.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mex",
     "code": "mex",
     "name": "Aeropuerto Internacional Benito Juárez",
@@ -1360,8 +1360,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "George Oates",
     "imageCreditLink": "https://www.flickr.com/photos/george/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mht.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mht.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mht",
     "code": "mht",
     "name": "Manchester–Boston Regional Airport",
@@ -1375,8 +1375,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Elizabeth Krumbach Joseph",
     "imageCreditLink": "https://www.flickr.com/photos/pleia2/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mia.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mia.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mia",
     "code": "mia",
     "name": "Miami International Airport",
@@ -1388,8 +1388,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Lotus Carroll",
     "imageCreditLink": "https://www.flickr.com/photos/thelotuscarroll/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/mke.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mke.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "mke",
     "code": "mke",
     "name": "General Mitchell International Airport",
@@ -1401,8 +1401,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jasonic",
     "imageCreditLink": "https://www.flickr.com/photos/jasonik/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/msp.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/msp.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "msp",
     "code": "msp",
     "name": "Minneapolis–Saint Paul International Airport",
@@ -1416,8 +1416,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Tom Kelly",
     "imageCreditLink": "https://www.flickr.com/photos/tkellyphoto/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/msy.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/msy.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "msy",
     "code": "msy",
     "name": "Louis Armstrong International Airport",
@@ -1429,8 +1429,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "3dom",
     "imageCreditLink": "https://www.flickr.com/photos/visualities/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/muc.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/muc.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "muc",
     "code": "muc",
     "name": "Flughafen München Franz Josef Strauß",
@@ -1444,8 +1444,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Gache Wurzn",
     "imageCreditLink": "https://www.flickr.com/photos/gachewurzn/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/nce.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/nce.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "nce",
     "code": "nce",
     "name": "Aéroport Nice Côte d'Azur",
@@ -1459,8 +1459,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "m-louis .®",
     "imageCreditLink": "https://www.flickr.com/photos/m-louis/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/ogg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ogg.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ogg",
     "code": "ogg",
     "name": "Kahului Airport",
@@ -1473,8 +1473,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jonathan Caves",
     "imageCreditLink": "https://www.flickr.com/photos/j-and-p/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/okc.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/okc.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "okc",
     "code": "okc",
     "name": "Will Rogers World Airport",
@@ -1486,8 +1486,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Wesley Fryer",
     "imageCreditLink": "https://www.flickr.com/photos/wfryer/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/oma.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/oma.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "oma",
     "code": "oma",
     "name": "Eppley Airfield",
@@ -1499,8 +1499,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jimmy Emerson",
     "imageCreditLink": "https://www.flickr.com/photos/auvet/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/ord.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ord.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ord",
     "code": "ord",
     "name": "O’Hare International Airport",
@@ -1512,8 +1512,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Nick Harris",
     "imageCreditLink": "https://www.flickr.com/photos/nickharris1/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/orf.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/orf.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "orf",
     "code": "orf",
     "name": "Norfolk International Airport",
@@ -1525,8 +1525,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Stacey Huggins",
     "imageCreditLink": "https://www.flickr.com/photos/staceyhuggins/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/ory.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ory.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "ory",
     "code": "ory",
     "name": "Aéroport de Paris-Orly",
@@ -1541,8 +1541,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Grid",
     "imageCreditLink": "https://www.flickr.com/photos/gridboy/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/osl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/osl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "osl",
     "code": "osl",
     "name": "Oslo lufthavn",
@@ -1556,8 +1556,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "jaime.silva",
     "imageCreditLink": "https://www.flickr.com/photos/20792787@N00/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/pdx.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pdx.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "pdx",
     "code": "pdx",
     "name": "Portland International Airport",
@@ -1569,8 +1569,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "pfly",
     "imageCreditLink": "https://www.flickr.com/photos/pfly/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/pek.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pek.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "pek",
     "code": "pek",
     "name": "Beijing Capital International Airport",
@@ -1582,8 +1582,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Matt Weibo",
     "imageCreditLink": "https://www.flickr.com/photos/mattweibo/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/phl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/phl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "phl",
     "code": "phl",
     "name": "Philadelphia International Airport",
@@ -1595,8 +1595,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "uchiuska",
     "imageCreditLink": "https://www.flickr.com/photos/uchiuska/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/phx.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/phx.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "phx",
     "code": "phx",
     "name": "Sky Harbor International Airport",
@@ -1608,8 +1608,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Liebe5",
     "imageCreditLink": "https://www.flickr.com/photos/68956811@N00/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/pit.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pit.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "pit",
     "code": "pit",
     "name": "Pittsburgh International Airport",
@@ -1623,8 +1623,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "John Marino",
     "imageCreditLink": "https://www.flickr.com/photos/j26/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/prg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/prg.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "prg",
     "code": "prg",
     "name": "Letiště Václava Havla Praha",
@@ -1638,8 +1638,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jill",
     "imageCreditLink": "https://www.flickr.com/photos/73489862@N00/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/psc.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/psc.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "psc",
     "code": "psc",
     "name": "Tri-Cities Airport",
@@ -1654,8 +1654,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCreditLink": "https://www.flickr.com/photos/pleeker/"
 }
 
-},{}],"/Users/lfisher/git/airport-codes/data/pvd.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pvd.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "pvd",
     "code": "pvd",
     "name": "Theodore Francis Green Memorial State Airport",
@@ -1668,8 +1668,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Marc Choquette",
     "imageCreditLink": "https://www.flickr.com/photos/23185977@N08/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/pwm.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pwm.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "pwm",
     "code": "pwm",
     "name": "Portland International Jetport",
@@ -1682,8 +1682,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Jimmy Emerson",
     "imageCreditLink": "https://www.flickr.com/photos/auvet/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/rdu.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rdu.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "rdu",
     "code": "rdu",
     "name": "Raleigh–Durham International Airport",
@@ -1696,8 +1696,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Suzie Tremmel",
     "imageCreditLink": "https://www.flickr.com/photos/23727257@N00/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/rix.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rix.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "rix",
     "code": "rix",
     "name": "Starptautiskā lidosta “Rīga”",
@@ -1710,8 +1710,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Dainis Matisons",
     "imageCreditLink": "https://www.flickr.com/photos/dainismatisons/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/rsw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rsw.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "rsw",
     "code": "rsw",
     "name": "Southwest Florida International Airport",
@@ -1723,8 +1723,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "B",
     "imageCreditLink": "https://www.flickr.com/photos/11561957@N06/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/scl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/scl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "scl",
     "code": "scl",
     "name": "Aeropuerto Internacional Comodoro Arturo Merino Benítez",
@@ -1738,8 +1738,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "lane becker",
     "imageCreditLink": "https://www.flickr.com/photos/monstro/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/sdf.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sdf.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "sdf",
     "code": "sdf",
     "name": "Louisville International Airport",
@@ -1751,8 +1751,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Lisa Padilla",
     "imageCreditLink": "https://www.flickr.com/photos/lisap/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/sea.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sea.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "sea",
     "code": "sea",
     "name": "Seattle–Tacoma International Airport",
@@ -1766,8 +1766,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "drburtoni",
     "imageCreditLink": "https://www.flickr.com/photos/84346589@N00/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/sfo.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sfo.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "sfo",
     "code": "sfo",
     "name": "San Francisco International Airport",
@@ -1779,8 +1779,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Richard Winchell",
     "imageCreditLink": "https://www.flickr.com/photos/richardwinchell/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/slc.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/slc.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "slc",
     "code": "slc",
     "name": "Salt Lake City International Airport",
@@ -1792,8 +1792,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Andrew Herington",
     "imageCreditLink": "https://www.flickr.com/photos/aherington/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/smf.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/smf.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "smf",
     "code": "smf",
     "name": "Sacramento International Airport",
@@ -1805,8 +1805,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Rich",
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/sna.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sna.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "sna",
     "code": "sna",
     "name": "John Wayne International Airport",
@@ -1819,8 +1819,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Peter Talke",
     "imageCreditLink": "https://www.flickr.com/photos/talkephotography/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/stl.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/stl.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "stl",
     "code": "stl",
     "name": "Lambert–St. Louis International Airport",
@@ -1832,8 +1832,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Rich",
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/sux.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sux.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "sux",
     "code": "sux",
     "name": "Sioux Gateway Airport",
@@ -1845,8 +1845,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "David Mulder",
     "imageCreditLink": "https://www.flickr.com/photos/113026679@N03/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/syd.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/syd.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "syd",
     "code": "syd",
     "name": "Sydney (Kingsford Smith) Airport",
@@ -1858,8 +1858,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Bobby Das",
     "imageCreditLink": "https://www.flickr.com/photos/bobbydas/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/szg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/szg.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "szg",
     "code": "szg",
     "name": "Salzburg Airport W. A. Mozart",
@@ -1871,8 +1871,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "flightlog",
     "imageCreditLink": "https://www.flickr.com/photos/flightlog/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/tbs.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tbs.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "tbs",
     "code": "tbs",
     "name": "Tbilisi International Airport",
@@ -1884,8 +1884,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "James Emery",
     "imageCreditLink": "https://www.flickr.com/photos/emeryjl/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/tia.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tia.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "tia",
     "code": "tia",
     "name": "Tirana International Airport Nënë Tereza",
@@ -1898,8 +1898,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "George Redgrave",
     "imageCreditLink": "https://www.flickr.com/photos/funfilledgeorgie/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/tll.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tll.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "tll",
     "code": "tll",
     "name": "Lennart Meri Tallinna lennujaam",
@@ -1912,8 +1912,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Ton Zijlstra",
     "imageCreditLink": "https://www.flickr.com/photos/tonz/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/vie.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/vie.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "vie",
     "code": "vie",
     "name": "Flughafen Wien-Schwechat",
@@ -1927,8 +1927,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "rosmary",
     "imageCreditLink": "https://www.flickr.com/photos/rvoegtli/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/waw.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/waw.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "waw",
     "code": "waw",
     "name": "Lotnisko Chopina w Warszawie",
@@ -1943,8 +1943,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Robert S. Donovan",
     "imageCreditLink": "https://www.flickr.com/photos/booleansplit/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/wlg.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/wlg.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "wlg",
     "code": "wlg",
     "name": "Wellington International Airport",
@@ -1957,8 +1957,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Kathrin & Stefan Marks",
     "imageCreditLink": "https://www.flickr.com/photos/ks_marks/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/yqb.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yqb.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "yqb",
     "code": "yqb",
     "name": "Aéoport international Jean-Lesage de Québec",
@@ -1971,8 +1971,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Eric Bégin",
     "imageCreditLink": "https://www.flickr.com/photos/ericbegin/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/yvr.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yvr.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "yvr",
     "code": "yvr",
     "name": "Vancouver International Airport",
@@ -1985,8 +1985,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Rick Schwartz",
     "imageCreditLink": "https://www.flickr.com/photos/justenoughfocus/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/yyz.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yyz.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "yyz",
     "code": "yyz",
     "name": "Pearson International Airport",
@@ -2000,8 +2000,8 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Coralie Mercier",
     "imageCreditLink": "https://www.flickr.com/photos/koalie/"
 }
-},{}],"/Users/lfisher/git/airport-codes/data/zrh.json":[function(require,module,exports){
-module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/zrh.json":[function(require,module,exports){
+module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports=module.exports={
     "id": "zrh",
     "code": "zrh",
     "name": "Flughafen Zürich",
@@ -2015,7 +2015,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
     "imageCredit": "Reto Fetz",
     "imageCreditLink": "https://www.flickr.com/photos/swisscan/"
 }
-},{}],"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js":[function(require,module,exports){
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js":[function(require,module,exports){
 //     Backbone.js 1.1.2
 
 //     (c) 2010-2014 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
@@ -3625,7 +3625,7 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
 
 }));
 
-},{"underscore":"/Users/lfisher/git/airport-codes/node_modules/backbone/node_modules/underscore/underscore.js"}],"/Users/lfisher/git/airport-codes/node_modules/backbone/node_modules/underscore/underscore.js":[function(require,module,exports){
+},{"underscore":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/node_modules/underscore/underscore.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/node_modules/underscore/underscore.js":[function(require,module,exports){
 //     Underscore.js 1.8.2
 //     http://underscorejs.org
 //     (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
@@ -5163,9 +5163,9 @@ module.exports=module.exports=module.exports=module.exports=module.exports=modul
   }
 }.call(this));
 
-},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/browser-resolve/empty.js":[function(require,module,exports){
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/browser-resolve/empty.js":[function(require,module,exports){
 
-},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/inherits/inherits_browser.js":[function(require,module,exports){
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/inherits/inherits_browser.js":[function(require,module,exports){
 if (typeof Object.create === 'function') {
   // implementation from standard node.js 'util' module
   module.exports = function inherits(ctor, superCtor) {
@@ -5190,7 +5190,7 @@ if (typeof Object.create === 'function') {
   }
 }
 
-},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/process/browser.js":[function(require,module,exports){
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/process/browser.js":[function(require,module,exports){
 // shim for using process in browser
 
 var process = module.exports = {};
@@ -5250,14 +5250,14 @@ process.chdir = function (dir) {
 };
 process.umask = function() { return 0; };
 
-},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/support/isBufferBrowser.js":[function(require,module,exports){
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/util/support/isBufferBrowser.js":[function(require,module,exports){
 module.exports = function isBuffer(arg) {
   return arg && typeof arg === 'object'
     && typeof arg.copy === 'function'
     && typeof arg.fill === 'function'
     && typeof arg.readUInt8 === 'function';
 }
-},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/util.js":[function(require,module,exports){
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/util/util.js":[function(require,module,exports){
 (function (process,global){
 // Copyright Joyent, Inc. and other Node contributors.
 //
@@ -5847,7 +5847,7 @@ function hasOwnProperty(obj, prop) {
 }
 
 }).call(this,require('_process'),typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./support/isBuffer":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/support/isBufferBrowser.js","_process":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/process/browser.js","inherits":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/inherits/inherits_browser.js"}],"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js":[function(require,module,exports){
+},{"./support/isBuffer":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/util/support/isBufferBrowser.js","_process":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/process/browser.js","inherits":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/inherits/inherits_browser.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js":[function(require,module,exports){
 (function (global){
 !function(e){if("object"==typeof exports&&"undefined"!=typeof module)module.exports=e();else if("function"==typeof define&&define.amd)define([],e);else{var f;"undefined"!=typeof window?f=window:"undefined"!=typeof global?f=global:"undefined"!=typeof self&&(f=self),f.jade=e()}}(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 'use strict';
@@ -6088,7 +6088,7 @@ exports.rethrow = function rethrow(err, filename, lineno, str){
 },{}]},{},[1])(1)
 });
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"fs":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/browser-resolve/empty.js"}],"/Users/lfisher/git/airport-codes/node_modules/jquery/dist/jquery.js":[function(require,module,exports){
+},{"fs":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/browser-resolve/empty.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jquery/dist/jquery.js":[function(require,module,exports){
 /*!
  * jQuery JavaScript Library v2.1.3
  * http://jquery.com/
@@ -15295,12 +15295,12 @@ return jQuery;
 
 }));
 
-},{}],"/Users/lfisher/git/airport-codes/node_modules/markdown/lib/index.js":[function(require,module,exports){
+},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/markdown/lib/index.js":[function(require,module,exports){
 // super simple module for the most common nodejs use case.
 exports.markdown = require("./markdown");
 exports.parse = exports.markdown.toHTML;
 
-},{"./markdown":"/Users/lfisher/git/airport-codes/node_modules/markdown/lib/markdown.js"}],"/Users/lfisher/git/airport-codes/node_modules/markdown/lib/markdown.js":[function(require,module,exports){
+},{"./markdown":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/markdown/lib/markdown.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/markdown/lib/markdown.js":[function(require,module,exports){
 // Released under MIT license
 // Copyright (c) 2009-2010 Dominic Baggott
 // Copyright (c) 2009-2010 Ash Berlin
@@ -17027,7 +17027,7 @@ function merge_text_nodes( jsonml ) {
   }
 } )() );
 
-},{"util":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/util.js"}],"/Users/lfisher/git/airport-codes/src/AppRouter.js":[function(require,module,exports){
+},{"util":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/util/util.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/AppRouter.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var AboutView = require('./views/AboutView');
 var ContributeView = require('./views/ContributeView');
@@ -17039,6 +17039,7 @@ var Router = Backbone.Router.extend({
 
   initialize: function(options) {
     this.airports = options.airports;
+    this._lastOffset = 0;
   },
 
   routes: {
@@ -17066,10 +17067,16 @@ var Router = Backbone.Router.extend({
     }
   },
 
+  _resetOffset: function() {
+    Backbone.$('body').scrollTop(this._lastOffset);
+  },
+
   default: function() {
     this._hideAbout();
     this._hideContribute();
     this._hideAirports();
+    this._resetOffset();
+
     Backbone.$('body').removeClass('detail-open');
   },
 
@@ -17080,9 +17087,10 @@ var Router = Backbone.Router.extend({
     }
 
     this._aboutView.show();
-
     this._hideContribute();
     this._hideAirports();
+    this._lastOffset = window.scrollY;
+
     Backbone.$('body').addClass('detail-open');
   },
 
@@ -17093,9 +17101,10 @@ var Router = Backbone.Router.extend({
     }
 
     this._contributeView.show();
-
     this._hideAirports();
     this._hideAbout();
+    this._lastOffset = window.scrollY;
+
     Backbone.$('body').addClass('detail-open');
   },
 
@@ -17105,6 +17114,7 @@ var Router = Backbone.Router.extend({
     this._hideAbout();
     this._hideContribute();
     this._hideAirports();
+    this._lastOffset = window.scrollY;
 
     if (airport) {
       if (this.views.indexOf(code) < 0) {
@@ -17123,7 +17133,7 @@ var Router = Backbone.Router.extend({
 });
 
 module.exports = Router;
-},{"./views/AboutView":"/Users/lfisher/git/airport-codes/src/views/AboutView.js","./views/AirportDetailView":"/Users/lfisher/git/airport-codes/src/views/AirportDetailView.js","./views/ContributeView":"/Users/lfisher/git/airport-codes/src/views/ContributeView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/collections/Airports.js":[function(require,module,exports){
+},{"./views/AboutView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AboutView.js","./views/AirportDetailView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportDetailView.js","./views/ContributeView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/ContributeView.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/collections/Airports.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var Airport = require('../models/Airport');
 
@@ -17136,7 +17146,7 @@ var Airports = Backbone.Collection.extend({
 });
 
 module.exports = Airports;
-},{"../models/Airport":"/Users/lfisher/git/airport-codes/src/models/Airport.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/models/Airport.js":[function(require,module,exports){
+},{"../models/Airport":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/models/Airport.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/models/Airport.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var markdown = require('markdown').markdown;
 
@@ -17162,7 +17172,7 @@ var Airport = Backbone.Model.extend({
 });
 
 module.exports = Airport;
-},{"backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js","markdown":"/Users/lfisher/git/airport-codes/node_modules/markdown/lib/index.js"}],"/Users/lfisher/git/airport-codes/src/views/AboutView.js":[function(require,module,exports){
+},{"backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js","markdown":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/markdown/lib/index.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AboutView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/AboutView.jade');
 
@@ -17187,7 +17197,7 @@ var AboutView = Backbone.View.extend({
 });
 
 module.exports = AboutView;
-},{"./templates/AboutView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AboutView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportDetailView.js":[function(require,module,exports){
+},{"./templates/AboutView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AboutView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportDetailView.js":[function(require,module,exports){
 (function (process){
 var Backbone = require('backbone');
 var SocialView = require('./SocialView');
@@ -17273,7 +17283,7 @@ var AirportDetailView = Backbone.View.extend({
 
 module.exports = AirportDetailView;
 }).call(this,require('_process'))
-},{"./SocialView":"/Users/lfisher/git/airport-codes/src/views/SocialView.js","./templates/AirportDetailView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AirportDetailView.jade","_process":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/process/browser.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportListView.js":[function(require,module,exports){
+},{"./SocialView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/SocialView.js","./templates/AirportDetailView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AirportDetailView.jade","_process":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/process/browser.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportListView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var AirportView = require('./AirportView');
 var ContributeItemView = require('./ContributeItemView');
@@ -17315,7 +17325,7 @@ var AirportListView = Backbone.View.extend({
 });
 
 module.exports = AirportListView;
-},{"./AirportView":"/Users/lfisher/git/airport-codes/src/views/AirportView.js","./ContributeItemView":"/Users/lfisher/git/airport-codes/src/views/ContributeItemView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportView.js":[function(require,module,exports){
+},{"./AirportView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportView.js","./ContributeItemView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/ContributeItemView.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/AirportView.jade');
 
@@ -17355,7 +17365,7 @@ var AirportView = Backbone.View.extend({
 });
 
 module.exports = AirportView;
-},{"./templates/AirportView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AirportView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AppView.js":[function(require,module,exports){
+},{"./templates/AirportView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AirportView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AppView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var SearchView = require('./SearchView');
 var AirportListView = require('./AirportListView');
@@ -17385,7 +17395,7 @@ var AppView = Backbone.View.extend({
 });
 
 module.exports = AppView;
-},{"./AirportListView":"/Users/lfisher/git/airport-codes/src/views/AirportListView.js","./SearchView":"/Users/lfisher/git/airport-codes/src/views/SearchView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/ContributeItemView.js":[function(require,module,exports){
+},{"./AirportListView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportListView.js","./SearchView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/SearchView.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/ContributeItemView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/ContributeItemView.jade');
 
@@ -17402,7 +17412,7 @@ var ContributeItemView = Backbone.View.extend({
 });
 
 module.exports = ContributeItemView;
-},{"./templates/ContributeItemView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/ContributeItemView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/ContributeView.js":[function(require,module,exports){
+},{"./templates/ContributeItemView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/ContributeItemView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/ContributeView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/ContributeView.jade');
 
@@ -17427,7 +17437,7 @@ var ContributeView = Backbone.View.extend({
 });
 
 module.exports = ContributeView;
-},{"./templates/ContributeView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/ContributeView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/SearchView.js":[function(require,module,exports){
+},{"./templates/ContributeView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/ContributeView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/SearchView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/SearchView.jade');
 
@@ -17440,7 +17450,8 @@ var SearchView = Backbone.View.extend({
   tagName: 'header',
 
   events: {
-    'keyup input': '_handleKey'
+    'keyup input': '_handleKey',
+    'click button.clear': '_handleReset'
   },
 
   initialize: function(options) {
@@ -17450,6 +17461,11 @@ var SearchView = Backbone.View.extend({
   _handleKey: function(event) {
     var $el = this.$(event.target);
     this._search($el.val());
+  },
+
+  _handleReset: function(event) {
+    event.preventDefault();
+    this.$('input').val('').keyup();
   },
 
   _search: function(value) {
@@ -17482,7 +17498,7 @@ var SearchView = Backbone.View.extend({
 });
 
 module.exports = SearchView;
-},{"./templates/SearchView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/SearchView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/SocialView.js":[function(require,module,exports){
+},{"./templates/SearchView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/SearchView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/SocialView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/SocialView.jade');
 
@@ -17523,7 +17539,7 @@ var SocialView = Backbone.View.extend({
 });
 
 module.exports = SocialView;
-},{"./templates/SocialView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/SocialView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/AboutView.jade":[function(require,module,exports){
+},{"./templates/SocialView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/SocialView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AboutView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17533,7 +17549,7 @@ var jade_interp;
 
 buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"content\"><h1>About</h1><p>Every airport has a unique three-letter <a href=\"http://en.wikipedia.org/wiki/International_Air_Transport_Association\">IATA</a> code. Some make sense if you know the city or the name of the airport and others, well, what the heck?</p><p>Turns out there’s usually a reasonable explanation. Knowing what each IATA code stands for isn’t super useful, but it sure can be fun.</p><p>This site was designed and built by <a href=\"https://twitter.com/lynnandtonic\">Lynn Fisher</a> and <a href=\"https://twitter.com/nickcrohn\">Nick Crohn</a>.</p><hr/><p class=\"quote\">“Hey, you left [my airport] off the list!”</p><a href=\"#contribute\" class=\"btn\">Contribute</a><hr/><div class=\"footnote\"><p>All photographs are from Flickr, under Creative Commons licenses.</p><p>Sources: <a href=\"http://www.wikipedia.org/\">wikipedia.org</a>, <a href=\"http://www.skygod.com/asstd/abc.html\">skygod.com</a>, <a href=\"http://www.city-data.com/forum/toronto/2177590-why-airport-code-toronto-yyz.html\">citydata.com</a>, <a href=\"http://abcnews.go.com/Travel/history-airport-codes-logic-letter-codes/story?id=11684406&amp;singlePage=true\">abcnews.com</a></p></div></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");;return buf.join("");
 };
-},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/AirportDetailView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AirportDetailView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17543,7 +17559,7 @@ var jade_interp;
 ;var locals_for_with = (locals || {});(function (city, code, country, description, imageCredit, imageCreditLink, name, stateShort) {
 buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"detail-info\"><h1>" + (jade.escape(null == (jade_interp = code) ? "" : jade_interp)) + "</h1><h2>" + (jade.escape(null == (jade_interp = name) ? "" : jade_interp)) + "</h2><h3><span class=\"city\">" + (jade.escape(null == (jade_interp = city) ? "" : jade_interp)) + "</span><span class=\"state\">" + (jade.escape(null == (jade_interp = stateShort) ? "" : jade_interp)) + "</span><span class=\"country\">" + (jade.escape(null == (jade_interp = country) ? "" : jade_interp)) + "</span></h3><div class=\"description\">" + (null == (jade_interp = description) ? "" : jade_interp) + "</div></div><div class=\"photo-credit\">photo by <a" + (jade.attr("href", imageCreditLink, true, false)) + ">" + (jade.escape(null == (jade_interp = imageCredit) ? "" : jade_interp)) + "</a></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");}.call(this,"city" in locals_for_with?locals_for_with.city:typeof city!=="undefined"?city:undefined,"code" in locals_for_with?locals_for_with.code:typeof code!=="undefined"?code:undefined,"country" in locals_for_with?locals_for_with.country:typeof country!=="undefined"?country:undefined,"description" in locals_for_with?locals_for_with.description:typeof description!=="undefined"?description:undefined,"imageCredit" in locals_for_with?locals_for_with.imageCredit:typeof imageCredit!=="undefined"?imageCredit:undefined,"imageCreditLink" in locals_for_with?locals_for_with.imageCreditLink:typeof imageCreditLink!=="undefined"?imageCreditLink:undefined,"name" in locals_for_with?locals_for_with.name:typeof name!=="undefined"?name:undefined,"stateShort" in locals_for_with?locals_for_with.stateShort:typeof stateShort!=="undefined"?stateShort:undefined));;return buf.join("");
 };
-},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/AirportView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AirportView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17553,7 +17569,7 @@ var jade_interp;
 ;var locals_for_with = (locals || {});(function (code) {
 buf.push("<a" + (jade.attr("href", "#airport/"+code, true, false)) + ">" + (jade.escape(null == (jade_interp = code) ? "" : jade_interp)) + "</a>");}.call(this,"code" in locals_for_with?locals_for_with.code:typeof code!=="undefined"?code:undefined));;return buf.join("");
 };
-},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/ContributeItemView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/ContributeItemView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17563,7 +17579,7 @@ var jade_interp;
 
 buf.push("<a href=\"#contribute\"><span class=\"placeholder\">New</span><span class=\"card-contribute-content\">Contribute an airport</span></a>");;return buf.join("");
 };
-},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/ContributeView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/ContributeView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17573,7 +17589,7 @@ var jade_interp;
 
 buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"content\"><h1>Contribute</h1><p>There are lots (and we mean lots!) of airports in the world. We’ll add as many as we can and we encourage you to contribute airports, too.</p><p>A couple ways you can help make the site more awesome:</p><ul><li>Tweet at us! We’d love to hear your suggestions. We’re <a href=\"https://twitter.com/lynnandtonic\">@lynnandtonic</a> and <a href=\"https://twitter.com/nickcrohn\">@nickcrohn</a> on Twitter.</li><li>Contribute code and/or content to Airport Codes via <a href=\"https://github.com/lynnandtonic/airport-codes\">GitHub</a>.</li></ul><hr/><p class=\"quote\">Fly well, friends.</p><a href=\"#\" class=\"btn\">Back to Airport Codes</a><hr/></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");;return buf.join("");
 };
-},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/SearchView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/SearchView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17581,9 +17597,9 @@ var buf = [];
 var jade_mixins = {};
 var jade_interp;
 
-buf.push("<nav class=\"cf\"><h1><a href=\"#\">Airport Codes</a><a href=\"#about\" class=\"nav-about\">About</a></h1><input type=\"text\" name=\"search\" autocomplete=\"off\" placeholder=\"Find your airport\"/></nav>");;return buf.join("");
+buf.push("<nav class=\"cf\"><h1><a href=\"#\">Airport Codes</a><a href=\"#about\" class=\"nav-about\">About</a></h1><input type=\"text\" name=\"search\" autocomplete=\"off\" placeholder=\"Find your airport\"/><button type=\"reset\" class=\"clear\"></button></nav>");;return buf.join("");
 };
-},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/SocialView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/SocialView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17593,6 +17609,6 @@ var jade_interp;
 ;var locals_for_with = (locals || {});(function (type, url) {
 buf.push("<a" + (jade.attr("href", url, true, false)) + (jade.cls([type], [true])) + ">Share on <span>" + (jade.escape(null == (jade_interp = type) ? "" : jade_interp)) + "</span></a>");}.call(this,"type" in locals_for_with?locals_for_with.type:typeof type!=="undefined"?type:undefined,"url" in locals_for_with?locals_for_with.url:typeof url!=="undefined"?url:undefined));;return buf.join("");
 };
-},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}]},{},["./src/App.js"]);
+},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}]},{},["./src/App.js"]);
 
 //# sourceMappingURL=app.js.map
