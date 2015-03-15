@@ -28,7 +28,7 @@ jquery(function() {
   var application = new Application();
 });
 
-},{"../data":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/index.js","./AppRouter":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/AppRouter.js","./collections/Airports":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/collections/Airports.js","./views/AppView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AppView.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js","jquery":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jquery/dist/jquery.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/abq.json":[function(require,module,exports){
+},{"../data":"/Users/lfisher/git/airport-codes/data/index.js","./AppRouter":"/Users/lfisher/git/airport-codes/src/AppRouter.js","./collections/Airports":"/Users/lfisher/git/airport-codes/src/collections/Airports.js","./views/AppView":"/Users/lfisher/git/airport-codes/src/views/AppView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js","jquery":"/Users/lfisher/git/airport-codes/node_modules/jquery/dist/jquery.js"}],"/Users/lfisher/git/airport-codes/data/abq.json":[function(require,module,exports){
 module.exports={
     "id": "abq",
     "code": "abq",
@@ -41,7 +41,7 @@ module.exports={
     "imageCredit": "David Basanta",
     "imageCreditLink": "https://www.flickr.com/photos/dbasanta/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/akl.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/akl.json":[function(require,module,exports){
 module.exports={
     "id": "akl",
     "code": "akl",
@@ -55,7 +55,7 @@ module.exports={
     "imageCredit": "mario_ruckh",
     "imageCreditLink": "https://www.flickr.com/photos/ruckh/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ams.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ams.json":[function(require,module,exports){
 module.exports={
     "id": "ams",
     "code": "ams",
@@ -71,7 +71,7 @@ module.exports={
     "imageCredit": "Wayne Taylor",
     "imageCreditLink": "https://www.flickr.com/photos/wonderwheel/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/anc.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/anc.json":[function(require,module,exports){
 module.exports={
     "id": "anc",
     "code": "anc",
@@ -84,7 +84,7 @@ module.exports={
     "imageCredit": "Frank Kovalchek",
     "imageCreditLink": "https://www.flickr.com/photos/72213316@N00/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/arn.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/arn.json":[function(require,module,exports){
 module.exports={
     "id": "arn",
     "code": "arn",
@@ -100,7 +100,7 @@ module.exports={
     "imageCredit": "Samuel Bietenholz",
     "imageCreditLink": "https://www.flickr.com/photos/sunnyshine80/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/atl.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/atl.json":[function(require,module,exports){
 module.exports={
     "id": "atl",
     "code": "atl",
@@ -113,7 +113,7 @@ module.exports={
     "imageCredit": "Jon Tan",
     "imageCreditLink": "https://www.flickr.com/photos/jontangerine/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/aus.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/aus.json":[function(require,module,exports){
 module.exports={
     "id": "aus",
     "code": "aus",
@@ -126,7 +126,21 @@ module.exports={
     "imageCredit": "Jon Collier",
     "imageCreditLink": "https://www.flickr.com/photos/imnotquitejack/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bdl.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/aza.json":[function(require,module,exports){
+module.exports={
+    "id": "aza",
+    "code": "aza",
+    "name": "Phoenix-Mesa Gateway Airport",
+    "city": "Phoenix",
+    "city2": "Mesa",
+    "state": "Arizona",
+    "stateShort": "AZ",
+    "country": "USA",
+    "description": "Formerly named after 1st Lt. Charles Williams of the U.S. Army Air Corps, Phoenix-Mesa Gateway is the lucky airport whose airport code honors its home state of *A*ri*z*on*a*.",
+    "imageCredit": "David Crummey",
+    "imageCreditLink": "https://www.flickr.com/photos/dcrummey/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/bdl.json":[function(require,module,exports){
 module.exports={
     "id": "bdl",
     "code": "bdl",
@@ -141,7 +155,21 @@ module.exports={
     "imageCredit": "Pixel",
     "imageCreditLink": "https://www.flickr.com/photos/improbcat/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bhm.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/beg.json":[function(require,module,exports){
+module.exports={
+    "id": "beg",
+    "code": "beg",
+    "name": "Aerodrom Beograd - Nikola Tesla",
+    "nameEnglish": "Belgrade Nikola Tesla Airport",
+    "city": "Belgrade",
+    "state": "",
+    "stateShort": "",
+    "country": "Serbia",
+    "description": "Previously known as *Be*l*g*rade Airport or Surčin Airport, it was renamed in 2006 in honor of Serbian scientist and inventor Nikola Tesla. It is the busiest airport in the former Yugoslavia.",
+    "imageCredit": "Paradasos",
+    "imageCreditLink": "https://www.flickr.com/photos/paradasos/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/bhm.json":[function(require,module,exports){
 module.exports={
     "id": "bhm",
     "code": "bhm",
@@ -154,7 +182,7 @@ module.exports={
     "imageCredit": "mary",
     "imageCreditLink": "https://www.flickr.com/photos/maryatuab/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bhx.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bhx.json":[function(require,module,exports){
 module.exports={
     "id": "bhx",
     "code": "bhx",
@@ -167,7 +195,7 @@ module.exports={
     "imageCredit": "Martin Hartland",
     "imageCreditLink": "https://www.flickr.com/photos/martin_hartland/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bna.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bna.json":[function(require,module,exports){
 module.exports={
     "id": "bna",
     "code": "bna",
@@ -180,7 +208,7 @@ module.exports={
     "imageCredit": "Shooting Chris",
     "imageCreditLink": "https://www.flickr.com/photos/shootingchris/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bog.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bog.json":[function(require,module,exports){
 module.exports={
     "id": "bog",
     "code": "bog",
@@ -194,7 +222,7 @@ module.exports={
     "imageCredit": "Stephen Downes",
     "imageCreditLink": "https://www.flickr.com/photos/stephen_downes/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/boh.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/boh.json":[function(require,module,exports){
 module.exports={
     "id": "boh",
     "code": "boh",
@@ -208,7 +236,7 @@ module.exports={
     "imageCredit": "Dean Morley",
     "imageCreditLink": "https://www.flickr.com/photos/33465428@N02/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/boi.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/boi.json":[function(require,module,exports){
 module.exports={
     "id": "boi",
     "code": "boi",
@@ -221,7 +249,7 @@ module.exports={
     "imageCredit": "Mark Hillary",
     "imageCreditLink": "https://www.flickr.com/photos/markhillary/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bom.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bom.json":[function(require,module,exports){
 module.exports={
     "id": "bom",
     "code": "bom",
@@ -234,7 +262,7 @@ module.exports={
     "imageCredit": "Chris Hoare",
     "imageCreditLink": "https://www.flickr.com/photos/u07ch/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bos.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bos.json":[function(require,module,exports){
 module.exports={
     "id": "bos",
     "code": "bos",
@@ -248,7 +276,7 @@ module.exports={
     "imageCredit": "Andrew Malone",
     "imageCreditLink": "https://www.flickr.com/photos/andrewmalone/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bru.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bru.json":[function(require,module,exports){
 module.exports={
     "id": "bru",
     "code": "bru",
@@ -263,7 +291,7 @@ module.exports={
     "imageCredit": "Patrice Heylighen",
     "imageCreditLink": "https://www.flickr.com/photos/126981452@N07/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/btv.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/btv.json":[function(require,module,exports){
 module.exports={
     "id": "btv",
     "code": "btv",
@@ -276,7 +304,7 @@ module.exports={
     "imageCredit": "Neil Hunt",
     "imageCreditLink": "https://www.flickr.com/photos/nhunt/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bud.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bud.json":[function(require,module,exports){
 module.exports={
     "id": "bud",
     "code": "bud",
@@ -290,7 +318,7 @@ module.exports={
     "imageCredit": "HatM",
     "imageCreditLink": "https://www.flickr.com/photos/hatm/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/buf.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/buf.json":[function(require,module,exports){
 module.exports={
     "id": "buf",
     "code": "buf",
@@ -306,7 +334,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/jjbowry_blogspot_com/"
 }
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bwi.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bwi.json":[function(require,module,exports){
 module.exports={
     "id": "bwi",
     "code": "bwi",
@@ -321,7 +349,7 @@ module.exports={
     "imageCredit": "Mike Procario",
     "imageCreditLink": "https://www.flickr.com/photos/procario/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bzn.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/bzn.json":[function(require,module,exports){
 module.exports={
     "id": "bzn",
     "code": "bzn",
@@ -335,7 +363,7 @@ module.exports={
     "imageCredit": "Roderick Hsiao",
     "imageCreditLink": "https://www.flickr.com/photos/roderickhsiao/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ccs.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ccs.json":[function(require,module,exports){
 module.exports={
     "id": "ccs",
     "code": "ccs",
@@ -350,7 +378,22 @@ module.exports={
     "imageCredit": "Carlos Graterol",
     "imageCreditLink": "https://www.flickr.com/photos/galletonn/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cdg.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ccu.json":[function(require,module,exports){
+module.exports={
+	"id": "ccu",
+	"code": "ccu",
+	"name":	"Netaji Subhas Chandra Bose International Airport",
+	"city":	"Kolkata",
+	"city2": "Calcutta",
+	"state": "West Bengal",
+	"stateShort": "WB",
+	"country": "India",
+	"description": "Previously Dum Dum Aiport, Netjai Subhas Chandra Bose International was renamed in 1995 to honor the Indian freedom fighter. Its airport code comes from a former spelling of Kolkata: *C*al*cu*tta.",
+	"imageCredit": "Paul Hamilton",
+	"imageCreditLink": "https://www.flickr.com/photos/paulhami/"
+}
+
+},{}],"/Users/lfisher/git/airport-codes/data/cdg.json":[function(require,module,exports){
 module.exports={
     "id": "cdg",
     "code": "cdg",
@@ -364,7 +407,7 @@ module.exports={
     "imageCredit": "Giacomo Carena",
     "imageCreditLink": "https://www.flickr.com/photos/jekkone/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cgh.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/cgh.json":[function(require,module,exports){
 module.exports={
     "id": "cgh",
     "code": "cgh",
@@ -379,7 +422,7 @@ module.exports={
     "imageCredit": "Barbara Dieu",
     "imageCreditLink": "https://www.flickr.com/photos/bee/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cgn.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/cgn.json":[function(require,module,exports){
 module.exports={
     "id": "cgn",
     "code": "cgn",
@@ -394,7 +437,7 @@ module.exports={
     "imageCredit": ".mw",
     "imageCreditLink": "https://www.flickr.com/photos/mwillms/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/chs.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/chs.json":[function(require,module,exports){
 module.exports={
     "id": "chs",
     "code": "chs",
@@ -408,7 +451,7 @@ module.exports={
     "imageCredit": "scpetrel",
     "imageCreditLink": "https://www.flickr.com/photos/scpetrel/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cid.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/cid.json":[function(require,module,exports){
 module.exports={
     "id": "cid",
     "code": "cid",
@@ -421,7 +464,7 @@ module.exports={
     "imageCredit": "Carole",
     "imageCreditLink": "https://www.flickr.com/photos/leita/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cle.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/cle.json":[function(require,module,exports){
 module.exports={
     "id": "cle",
     "code": "cle",
@@ -434,7 +477,7 @@ module.exports={
     "imageCredit": "Trey Ratcliff",
     "imageCreditLink": "https://www.flickr.com/photos/stuckincustoms/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/clt.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/clt.json":[function(require,module,exports){
 module.exports={
     "id": "clt",
     "code": "clt",
@@ -447,7 +490,7 @@ module.exports={
     "imageCredit": "Steve & Sara Emry",
     "imageCreditLink": "https://www.flickr.com/photos/emry/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cmh.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/cmh.json":[function(require,module,exports){
 module.exports={
     "id": "cmh",
     "code": "cmh",
@@ -460,7 +503,38 @@ module.exports={
     "imageCredit": "GmanViz",
     "imageCreditLink": "https://www.flickr.com/photos/gmanviz/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cph.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/cnf.json":[function(require,module,exports){
+module.exports={
+    "id": "cnf",
+    "code": "cnf",
+    "name": "Aeroporto Internacional Tancredo Neves - Confins",
+    "nameEnglish": "Tancredo Neves/Confins International Airport",
+    "city": "Belo Horizonte",
+    "city2": "Confins",
+    "state": "Minas Gerais",
+    "stateShort": "",
+    "country": "Brazil",
+    "description": "Named after former Brazilian President-elect Tancredo Neves, the airport that serves the Belo Horizonte metro area is located in the municipality of *C*o*nf*ins.",
+    "imageCredit": "pacgov",
+    "imageCreditLink": "https://www.flickr.com/photos/pacgov/"
+}
+
+},{}],"/Users/lfisher/git/airport-codes/data/cnx.json":[function(require,module,exports){
+module.exports={
+    "id": "cnx",
+    "code": "cnx",
+    "name": "Chiang Mai International Airport",
+    "city": "Chiang Mai",
+    "city2": "Lamphun",
+    "state": "",
+    "stateShort": "",
+    "country": "Thailand",
+    "description": "Many airports use the letter ‘X’ to fill in when the desired letters are already taken. *C*hia*n*g Mai International, a major gateway to the north of Thailand, uses that helpful ‘*X*’ in its airport code.",
+    "imageCredit": "autan",
+    "imageCreditLink": "https://www.flickr.com/photos/autanex/"
+}
+
+},{}],"/Users/lfisher/git/airport-codes/data/cph.json":[function(require,module,exports){
 module.exports={
     "id": "cph",
     "code": "cph",
@@ -475,7 +549,7 @@ module.exports={
     "imageCredit": "Arnþór Snær Sævarsson",
     "imageCreditLink": "https://www.flickr.com/photos/easysleazycheesy/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/crw.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/crw.json":[function(require,module,exports){
 module.exports={
     "id": "crw",
     "code": "crw",
@@ -488,7 +562,7 @@ module.exports={
     "imageCredit": "Rich",
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cvg.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/cvg.json":[function(require,module,exports){
 module.exports={
     "id": "cvg",
     "code": "cvg",
@@ -502,7 +576,7 @@ module.exports={
     "imageCredit": "Robert S. Donovan",
     "imageCreditLink": "https://www.flickr.com/photos/booleansplit/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/day.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/day.json":[function(require,module,exports){
 module.exports={
     "id": "day",
     "code": "day",
@@ -515,7 +589,7 @@ module.exports={
     "imageCredit": "redlegsfan21",
     "imageCreditLink": "https://www.flickr.com/photos/redlegsfan21/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dca.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/dca.json":[function(require,module,exports){
 module.exports={
     "id": "dca",
     "code": "dca",
@@ -529,7 +603,7 @@ module.exports={
     "imageCredit": "thisisbossi",
     "imageCreditLink": "https://www.flickr.com/photos/thisisbossi/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/del.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/del.json":[function(require,module,exports){
 module.exports={
 	"id": "del",
 	"code": "del",
@@ -544,7 +618,7 @@ module.exports={
 	"imageCreditLink": "https://www.flickr.com/photos/nadircruise/"
 }
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/den.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/den.json":[function(require,module,exports){
 module.exports={
     "id": "den",
     "code": "den",
@@ -557,7 +631,7 @@ module.exports={
     "imageCredit": "Bart Heird",
     "imageCreditLink": "https://www.flickr.com/photos/chicagobart/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dfw.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/dfw.json":[function(require,module,exports){
 module.exports={
     "id": "dfw",
     "code": "dfw",
@@ -571,7 +645,7 @@ module.exports={
     "imageCredit": "Jim Nix",
     "imageCreditLink": "https://www.flickr.com/photos/jimnix/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dtm.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/dtm.json":[function(require,module,exports){
 module.exports={
     "id": "dtm",
     "code": "dtm",
@@ -585,7 +659,7 @@ module.exports={
     "imageCredit": "Andreas",
     "imageCreditLink": "https://www.flickr.com/photos/zargony/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dtw.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/dtw.json":[function(require,module,exports){
 module.exports={
     "id": "dtw",
     "code": "dtw",
@@ -598,7 +672,7 @@ module.exports={
     "imageCredit": "Scott Beale",
     "imageCreditLink": "https://www.flickr.com/photos/laughingsquid/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dub.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/dub.json":[function(require,module,exports){
 module.exports={
     "id": "dub",
     "code": "dub",
@@ -613,7 +687,7 @@ module.exports={
     "imageCredit": "tearbringer",
     "imageCreditLink": "https://www.flickr.com/photos/tearbringer/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dus.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/dus.json":[function(require,module,exports){
 module.exports={
     "id": "dus",
     "code": "dus",
@@ -628,7 +702,7 @@ module.exports={
     "imageCredit": "Éole Wind",
     "imageCreditLink": "https://www.flickr.com/photos/eole/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dxb.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/dxb.json":[function(require,module,exports){
 module.exports={
     "id": "dxb",
     "code": "dxb",
@@ -642,7 +716,7 @@ module.exports={
     "imageCredit": "Roger Price",
     "imageCreditLink": "https://www.flickr.com/photos/rwp-roger/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/edi.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/edi.json":[function(require,module,exports){
 module.exports={
     "id": "edi",
     "code": "edi",
@@ -656,7 +730,7 @@ module.exports={
     "imageCredit": "Paradasos",
     "imageCreditLink": "https://www.flickr.com/photos/paradasos/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/evn.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/evn.json":[function(require,module,exports){
 module.exports={
     "id": "evn",
     "code": "evn",
@@ -671,7 +745,7 @@ module.exports={
     "imageCredit": "p.fabian",
     "imageCreditLink": "https://www.flickr.com/photos/fabianp/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ewr.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ewr.json":[function(require,module,exports){
 module.exports={
     "id": "ewr",
     "code": "ewr",
@@ -684,7 +758,7 @@ module.exports={
     "imageCredit": "BartNJ",
     "imageCreditLink": "https://www.flickr.com/photos/bartzoni/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/eze.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/eze.json":[function(require,module,exports){
 module.exports={
     "id": "eze",
     "code": "eze",
@@ -699,7 +773,20 @@ module.exports={
     "imageCredit": "Gilmar Mattos",
     "imageCreditLink": "https://www.flickr.com/photos/gijlmar/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fca.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/fat.json":[function(require,module,exports){
+module.exports={
+    "id": "fat",
+    "code": "fat",
+    "name": "Fresno Yosemite International Airport",
+    "city": "Fresno",
+    "state": "California",
+    "stateShort": "CA",
+    "country": "USA",
+    "description": "Located about 60 miles south of its namesake national park, Fresno Yosemite International Airport was renamed in 1947 from *F*resno *A*ir *T*erminal.",
+    "imageCredit": "Mike Boening",
+    "imageCreditLink": "https://www.flickr.com/photos/memoriesbymike/"
+}
+},{}],"/Users/lfisher/git/airport-codes/data/fca.json":[function(require,module,exports){
 module.exports={
     "id": "fca",
     "code": "fca",
@@ -713,7 +800,7 @@ module.exports={
     "imageCredit": "theilr",
     "imageCreditLink": "https://www.flickr.com/photos/theilr/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fco.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/fco.json":[function(require,module,exports){
 module.exports={
     "id": "fco",
     "code": "fco",
@@ -727,7 +814,7 @@ module.exports={
     "imageCredit": "Maurizio Pucci",
     "imageCreditLink": "https://www.flickr.com/photos/the_night_flier/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fra.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/fra.json":[function(require,module,exports){
 module.exports={
     "id": "fra",
     "code": "fra",
@@ -741,7 +828,7 @@ module.exports={
     "imageCredit": "Nicolás Rupcich",
     "imageCreditLink": "https://www.flickr.com/photos/nicolasrupcich/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fsd.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/fsd.json":[function(require,module,exports){
 module.exports={
     "id": "fsd",
     "code": "fsd",
@@ -754,7 +841,7 @@ module.exports={
     "imageCredit": "Donna",
     "imageCreditLink": "https://www.flickr.com/photos/pugfreak/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/geg.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/geg.json":[function(require,module,exports){
 module.exports={
     "id": "geg",
     "code": "geg",
@@ -767,7 +854,7 @@ module.exports={
     "imageCredit": "Chris Saulit",
     "imageCreditLink": "https://www.flickr.com/photos/csaulit/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gig.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/gig.json":[function(require,module,exports){
 module.exports={
     "id": "gig",
     "code": "gig",
@@ -781,7 +868,7 @@ module.exports={
     "imageCredit": "veroyama",
     "imageCreditLink": "https://www.flickr.com/photos/veroyama/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gla.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/gla.json":[function(require,module,exports){
 module.exports={
     "id": "gla",
     "code": "gla",
@@ -795,7 +882,7 @@ module.exports={
     "imageCredit": "Paisley Scotland",
     "imageCreditLink": "https://www.flickr.com/photos/paisleyorguk/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/grb.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/grb.json":[function(require,module,exports){
 module.exports={
     "id": "grb",
     "code": "grb",
@@ -809,7 +896,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/cimexus/"
 }
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/grr.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/grr.json":[function(require,module,exports){
 module.exports={
     "id": "grr",
     "code": "grr",
@@ -822,7 +909,7 @@ module.exports={
     "imageCredit": "Bill Couch",
     "imageCreditLink": "https://www.flickr.com/photos/wcouch/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gru.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/gru.json":[function(require,module,exports){
 module.exports={
     "id": "gru",
     "code": "gru",
@@ -838,7 +925,7 @@ module.exports={
     "imageCredit": "Fernando Stankuns",
     "imageCreditLink": "https://www.flickr.com/photos/stankuns/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gyd.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/gyd.json":[function(require,module,exports){
 module.exports={
     "id": "gyd",
     "code": "gyd",
@@ -851,7 +938,7 @@ module.exports={
     "imageCredit": "ge'shmally",
     "imageCreditLink": "https://www.flickr.com/photos/geshmally/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hel.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/hel.json":[function(require,module,exports){
 module.exports={
     "id": "hel",
     "code": "hel",
@@ -866,7 +953,7 @@ module.exports={
     "imageCredit": "Sergey Nazarov",
     "imageCreditLink": "https://www.flickr.com/photos/phearnot/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hkg.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/hkg.json":[function(require,module,exports){
 module.exports={
     "id": "hkg",
     "code": "hkg",
@@ -880,7 +967,7 @@ module.exports={
     "imageCredit": "Chris",
     "imageCreditLink": "https://www.flickr.com/photos/dcmaster/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hnd.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/hnd.json":[function(require,module,exports){
 module.exports={
     "id": "hnd",
     "code": "hnd",
@@ -893,7 +980,7 @@ module.exports={
     "imageCredit": "Hideyuki KAMON",
     "imageCreditLink": "https://www.flickr.com/photos/hyougushi/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hnl.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/hnl.json":[function(require,module,exports){
 module.exports={
     "id": "hnl",
     "code": "hnl",
@@ -907,7 +994,7 @@ module.exports={
     "imageCredit": "Brian Burger",
     "imageCreditLink": "https://www.flickr.com/photos/wirelizard/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hou.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/hou.json":[function(require,module,exports){
 module.exports={
     "id": "hou",
     "code": "hou",
@@ -920,7 +1007,7 @@ module.exports={
     "imageCredit": "Ryan Basilio",
     "imageCreditLink": "https://www.flickr.com/photos/thetalesend/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/iad.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/iad.json":[function(require,module,exports){
 module.exports={
     "id": "iad",
     "code": "iad",
@@ -933,7 +1020,7 @@ module.exports={
     "imageCredit": "The Q Speaks",
     "imageCreditLink": "https://www.flickr.com/photos/theqspeaks/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/iah.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/iah.json":[function(require,module,exports){
 module.exports={
     "id": "iah",
     "code": "iah",
@@ -946,7 +1033,7 @@ module.exports={
     "imageCredit": "Josh Hallett",
     "imageCreditLink": "https://www.flickr.com/photos/hyku/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/icn.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/icn.json":[function(require,module,exports){
 module.exports={
     "id": "icn",
     "code": "icn",
@@ -960,7 +1047,7 @@ module.exports={
     "imageCredit": "Marcella Bona",
     "imageCreditLink": "https://www.flickr.com/photos/marcella_bona/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ict.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ict.json":[function(require,module,exports){
 module.exports={
     "id": "ict",
     "code": "ict",
@@ -973,7 +1060,7 @@ module.exports={
     "imageCredit": "Michael Sauers",
     "imageCreditLink": "https://www.flickr.com/photos/travelinlibrarian/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ind.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ind.json":[function(require,module,exports){
 module.exports={
     "id": "ind",
     "code": "ind",
@@ -986,7 +1073,7 @@ module.exports={
     "imageCredit": "Don J Schulte",
     "imageCreditLink": "https://www.flickr.com/photos/oxherder/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/index.js":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/index.js":[function(require,module,exports){
 module.exports = {
   airports: [
     require('./abq.json'),
@@ -996,7 +1083,9 @@ module.exports = {
     require('./arn.json'),
     require('./atl.json'),
     require('./aus.json'),
+    require('./aza.json'),
     require('./bdl.json'),
+    require('./beg.json'),
     require('./bhm.json'),
     require('./bhx.json'),
     require('./bna.json'),
@@ -1012,6 +1101,7 @@ module.exports = {
     require('./bwi.json'),
     require('./bzn.json'),
     require('./ccs.json'),
+    require('./ccu.json'),
     require('./cdg.json'),
     require('./cgh.json'),
     require('./cgn.json'),
@@ -1020,6 +1110,8 @@ module.exports = {
     require('./cle.json'),
     require('./clt.json'),
     require('./cmh.json'),
+    require('./cnf.json'),
+    require('./cnx.json'),
     require('./cph.json'),
     require('./crw.json'),
     require('./cvg.json'),
@@ -1037,6 +1129,7 @@ module.exports = {
     require('./evn.json'),
     require('./ewr.json'),
     require('./eze.json'),
+    require('./fat.json'),
     require('./fca.json'),
     require('./fco.json'),
     require('./fra.json'),
@@ -1082,6 +1175,7 @@ module.exports = {
     require('./msy.json'),
     require('./muc.json'),
     require('./nce.json'),
+    require('./nte.json'),
     require('./ogg.json'),
     require('./okc.json'),
     require('./oma.json'),
@@ -1120,12 +1214,13 @@ module.exports = {
     require('./wlg.json'),
     require('./yqb.json'),
     require('./yvr.json'),
+    require('./ywg.json'),
     require('./yyz.json'),
     require('./zrh.json')
   ]
 };
 
-},{"./abq.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/abq.json","./akl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/akl.json","./ams.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ams.json","./anc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/anc.json","./arn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/arn.json","./atl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/atl.json","./aus.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/aus.json","./bdl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bdl.json","./bhm.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bhm.json","./bhx.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bhx.json","./bna.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bna.json","./bog.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bog.json","./boh.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/boh.json","./boi.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/boi.json","./bom.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bom.json","./bos.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bos.json","./bru.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bru.json","./btv.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/btv.json","./bud.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bud.json","./buf.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/buf.json","./bwi.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bwi.json","./bzn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/bzn.json","./ccs.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ccs.json","./cdg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cdg.json","./cgh.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cgh.json","./cgn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cgn.json","./chs.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/chs.json","./cid.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cid.json","./cle.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cle.json","./clt.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/clt.json","./cmh.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cmh.json","./cph.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cph.json","./crw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/crw.json","./cvg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/cvg.json","./day.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/day.json","./dca.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dca.json","./del.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/del.json","./den.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/den.json","./dfw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dfw.json","./dtm.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dtm.json","./dtw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dtw.json","./dub.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dub.json","./dus.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dus.json","./dxb.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/dxb.json","./edi.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/edi.json","./evn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/evn.json","./ewr.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ewr.json","./eze.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/eze.json","./fca.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fca.json","./fco.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fco.json","./fra.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fra.json","./fsd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/fsd.json","./geg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/geg.json","./gig.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gig.json","./gla.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gla.json","./grb.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/grb.json","./grr.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/grr.json","./gru.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gru.json","./gyd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/gyd.json","./hel.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hel.json","./hkg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hkg.json","./hnd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hnd.json","./hnl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hnl.json","./hou.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/hou.json","./iad.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/iad.json","./iah.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/iah.json","./icn.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/icn.json","./ict.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ict.json","./ind.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ind.json","./ist.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ist.json","./jac.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/jac.json","./jfk.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/jfk.json","./las.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/las.json","./lax.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lax.json","./lga.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lga.json","./lhr.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lhr.json","./lim.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lim.json","./lis.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lis.json","./lit.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lit.json","./mad.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mad.json","./mci.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mci.json","./mco.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mco.json","./mdt.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mdt.json","./mdw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mdw.json","./mem.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mem.json","./mex.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mex.json","./mht.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mht.json","./mia.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mia.json","./mke.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mke.json","./msp.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/msp.json","./msy.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/msy.json","./muc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/muc.json","./nce.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/nce.json","./ogg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ogg.json","./okc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/okc.json","./oma.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/oma.json","./ord.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ord.json","./orf.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/orf.json","./ory.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ory.json","./osl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/osl.json","./pdx.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pdx.json","./pek.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pek.json","./phl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/phl.json","./phx.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/phx.json","./pit.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pit.json","./prg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/prg.json","./psc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/psc.json","./pvd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pvd.json","./pwm.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pwm.json","./rdu.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rdu.json","./rix.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rix.json","./rsw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rsw.json","./scl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/scl.json","./sdf.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sdf.json","./sea.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sea.json","./sfo.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sfo.json","./slc.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/slc.json","./smf.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/smf.json","./sna.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sna.json","./stl.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/stl.json","./sux.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sux.json","./syd.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/syd.json","./szg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/szg.json","./tbs.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tbs.json","./tia.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tia.json","./tll.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tll.json","./vie.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/vie.json","./waw.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/waw.json","./wlg.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/wlg.json","./yqb.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yqb.json","./yvr.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yvr.json","./yyz.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yyz.json","./zrh.json":"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/zrh.json"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ist.json":[function(require,module,exports){
+},{"./abq.json":"/Users/lfisher/git/airport-codes/data/abq.json","./akl.json":"/Users/lfisher/git/airport-codes/data/akl.json","./ams.json":"/Users/lfisher/git/airport-codes/data/ams.json","./anc.json":"/Users/lfisher/git/airport-codes/data/anc.json","./arn.json":"/Users/lfisher/git/airport-codes/data/arn.json","./atl.json":"/Users/lfisher/git/airport-codes/data/atl.json","./aus.json":"/Users/lfisher/git/airport-codes/data/aus.json","./aza.json":"/Users/lfisher/git/airport-codes/data/aza.json","./bdl.json":"/Users/lfisher/git/airport-codes/data/bdl.json","./beg.json":"/Users/lfisher/git/airport-codes/data/beg.json","./bhm.json":"/Users/lfisher/git/airport-codes/data/bhm.json","./bhx.json":"/Users/lfisher/git/airport-codes/data/bhx.json","./bna.json":"/Users/lfisher/git/airport-codes/data/bna.json","./bog.json":"/Users/lfisher/git/airport-codes/data/bog.json","./boh.json":"/Users/lfisher/git/airport-codes/data/boh.json","./boi.json":"/Users/lfisher/git/airport-codes/data/boi.json","./bom.json":"/Users/lfisher/git/airport-codes/data/bom.json","./bos.json":"/Users/lfisher/git/airport-codes/data/bos.json","./bru.json":"/Users/lfisher/git/airport-codes/data/bru.json","./btv.json":"/Users/lfisher/git/airport-codes/data/btv.json","./bud.json":"/Users/lfisher/git/airport-codes/data/bud.json","./buf.json":"/Users/lfisher/git/airport-codes/data/buf.json","./bwi.json":"/Users/lfisher/git/airport-codes/data/bwi.json","./bzn.json":"/Users/lfisher/git/airport-codes/data/bzn.json","./ccs.json":"/Users/lfisher/git/airport-codes/data/ccs.json","./ccu.json":"/Users/lfisher/git/airport-codes/data/ccu.json","./cdg.json":"/Users/lfisher/git/airport-codes/data/cdg.json","./cgh.json":"/Users/lfisher/git/airport-codes/data/cgh.json","./cgn.json":"/Users/lfisher/git/airport-codes/data/cgn.json","./chs.json":"/Users/lfisher/git/airport-codes/data/chs.json","./cid.json":"/Users/lfisher/git/airport-codes/data/cid.json","./cle.json":"/Users/lfisher/git/airport-codes/data/cle.json","./clt.json":"/Users/lfisher/git/airport-codes/data/clt.json","./cmh.json":"/Users/lfisher/git/airport-codes/data/cmh.json","./cnf.json":"/Users/lfisher/git/airport-codes/data/cnf.json","./cnx.json":"/Users/lfisher/git/airport-codes/data/cnx.json","./cph.json":"/Users/lfisher/git/airport-codes/data/cph.json","./crw.json":"/Users/lfisher/git/airport-codes/data/crw.json","./cvg.json":"/Users/lfisher/git/airport-codes/data/cvg.json","./day.json":"/Users/lfisher/git/airport-codes/data/day.json","./dca.json":"/Users/lfisher/git/airport-codes/data/dca.json","./del.json":"/Users/lfisher/git/airport-codes/data/del.json","./den.json":"/Users/lfisher/git/airport-codes/data/den.json","./dfw.json":"/Users/lfisher/git/airport-codes/data/dfw.json","./dtm.json":"/Users/lfisher/git/airport-codes/data/dtm.json","./dtw.json":"/Users/lfisher/git/airport-codes/data/dtw.json","./dub.json":"/Users/lfisher/git/airport-codes/data/dub.json","./dus.json":"/Users/lfisher/git/airport-codes/data/dus.json","./dxb.json":"/Users/lfisher/git/airport-codes/data/dxb.json","./edi.json":"/Users/lfisher/git/airport-codes/data/edi.json","./evn.json":"/Users/lfisher/git/airport-codes/data/evn.json","./ewr.json":"/Users/lfisher/git/airport-codes/data/ewr.json","./eze.json":"/Users/lfisher/git/airport-codes/data/eze.json","./fat.json":"/Users/lfisher/git/airport-codes/data/fat.json","./fca.json":"/Users/lfisher/git/airport-codes/data/fca.json","./fco.json":"/Users/lfisher/git/airport-codes/data/fco.json","./fra.json":"/Users/lfisher/git/airport-codes/data/fra.json","./fsd.json":"/Users/lfisher/git/airport-codes/data/fsd.json","./geg.json":"/Users/lfisher/git/airport-codes/data/geg.json","./gig.json":"/Users/lfisher/git/airport-codes/data/gig.json","./gla.json":"/Users/lfisher/git/airport-codes/data/gla.json","./grb.json":"/Users/lfisher/git/airport-codes/data/grb.json","./grr.json":"/Users/lfisher/git/airport-codes/data/grr.json","./gru.json":"/Users/lfisher/git/airport-codes/data/gru.json","./gyd.json":"/Users/lfisher/git/airport-codes/data/gyd.json","./hel.json":"/Users/lfisher/git/airport-codes/data/hel.json","./hkg.json":"/Users/lfisher/git/airport-codes/data/hkg.json","./hnd.json":"/Users/lfisher/git/airport-codes/data/hnd.json","./hnl.json":"/Users/lfisher/git/airport-codes/data/hnl.json","./hou.json":"/Users/lfisher/git/airport-codes/data/hou.json","./iad.json":"/Users/lfisher/git/airport-codes/data/iad.json","./iah.json":"/Users/lfisher/git/airport-codes/data/iah.json","./icn.json":"/Users/lfisher/git/airport-codes/data/icn.json","./ict.json":"/Users/lfisher/git/airport-codes/data/ict.json","./ind.json":"/Users/lfisher/git/airport-codes/data/ind.json","./ist.json":"/Users/lfisher/git/airport-codes/data/ist.json","./jac.json":"/Users/lfisher/git/airport-codes/data/jac.json","./jfk.json":"/Users/lfisher/git/airport-codes/data/jfk.json","./las.json":"/Users/lfisher/git/airport-codes/data/las.json","./lax.json":"/Users/lfisher/git/airport-codes/data/lax.json","./lga.json":"/Users/lfisher/git/airport-codes/data/lga.json","./lhr.json":"/Users/lfisher/git/airport-codes/data/lhr.json","./lim.json":"/Users/lfisher/git/airport-codes/data/lim.json","./lis.json":"/Users/lfisher/git/airport-codes/data/lis.json","./lit.json":"/Users/lfisher/git/airport-codes/data/lit.json","./mad.json":"/Users/lfisher/git/airport-codes/data/mad.json","./mci.json":"/Users/lfisher/git/airport-codes/data/mci.json","./mco.json":"/Users/lfisher/git/airport-codes/data/mco.json","./mdt.json":"/Users/lfisher/git/airport-codes/data/mdt.json","./mdw.json":"/Users/lfisher/git/airport-codes/data/mdw.json","./mem.json":"/Users/lfisher/git/airport-codes/data/mem.json","./mex.json":"/Users/lfisher/git/airport-codes/data/mex.json","./mht.json":"/Users/lfisher/git/airport-codes/data/mht.json","./mia.json":"/Users/lfisher/git/airport-codes/data/mia.json","./mke.json":"/Users/lfisher/git/airport-codes/data/mke.json","./msp.json":"/Users/lfisher/git/airport-codes/data/msp.json","./msy.json":"/Users/lfisher/git/airport-codes/data/msy.json","./muc.json":"/Users/lfisher/git/airport-codes/data/muc.json","./nce.json":"/Users/lfisher/git/airport-codes/data/nce.json","./nte.json":"/Users/lfisher/git/airport-codes/data/nte.json","./ogg.json":"/Users/lfisher/git/airport-codes/data/ogg.json","./okc.json":"/Users/lfisher/git/airport-codes/data/okc.json","./oma.json":"/Users/lfisher/git/airport-codes/data/oma.json","./ord.json":"/Users/lfisher/git/airport-codes/data/ord.json","./orf.json":"/Users/lfisher/git/airport-codes/data/orf.json","./ory.json":"/Users/lfisher/git/airport-codes/data/ory.json","./osl.json":"/Users/lfisher/git/airport-codes/data/osl.json","./pdx.json":"/Users/lfisher/git/airport-codes/data/pdx.json","./pek.json":"/Users/lfisher/git/airport-codes/data/pek.json","./phl.json":"/Users/lfisher/git/airport-codes/data/phl.json","./phx.json":"/Users/lfisher/git/airport-codes/data/phx.json","./pit.json":"/Users/lfisher/git/airport-codes/data/pit.json","./prg.json":"/Users/lfisher/git/airport-codes/data/prg.json","./psc.json":"/Users/lfisher/git/airport-codes/data/psc.json","./pvd.json":"/Users/lfisher/git/airport-codes/data/pvd.json","./pwm.json":"/Users/lfisher/git/airport-codes/data/pwm.json","./rdu.json":"/Users/lfisher/git/airport-codes/data/rdu.json","./rix.json":"/Users/lfisher/git/airport-codes/data/rix.json","./rsw.json":"/Users/lfisher/git/airport-codes/data/rsw.json","./scl.json":"/Users/lfisher/git/airport-codes/data/scl.json","./sdf.json":"/Users/lfisher/git/airport-codes/data/sdf.json","./sea.json":"/Users/lfisher/git/airport-codes/data/sea.json","./sfo.json":"/Users/lfisher/git/airport-codes/data/sfo.json","./slc.json":"/Users/lfisher/git/airport-codes/data/slc.json","./smf.json":"/Users/lfisher/git/airport-codes/data/smf.json","./sna.json":"/Users/lfisher/git/airport-codes/data/sna.json","./stl.json":"/Users/lfisher/git/airport-codes/data/stl.json","./sux.json":"/Users/lfisher/git/airport-codes/data/sux.json","./syd.json":"/Users/lfisher/git/airport-codes/data/syd.json","./szg.json":"/Users/lfisher/git/airport-codes/data/szg.json","./tbs.json":"/Users/lfisher/git/airport-codes/data/tbs.json","./tia.json":"/Users/lfisher/git/airport-codes/data/tia.json","./tll.json":"/Users/lfisher/git/airport-codes/data/tll.json","./vie.json":"/Users/lfisher/git/airport-codes/data/vie.json","./waw.json":"/Users/lfisher/git/airport-codes/data/waw.json","./wlg.json":"/Users/lfisher/git/airport-codes/data/wlg.json","./yqb.json":"/Users/lfisher/git/airport-codes/data/yqb.json","./yvr.json":"/Users/lfisher/git/airport-codes/data/yvr.json","./ywg.json":"/Users/lfisher/git/airport-codes/data/ywg.json","./yyz.json":"/Users/lfisher/git/airport-codes/data/yyz.json","./zrh.json":"/Users/lfisher/git/airport-codes/data/zrh.json"}],"/Users/lfisher/git/airport-codes/data/ist.json":[function(require,module,exports){
 module.exports={
     "id": "ist",
     "code": "ist",
@@ -1140,7 +1235,7 @@ module.exports={
     "imageCredit": "jaime.silva",
     "imageCreditLink": "https://www.flickr.com/photos/20792787@N00/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/jac.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/jac.json":[function(require,module,exports){
 module.exports={
     "id": "jac",
     "code": "jac",
@@ -1154,7 +1249,7 @@ module.exports={
     "imageCredit": "Sarah Nichols",
     "imageCreditLink": "https://www.flickr.com/photos/pocheco/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/jfk.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/jfk.json":[function(require,module,exports){
 module.exports={
     "id": "jfk",
     "code": "jfk",
@@ -1167,7 +1262,7 @@ module.exports={
     "imageCredit": "Timothy Vogel",
     "imageCreditLink": "https://www.flickr.com/photos/vogelium/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/las.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/las.json":[function(require,module,exports){
 module.exports={
     "id": "las",
     "code": "las",
@@ -1181,7 +1276,7 @@ module.exports={
     "imageCredit": "Kevin Reese",
     "imageCreditLink": "https://www.flickr.com/photos/kevinreese/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lax.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/lax.json":[function(require,module,exports){
 module.exports={
     "id": "lax",
     "code": "lax",
@@ -1194,7 +1289,7 @@ module.exports={
     "imageCredit": "Thomas Hawk",
     "imageCreditLink": "https://www.flickr.com/photos/thomashawk/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lga.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/lga.json":[function(require,module,exports){
 module.exports={
     "id": "lga",
     "code": "lga",
@@ -1207,7 +1302,7 @@ module.exports={
     "imageCredit": "stantontcady",
     "imageCreditLink": "https://www.flickr.com/photos/terrycady/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lhr.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/lhr.json":[function(require,module,exports){
 module.exports={
     "id": "lhr",
     "code": "lhr",
@@ -1220,7 +1315,7 @@ module.exports={
     "imageCredit": "twinkabauter",
     "imageCreditLink": "https://www.flickr.com/photos/twinkabauter/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lim.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/lim.json":[function(require,module,exports){
 module.exports={
     "id": "lim",
     "code": "lim",
@@ -1235,7 +1330,7 @@ module.exports={
     "imageCredit": "VasenkaPhotography",
     "imageCreditLink": "https://www.flickr.com/photos/vasenka/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lis.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/lis.json":[function(require,module,exports){
 module.exports={
     "id": "lis",
     "code": "lis",
@@ -1250,7 +1345,7 @@ module.exports={
     "imageCredit": "hom26",
     "imageCreditLink": "https://www.flickr.com/photos/hom26/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/lit.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/lit.json":[function(require,module,exports){
 module.exports={
     "id": "lit",
     "code": "lit",
@@ -1265,7 +1360,7 @@ module.exports={
     "imageCredit": "Johnathan Jianu",
     "imageCreditLink": "https://www.flickr.com/photos/commanderclicktft/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mad.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mad.json":[function(require,module,exports){
 module.exports={
     "id": "mad",
     "code": "mad",
@@ -1280,7 +1375,7 @@ module.exports={
     "imageCredit": "Anh Dinh",
     "imageCreditLink": "https://www.flickr.com/photos/anhgemus-photography/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mci.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mci.json":[function(require,module,exports){
 module.exports={
     "id": "mci",
     "code": "mci",
@@ -1293,7 +1388,7 @@ module.exports={
     "imageCredit": "Zhao Shouren",
     "imageCreditLink": "https://www.flickr.com/photos/ajanhelendam/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mco.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mco.json":[function(require,module,exports){
 module.exports={
     "id": "mco",
     "code": "mco",
@@ -1306,7 +1401,7 @@ module.exports={
     "imageCredit": "Benjamin Thompson",
     "imageCreditLink": "https://www.flickr.com/photos/beija/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mdt.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mdt.json":[function(require,module,exports){
 module.exports={
     "id": "mdt",
     "code": "mdt",
@@ -1320,7 +1415,7 @@ module.exports={
     "imageCredit": "Timothy Rezendes",
     "imageCreditLink": "https://www.flickr.com/photos/trezendes/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mdw.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mdw.json":[function(require,module,exports){
 module.exports={
     "id": "mdw",
     "code": "mdw",
@@ -1333,7 +1428,7 @@ module.exports={
     "imageCredit": "Jackie Popp",
     "imageCreditLink": "https://www.flickr.com/photos/jackie-popp/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mem.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mem.json":[function(require,module,exports){
 module.exports={
     "id": "mem",
     "code": "mem",
@@ -1346,7 +1441,7 @@ module.exports={
     "imageCredit": "Joseph",
     "imageCreditLink": "https://www.flickr.com/photos/josepha/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mex.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mex.json":[function(require,module,exports){
 module.exports={
     "id": "mex",
     "code": "mex",
@@ -1360,7 +1455,7 @@ module.exports={
     "imageCredit": "George Oates",
     "imageCreditLink": "https://www.flickr.com/photos/george/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mht.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mht.json":[function(require,module,exports){
 module.exports={
     "id": "mht",
     "code": "mht",
@@ -1375,7 +1470,7 @@ module.exports={
     "imageCredit": "Elizabeth Krumbach Joseph",
     "imageCreditLink": "https://www.flickr.com/photos/pleia2/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mia.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mia.json":[function(require,module,exports){
 module.exports={
     "id": "mia",
     "code": "mia",
@@ -1388,7 +1483,7 @@ module.exports={
     "imageCredit": "Lotus Carroll",
     "imageCreditLink": "https://www.flickr.com/photos/thelotuscarroll/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/mke.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/mke.json":[function(require,module,exports){
 module.exports={
     "id": "mke",
     "code": "mke",
@@ -1401,7 +1496,7 @@ module.exports={
     "imageCredit": "Jasonic",
     "imageCreditLink": "https://www.flickr.com/photos/jasonik/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/msp.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/msp.json":[function(require,module,exports){
 module.exports={
     "id": "msp",
     "code": "msp",
@@ -1416,7 +1511,7 @@ module.exports={
     "imageCredit": "Tom Kelly",
     "imageCreditLink": "https://www.flickr.com/photos/tkellyphoto/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/msy.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/msy.json":[function(require,module,exports){
 module.exports={
     "id": "msy",
     "code": "msy",
@@ -1429,7 +1524,7 @@ module.exports={
     "imageCredit": "3dom",
     "imageCreditLink": "https://www.flickr.com/photos/visualities/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/muc.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/muc.json":[function(require,module,exports){
 module.exports={
     "id": "muc",
     "code": "muc",
@@ -1444,7 +1539,7 @@ module.exports={
     "imageCredit": "Gache Wurzn",
     "imageCreditLink": "https://www.flickr.com/photos/gachewurzn/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/nce.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/nce.json":[function(require,module,exports){
 module.exports={
     "id": "nce",
     "code": "nce",
@@ -1459,7 +1554,21 @@ module.exports={
     "imageCredit": "m-louis .®",
     "imageCreditLink": "https://www.flickr.com/photos/m-louis/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ogg.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/nte.json":[function(require,module,exports){
+module.exports={
+    "id": "nte",
+    "code": "nte",
+    "name": "Aéroport Nantes Atlantique",
+    "nameEnglish": "Nantes Atlantique Airport",
+    "city": "Nantes",
+    "city2": "Bouguenais",
+    "country": "France",
+    "description": "Originally a French military airfield, Nantes Atlantique is located southwest of Bouguenais and serves the city of *N*an*te*s.",
+    "imageCredit": "Olivier Cabaret",
+    "imageCreditLink": "https://www.flickr.com/photos/oliviercabaret"
+}
+
+},{}],"/Users/lfisher/git/airport-codes/data/ogg.json":[function(require,module,exports){
 module.exports={
     "id": "ogg",
     "code": "ogg",
@@ -1473,7 +1582,7 @@ module.exports={
     "imageCredit": "Jonathan Caves",
     "imageCreditLink": "https://www.flickr.com/photos/j-and-p/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/okc.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/okc.json":[function(require,module,exports){
 module.exports={
     "id": "okc",
     "code": "okc",
@@ -1486,7 +1595,7 @@ module.exports={
     "imageCredit": "Wesley Fryer",
     "imageCreditLink": "https://www.flickr.com/photos/wfryer/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/oma.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/oma.json":[function(require,module,exports){
 module.exports={
     "id": "oma",
     "code": "oma",
@@ -1499,7 +1608,7 @@ module.exports={
     "imageCredit": "Jimmy Emerson",
     "imageCreditLink": "https://www.flickr.com/photos/auvet/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ord.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ord.json":[function(require,module,exports){
 module.exports={
     "id": "ord",
     "code": "ord",
@@ -1512,7 +1621,7 @@ module.exports={
     "imageCredit": "Nick Harris",
     "imageCreditLink": "https://www.flickr.com/photos/nickharris1/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/orf.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/orf.json":[function(require,module,exports){
 module.exports={
     "id": "orf",
     "code": "orf",
@@ -1525,7 +1634,7 @@ module.exports={
     "imageCredit": "Stacey Huggins",
     "imageCreditLink": "https://www.flickr.com/photos/staceyhuggins/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/ory.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ory.json":[function(require,module,exports){
 module.exports={
     "id": "ory",
     "code": "ory",
@@ -1541,7 +1650,7 @@ module.exports={
     "imageCredit": "Grid",
     "imageCreditLink": "https://www.flickr.com/photos/gridboy/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/osl.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/osl.json":[function(require,module,exports){
 module.exports={
     "id": "osl",
     "code": "osl",
@@ -1556,7 +1665,7 @@ module.exports={
     "imageCredit": "jaime.silva",
     "imageCreditLink": "https://www.flickr.com/photos/20792787@N00/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pdx.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/pdx.json":[function(require,module,exports){
 module.exports={
     "id": "pdx",
     "code": "pdx",
@@ -1569,7 +1678,7 @@ module.exports={
     "imageCredit": "pfly",
     "imageCreditLink": "https://www.flickr.com/photos/pfly/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pek.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/pek.json":[function(require,module,exports){
 module.exports={
     "id": "pek",
     "code": "pek",
@@ -1582,7 +1691,7 @@ module.exports={
     "imageCredit": "Matt Weibo",
     "imageCreditLink": "https://www.flickr.com/photos/mattweibo/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/phl.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/phl.json":[function(require,module,exports){
 module.exports={
     "id": "phl",
     "code": "phl",
@@ -1595,7 +1704,7 @@ module.exports={
     "imageCredit": "uchiuska",
     "imageCreditLink": "https://www.flickr.com/photos/uchiuska/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/phx.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/phx.json":[function(require,module,exports){
 module.exports={
     "id": "phx",
     "code": "phx",
@@ -1608,7 +1717,7 @@ module.exports={
     "imageCredit": "Liebe5",
     "imageCreditLink": "https://www.flickr.com/photos/68956811@N00/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pit.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/pit.json":[function(require,module,exports){
 module.exports={
     "id": "pit",
     "code": "pit",
@@ -1623,7 +1732,7 @@ module.exports={
     "imageCredit": "John Marino",
     "imageCreditLink": "https://www.flickr.com/photos/j26/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/prg.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/prg.json":[function(require,module,exports){
 module.exports={
     "id": "prg",
     "code": "prg",
@@ -1638,7 +1747,7 @@ module.exports={
     "imageCredit": "Jill",
     "imageCreditLink": "https://www.flickr.com/photos/73489862@N00/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/psc.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/psc.json":[function(require,module,exports){
 module.exports={
     "id": "psc",
     "code": "psc",
@@ -1654,7 +1763,7 @@ module.exports={
     "imageCreditLink": "https://www.flickr.com/photos/pleeker/"
 }
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pvd.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/pvd.json":[function(require,module,exports){
 module.exports={
     "id": "pvd",
     "code": "pvd",
@@ -1668,7 +1777,7 @@ module.exports={
     "imageCredit": "Marc Choquette",
     "imageCreditLink": "https://www.flickr.com/photos/23185977@N08/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/pwm.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/pwm.json":[function(require,module,exports){
 module.exports={
     "id": "pwm",
     "code": "pwm",
@@ -1682,7 +1791,7 @@ module.exports={
     "imageCredit": "Jimmy Emerson",
     "imageCreditLink": "https://www.flickr.com/photos/auvet/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rdu.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/rdu.json":[function(require,module,exports){
 module.exports={
     "id": "rdu",
     "code": "rdu",
@@ -1696,7 +1805,7 @@ module.exports={
     "imageCredit": "Suzie Tremmel",
     "imageCreditLink": "https://www.flickr.com/photos/23727257@N00/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rix.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/rix.json":[function(require,module,exports){
 module.exports={
     "id": "rix",
     "code": "rix",
@@ -1710,7 +1819,7 @@ module.exports={
     "imageCredit": "Dainis Matisons",
     "imageCreditLink": "https://www.flickr.com/photos/dainismatisons/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/rsw.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/rsw.json":[function(require,module,exports){
 module.exports={
     "id": "rsw",
     "code": "rsw",
@@ -1723,7 +1832,7 @@ module.exports={
     "imageCredit": "B",
     "imageCreditLink": "https://www.flickr.com/photos/11561957@N06/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/scl.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/scl.json":[function(require,module,exports){
 module.exports={
     "id": "scl",
     "code": "scl",
@@ -1738,7 +1847,7 @@ module.exports={
     "imageCredit": "lane becker",
     "imageCreditLink": "https://www.flickr.com/photos/monstro/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sdf.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/sdf.json":[function(require,module,exports){
 module.exports={
     "id": "sdf",
     "code": "sdf",
@@ -1751,7 +1860,7 @@ module.exports={
     "imageCredit": "Lisa Padilla",
     "imageCreditLink": "https://www.flickr.com/photos/lisap/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sea.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/sea.json":[function(require,module,exports){
 module.exports={
     "id": "sea",
     "code": "sea",
@@ -1766,7 +1875,7 @@ module.exports={
     "imageCredit": "drburtoni",
     "imageCreditLink": "https://www.flickr.com/photos/84346589@N00/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sfo.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/sfo.json":[function(require,module,exports){
 module.exports={
     "id": "sfo",
     "code": "sfo",
@@ -1779,7 +1888,7 @@ module.exports={
     "imageCredit": "Richard Winchell",
     "imageCreditLink": "https://www.flickr.com/photos/richardwinchell/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/slc.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/slc.json":[function(require,module,exports){
 module.exports={
     "id": "slc",
     "code": "slc",
@@ -1792,7 +1901,7 @@ module.exports={
     "imageCredit": "Andrew Herington",
     "imageCreditLink": "https://www.flickr.com/photos/aherington/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/smf.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/smf.json":[function(require,module,exports){
 module.exports={
     "id": "smf",
     "code": "smf",
@@ -1805,7 +1914,7 @@ module.exports={
     "imageCredit": "Rich",
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sna.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/sna.json":[function(require,module,exports){
 module.exports={
     "id": "sna",
     "code": "sna",
@@ -1819,7 +1928,7 @@ module.exports={
     "imageCredit": "Peter Talke",
     "imageCreditLink": "https://www.flickr.com/photos/talkephotography/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/stl.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/stl.json":[function(require,module,exports){
 module.exports={
     "id": "stl",
     "code": "stl",
@@ -1832,7 +1941,7 @@ module.exports={
     "imageCredit": "Rich",
     "imageCreditLink": "https://www.flickr.com/photos/richmanwisco/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/sux.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/sux.json":[function(require,module,exports){
 module.exports={
     "id": "sux",
     "code": "sux",
@@ -1845,7 +1954,7 @@ module.exports={
     "imageCredit": "David Mulder",
     "imageCreditLink": "https://www.flickr.com/photos/113026679@N03/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/syd.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/syd.json":[function(require,module,exports){
 module.exports={
     "id": "syd",
     "code": "syd",
@@ -1858,7 +1967,7 @@ module.exports={
     "imageCredit": "Bobby Das",
     "imageCreditLink": "https://www.flickr.com/photos/bobbydas/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/szg.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/szg.json":[function(require,module,exports){
 module.exports={
     "id": "szg",
     "code": "szg",
@@ -1871,7 +1980,7 @@ module.exports={
     "imageCredit": "flightlog",
     "imageCreditLink": "https://www.flickr.com/photos/flightlog/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tbs.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/tbs.json":[function(require,module,exports){
 module.exports={
     "id": "tbs",
     "code": "tbs",
@@ -1884,7 +1993,7 @@ module.exports={
     "imageCredit": "James Emery",
     "imageCreditLink": "https://www.flickr.com/photos/emeryjl/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tia.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/tia.json":[function(require,module,exports){
 module.exports={
     "id": "tia",
     "code": "tia",
@@ -1898,7 +2007,7 @@ module.exports={
     "imageCredit": "George Redgrave",
     "imageCreditLink": "https://www.flickr.com/photos/funfilledgeorgie/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/tll.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/tll.json":[function(require,module,exports){
 module.exports={
     "id": "tll",
     "code": "tll",
@@ -1912,7 +2021,7 @@ module.exports={
     "imageCredit": "Ton Zijlstra",
     "imageCreditLink": "https://www.flickr.com/photos/tonz/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/vie.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/vie.json":[function(require,module,exports){
 module.exports={
     "id": "vie",
     "code": "vie",
@@ -1927,7 +2036,7 @@ module.exports={
     "imageCredit": "rosmary",
     "imageCreditLink": "https://www.flickr.com/photos/rvoegtli/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/waw.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/waw.json":[function(require,module,exports){
 module.exports={
     "id": "waw",
     "code": "waw",
@@ -1943,7 +2052,7 @@ module.exports={
     "imageCredit": "Robert S. Donovan",
     "imageCreditLink": "https://www.flickr.com/photos/booleansplit/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/wlg.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/wlg.json":[function(require,module,exports){
 module.exports={
     "id": "wlg",
     "code": "wlg",
@@ -1957,7 +2066,7 @@ module.exports={
     "imageCredit": "Kathrin & Stefan Marks",
     "imageCreditLink": "https://www.flickr.com/photos/ks_marks/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yqb.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/yqb.json":[function(require,module,exports){
 module.exports={
     "id": "yqb",
     "code": "yqb",
@@ -1967,11 +2076,11 @@ module.exports={
     "state": "Quebec",
     "stateShort": "QC",
     "country": "Canada",
-    "description": "Airport codes starting with ‘Y’ designate Canadian airports.  The next two letters come from its home in *Q*ué*b*ec.",
+    "description": "Airport codes starting with ‘*Y*’ designate Canadian airports.  The next two letters come from its home in *Q*ué*b*ec.",
     "imageCredit": "Eric Bégin",
     "imageCreditLink": "https://www.flickr.com/photos/ericbegin/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yvr.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/yvr.json":[function(require,module,exports){
 module.exports={
     "id": "yvr",
     "code": "yvr",
@@ -1981,11 +2090,25 @@ module.exports={
     "state": "British Columbia",
     "stateShort": "BC",
     "country": "Canada",
-    "description": "Airport codes starting with ‘Y’ designate Canadian airports. The next two letters come from its home in *V*ancouve*r*.",
+    "description": "Airport codes starting with ‘*Y*’ designate Canadian airports. The next two letters come from its home in *V*ancouve*r*.",
     "imageCredit": "Rick Schwartz",
     "imageCreditLink": "https://www.flickr.com/photos/justenoughfocus/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/yyz.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/ywg.json":[function(require,module,exports){
+module.exports={
+    "id": "ywg",
+    "code": "ywg",
+    "name": "James Armstrong Richardson International Airport",
+    "city": "Winnipeg",
+    "state": "Manitoba",
+    "stateShort": "MB",
+    "country": "Canada",
+    "description": "Airport codes starting with ‘*Y*’ designate Canadian airports. James Armstrong Richardson International honors the Canadian aviator, but its airport code honors its home in *W*innipe*g*.",
+    "imageCredit": "AJ Batac",
+    "imageCreditLink": "https://www.flickr.com/photos/ajbatac/"
+}
+
+},{}],"/Users/lfisher/git/airport-codes/data/yyz.json":[function(require,module,exports){
 module.exports={
     "id": "yyz",
     "code": "yyz",
@@ -1996,11 +2119,11 @@ module.exports={
     "state": "Ontario",
     "stateShort": "ON",
     "country": "Canada",
-    "description": "Airport codes starting with ‘Y’ designate Canadian airports. The ‘YZ’ isn't as clear, but is said to be the old railway station code for Malton, an area west of Toronto where the airport is located.",
+    "description": "Airport codes starting with ‘*Y*’ designate Canadian airports. The ‘*YZ*’ isn't as clear, but is said to be the old railway station code for Malton, an area west of Toronto where the airport is located.",
     "imageCredit": "Coralie Mercier",
     "imageCreditLink": "https://www.flickr.com/photos/koalie/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/data/zrh.json":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/data/zrh.json":[function(require,module,exports){
 module.exports={
     "id": "zrh",
     "code": "zrh",
@@ -2015,7 +2138,7 @@ module.exports={
     "imageCredit": "Reto Fetz",
     "imageCreditLink": "https://www.flickr.com/photos/swisscan/"
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js":[function(require,module,exports){
 //     Backbone.js 1.1.2
 
 //     (c) 2010-2014 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
@@ -3625,7 +3748,7 @@ module.exports={
 
 }));
 
-},{"underscore":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/node_modules/underscore/underscore.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/node_modules/underscore/underscore.js":[function(require,module,exports){
+},{"underscore":"/Users/lfisher/git/airport-codes/node_modules/backbone/node_modules/underscore/underscore.js"}],"/Users/lfisher/git/airport-codes/node_modules/backbone/node_modules/underscore/underscore.js":[function(require,module,exports){
 //     Underscore.js 1.8.2
 //     http://underscorejs.org
 //     (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
@@ -5163,9 +5286,9 @@ module.exports={
   }
 }.call(this));
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/browser-resolve/empty.js":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/browser-resolve/empty.js":[function(require,module,exports){
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/inherits/inherits_browser.js":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/inherits/inherits_browser.js":[function(require,module,exports){
 if (typeof Object.create === 'function') {
   // implementation from standard node.js 'util' module
   module.exports = function inherits(ctor, superCtor) {
@@ -5190,7 +5313,7 @@ if (typeof Object.create === 'function') {
   }
 }
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/process/browser.js":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/process/browser.js":[function(require,module,exports){
 // shim for using process in browser
 
 var process = module.exports = {};
@@ -5250,14 +5373,14 @@ process.chdir = function (dir) {
 };
 process.umask = function() { return 0; };
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/util/support/isBufferBrowser.js":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/support/isBufferBrowser.js":[function(require,module,exports){
 module.exports = function isBuffer(arg) {
   return arg && typeof arg === 'object'
     && typeof arg.copy === 'function'
     && typeof arg.fill === 'function'
     && typeof arg.readUInt8 === 'function';
 }
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/util/util.js":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/util.js":[function(require,module,exports){
 (function (process,global){
 // Copyright Joyent, Inc. and other Node contributors.
 //
@@ -5847,7 +5970,7 @@ function hasOwnProperty(obj, prop) {
 }
 
 }).call(this,require('_process'),typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./support/isBuffer":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/util/support/isBufferBrowser.js","_process":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/process/browser.js","inherits":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/inherits/inherits_browser.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js":[function(require,module,exports){
+},{"./support/isBuffer":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/support/isBufferBrowser.js","_process":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/process/browser.js","inherits":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/inherits/inherits_browser.js"}],"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js":[function(require,module,exports){
 (function (global){
 !function(e){if("object"==typeof exports&&"undefined"!=typeof module)module.exports=e();else if("function"==typeof define&&define.amd)define([],e);else{var f;"undefined"!=typeof window?f=window:"undefined"!=typeof global?f=global:"undefined"!=typeof self&&(f=self),f.jade=e()}}(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 'use strict';
@@ -6088,7 +6211,7 @@ exports.rethrow = function rethrow(err, filename, lineno, str){
 },{}]},{},[1])(1)
 });
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"fs":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/browser-resolve/empty.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jquery/dist/jquery.js":[function(require,module,exports){
+},{"fs":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/browser-resolve/empty.js"}],"/Users/lfisher/git/airport-codes/node_modules/jquery/dist/jquery.js":[function(require,module,exports){
 /*!
  * jQuery JavaScript Library v2.1.3
  * http://jquery.com/
@@ -15295,12 +15418,12 @@ return jQuery;
 
 }));
 
-},{}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/markdown/lib/index.js":[function(require,module,exports){
+},{}],"/Users/lfisher/git/airport-codes/node_modules/markdown/lib/index.js":[function(require,module,exports){
 // super simple module for the most common nodejs use case.
 exports.markdown = require("./markdown");
 exports.parse = exports.markdown.toHTML;
 
-},{"./markdown":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/markdown/lib/markdown.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/markdown/lib/markdown.js":[function(require,module,exports){
+},{"./markdown":"/Users/lfisher/git/airport-codes/node_modules/markdown/lib/markdown.js"}],"/Users/lfisher/git/airport-codes/node_modules/markdown/lib/markdown.js":[function(require,module,exports){
 // Released under MIT license
 // Copyright (c) 2009-2010 Dominic Baggott
 // Copyright (c) 2009-2010 Ash Berlin
@@ -17027,7 +17150,7 @@ function merge_text_nodes( jsonml ) {
   }
 } )() );
 
-},{"util":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/util/util.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/AppRouter.js":[function(require,module,exports){
+},{"util":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/util/util.js"}],"/Users/lfisher/git/airport-codes/src/AppRouter.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var AboutView = require('./views/AboutView');
 var ContributeView = require('./views/ContributeView');
@@ -17133,7 +17256,7 @@ var Router = Backbone.Router.extend({
 });
 
 module.exports = Router;
-},{"./views/AboutView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AboutView.js","./views/AirportDetailView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportDetailView.js","./views/ContributeView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/ContributeView.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/collections/Airports.js":[function(require,module,exports){
+},{"./views/AboutView":"/Users/lfisher/git/airport-codes/src/views/AboutView.js","./views/AirportDetailView":"/Users/lfisher/git/airport-codes/src/views/AirportDetailView.js","./views/ContributeView":"/Users/lfisher/git/airport-codes/src/views/ContributeView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/collections/Airports.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var Airport = require('../models/Airport');
 
@@ -17146,7 +17269,7 @@ var Airports = Backbone.Collection.extend({
 });
 
 module.exports = Airports;
-},{"../models/Airport":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/models/Airport.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/models/Airport.js":[function(require,module,exports){
+},{"../models/Airport":"/Users/lfisher/git/airport-codes/src/models/Airport.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/models/Airport.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var markdown = require('markdown').markdown;
 
@@ -17172,7 +17295,7 @@ var Airport = Backbone.Model.extend({
 });
 
 module.exports = Airport;
-},{"backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js","markdown":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/markdown/lib/index.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AboutView.js":[function(require,module,exports){
+},{"backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js","markdown":"/Users/lfisher/git/airport-codes/node_modules/markdown/lib/index.js"}],"/Users/lfisher/git/airport-codes/src/views/AboutView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/AboutView.jade');
 
@@ -17197,7 +17320,7 @@ var AboutView = Backbone.View.extend({
 });
 
 module.exports = AboutView;
-},{"./templates/AboutView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AboutView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportDetailView.js":[function(require,module,exports){
+},{"./templates/AboutView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AboutView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportDetailView.js":[function(require,module,exports){
 (function (process){
 var Backbone = require('backbone');
 var SocialView = require('./SocialView');
@@ -17283,7 +17406,7 @@ var AirportDetailView = Backbone.View.extend({
 
 module.exports = AirportDetailView;
 }).call(this,require('_process'))
-},{"./SocialView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/SocialView.js","./templates/AirportDetailView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AirportDetailView.jade","_process":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/browserify/node_modules/process/browser.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportListView.js":[function(require,module,exports){
+},{"./SocialView":"/Users/lfisher/git/airport-codes/src/views/SocialView.js","./templates/AirportDetailView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AirportDetailView.jade","_process":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/process/browser.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportListView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var AirportView = require('./AirportView');
 var ContributeItemView = require('./ContributeItemView');
@@ -17325,7 +17448,7 @@ var AirportListView = Backbone.View.extend({
 });
 
 module.exports = AirportListView;
-},{"./AirportView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportView.js","./ContributeItemView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/ContributeItemView.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportView.js":[function(require,module,exports){
+},{"./AirportView":"/Users/lfisher/git/airport-codes/src/views/AirportView.js","./ContributeItemView":"/Users/lfisher/git/airport-codes/src/views/ContributeItemView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/AirportView.jade');
 
@@ -17365,7 +17488,7 @@ var AirportView = Backbone.View.extend({
 });
 
 module.exports = AirportView;
-},{"./templates/AirportView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AirportView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AppView.js":[function(require,module,exports){
+},{"./templates/AirportView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AirportView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AppView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var SearchView = require('./SearchView');
 var AirportListView = require('./AirportListView');
@@ -17395,7 +17518,7 @@ var AppView = Backbone.View.extend({
 });
 
 module.exports = AppView;
-},{"./AirportListView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/AirportListView.js","./SearchView":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/SearchView.js","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/ContributeItemView.js":[function(require,module,exports){
+},{"./AirportListView":"/Users/lfisher/git/airport-codes/src/views/AirportListView.js","./SearchView":"/Users/lfisher/git/airport-codes/src/views/SearchView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/ContributeItemView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/ContributeItemView.jade');
 
@@ -17412,7 +17535,7 @@ var ContributeItemView = Backbone.View.extend({
 });
 
 module.exports = ContributeItemView;
-},{"./templates/ContributeItemView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/ContributeItemView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/ContributeView.js":[function(require,module,exports){
+},{"./templates/ContributeItemView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/ContributeItemView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/ContributeView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/ContributeView.jade');
 
@@ -17437,7 +17560,7 @@ var ContributeView = Backbone.View.extend({
 });
 
 module.exports = ContributeView;
-},{"./templates/ContributeView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/ContributeView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/SearchView.js":[function(require,module,exports){
+},{"./templates/ContributeView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/ContributeView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/SearchView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/SearchView.jade');
 
@@ -17498,7 +17621,7 @@ var SearchView = Backbone.View.extend({
 });
 
 module.exports = SearchView;
-},{"./templates/SearchView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/SearchView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/SocialView.js":[function(require,module,exports){
+},{"./templates/SearchView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/SearchView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/SocialView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var template = require('./templates/SocialView.jade');
 
@@ -17539,7 +17662,7 @@ var SocialView = Backbone.View.extend({
 });
 
 module.exports = SocialView;
-},{"./templates/SocialView.jade":"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/SocialView.jade","backbone":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/backbone/backbone.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AboutView.jade":[function(require,module,exports){
+},{"./templates/SocialView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/SocialView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/AboutView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17549,7 +17672,7 @@ var jade_interp;
 
 buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"content\"><h1>About</h1><p>Every airport has a unique three-letter <a href=\"http://en.wikipedia.org/wiki/International_Air_Transport_Association\">IATA</a> code. Some make sense if you know the city or the name of the airport and others, well, what the heck?</p><p>Turns out there’s usually a reasonable explanation. Knowing what each IATA code stands for isn’t super useful, but it sure can be fun.</p><p>This site was designed and built by <a href=\"https://twitter.com/lynnandtonic\">Lynn Fisher</a> and <a href=\"https://twitter.com/nickcrohn\">Nick Crohn</a>.</p><hr/><p class=\"quote\">“Hey, you left [my airport] off the list!”</p><a href=\"#contribute\" class=\"btn\">Contribute</a><hr/><div class=\"footnote\"><p>All photographs are from Flickr, under Creative Commons licenses.</p><p>Sources: <a href=\"http://www.wikipedia.org/\">wikipedia.org</a>, <a href=\"http://www.skygod.com/asstd/abc.html\">skygod.com</a>, <a href=\"http://www.city-data.com/forum/toronto/2177590-why-airport-code-toronto-yyz.html\">citydata.com</a>, <a href=\"http://abcnews.go.com/Travel/history-airport-codes-logic-letter-codes/story?id=11684406&amp;singlePage=true\">abcnews.com</a></p></div></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");;return buf.join("");
 };
-},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AirportDetailView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/AirportDetailView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17559,7 +17682,7 @@ var jade_interp;
 ;var locals_for_with = (locals || {});(function (city, code, country, description, imageCredit, imageCreditLink, name, stateShort) {
 buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"detail-info\"><h1>" + (jade.escape(null == (jade_interp = code) ? "" : jade_interp)) + "</h1><h2>" + (jade.escape(null == (jade_interp = name) ? "" : jade_interp)) + "</h2><h3><span class=\"city\">" + (jade.escape(null == (jade_interp = city) ? "" : jade_interp)) + "</span><span class=\"state\">" + (jade.escape(null == (jade_interp = stateShort) ? "" : jade_interp)) + "</span><span class=\"country\">" + (jade.escape(null == (jade_interp = country) ? "" : jade_interp)) + "</span></h3><div class=\"description\">" + (null == (jade_interp = description) ? "" : jade_interp) + "</div><a href=\"#\" class=\"close-detail\"></a></div><div class=\"photo-credit\">photo by <a" + (jade.attr("href", imageCreditLink, true, false)) + ">" + (jade.escape(null == (jade_interp = imageCredit) ? "" : jade_interp)) + "</a></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");}.call(this,"city" in locals_for_with?locals_for_with.city:typeof city!=="undefined"?city:undefined,"code" in locals_for_with?locals_for_with.code:typeof code!=="undefined"?code:undefined,"country" in locals_for_with?locals_for_with.country:typeof country!=="undefined"?country:undefined,"description" in locals_for_with?locals_for_with.description:typeof description!=="undefined"?description:undefined,"imageCredit" in locals_for_with?locals_for_with.imageCredit:typeof imageCredit!=="undefined"?imageCredit:undefined,"imageCreditLink" in locals_for_with?locals_for_with.imageCreditLink:typeof imageCreditLink!=="undefined"?imageCreditLink:undefined,"name" in locals_for_with?locals_for_with.name:typeof name!=="undefined"?name:undefined,"stateShort" in locals_for_with?locals_for_with.stateShort:typeof stateShort!=="undefined"?stateShort:undefined));;return buf.join("");
 };
-},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/AirportView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/AirportView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17569,7 +17692,7 @@ var jade_interp;
 ;var locals_for_with = (locals || {});(function (code) {
 buf.push("<a" + (jade.attr("href", "#airport/"+code, true, false)) + ">" + (jade.escape(null == (jade_interp = code) ? "" : jade_interp)) + "</a>");}.call(this,"code" in locals_for_with?locals_for_with.code:typeof code!=="undefined"?code:undefined));;return buf.join("");
 };
-},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/ContributeItemView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/ContributeItemView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17579,7 +17702,7 @@ var jade_interp;
 
 buf.push("<a href=\"#contribute\"><span class=\"placeholder\">New</span><span class=\"card-contribute-content\">Contribute an airport</span></a>");;return buf.join("");
 };
-},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/ContributeView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/ContributeView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17589,7 +17712,7 @@ var jade_interp;
 
 buf.push("<div class=\"overlay\"><div class=\"container\"><div class=\"content\"><h1>Contribute</h1><p>There are lots (and we mean lots!) of airports in the world. We’ll add as many as we can and we encourage you to contribute airports, too.</p><p>A couple ways you can help make the site more awesome:</p><ul><li>Tweet at us! We’d love to hear your suggestions. We’re <a href=\"https://twitter.com/lynnandtonic\">@lynnandtonic</a> and <a href=\"https://twitter.com/nickcrohn\">@nickcrohn</a> on Twitter.</li><li>Contribute code and/or content to Airport Codes via <a href=\"https://github.com/lynnandtonic/airport-codes\">GitHub</a>.</li></ul><hr/><p class=\"quote\">Fly well, friends.</p><a href=\"#\" class=\"btn\">Back to Airport Codes</a><hr/></div><a href=\"#\" class=\"back\">Airport Codes</a></div></div>");;return buf.join("");
 };
-},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/SearchView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/SearchView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17599,7 +17722,7 @@ var jade_interp;
 
 buf.push("<nav class=\"cf\"><h1><a href=\"#\">Airport Codes</a><a href=\"#about\" class=\"nav-about\">About</a></h1><input type=\"text\" name=\"search\" autocomplete=\"off\" placeholder=\"Find your airport\"/><button type=\"reset\" class=\"clear\"></button></nav>");;return buf.join("");
 };
-},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}],"/Users/nickcrohn/git/lynnandtonic/airport-codes/src/views/templates/SocialView.jade":[function(require,module,exports){
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}],"/Users/lfisher/git/airport-codes/src/views/templates/SocialView.jade":[function(require,module,exports){
 var jade = require("jade/runtime");
 
 module.exports = function template(locals) {
@@ -17609,6 +17732,6 @@ var jade_interp;
 ;var locals_for_with = (locals || {});(function (type, url) {
 buf.push("<a" + (jade.attr("href", url, true, false)) + (jade.cls([type], [true])) + ">Share on <span>" + (jade.escape(null == (jade_interp = type) ? "" : jade_interp)) + "</span></a>");}.call(this,"type" in locals_for_with?locals_for_with.type:typeof type!=="undefined"?type:undefined,"url" in locals_for_with?locals_for_with.url:typeof url!=="undefined"?url:undefined));;return buf.join("");
 };
-},{"jade/runtime":"/Users/nickcrohn/git/lynnandtonic/airport-codes/node_modules/jade/runtime.js"}]},{},["./src/App.js"]);
+},{"jade/runtime":"/Users/lfisher/git/airport-codes/node_modules/jade/runtime.js"}]},{},["./src/App.js"]);
 
 //# sourceMappingURL=app.js.map
