@@ -1903,7 +1903,7 @@ module.exports={
     "state": "",
     "stateShort": "",
     "country": "Romania",
-    "description": "Budapest’s airport honors Henri Coandă, inventor of the first jet engine and discoverer of the Coandă effect in fluid dynamics. Its airport code comes from the nearby city of *Ot*o*p*eni.",
+    "description": "Bucharest’s airport honors Henri Coandă, inventor of the first jet engine and discoverer of the Coandă effect in fluid dynamics. Its airport code comes from the nearby city of *Ot*o*p*eni.",
     "imageCredit": "Cristian Bortes",
     "imageCreditLink": "https://www.flickr.com/photos/bortescristian/"
 }
