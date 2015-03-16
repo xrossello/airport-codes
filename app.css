@@ -230,6 +230,7 @@ header input:focus+.clear{display:block}}
 .card.mco{background-image:url(images/card/mco-benjamin-thompson.jpg)}
 .card.mdt{background-image:url(images/card/mdt-timothy-rezendes.jpg)}
 .card.mdw{background-image:url(images/card/mdw-jackie-popp.jpg)}
+.card.mel{background-image:url(images/card/mel-christopher.jpg)}
 .card.mem{background-image:url(images/card/mem-joseph.jpg)}
 .card.mex{background-image:url(images/card/mex-george-oates.jpg)}
 .card.mht{background-image:url(images/card/mht-elizabeth-krumbach-joseph.jpg)}
@@ -284,6 +285,7 @@ header input:focus+.clear{display:block}}
 .card.vie{background-image:url(images/card/vie-rosmary.jpg)}
 .card.waw{background-image:url(images/card/waw-robert-s-donovan.jpg)}
 .card.wlg{background-image:url(images/card/wlg-kathrin-stefan-marks.jpg)}
+.card.ylt{background-image:url(images/card/ylt-jasonbelliveau.jpg)}
 .card.ylw{background-image:url(images/card/ylw-adam-jones.jpg)}
 .card.yqb{background-image:url(images/card/yqb-eric-begin.jpg)}
 .card.yvr{background-image:url(images/card/yvr-rick-schwartz.jpg)}
@@ -395,6 +397,7 @@ header input:focus+.clear{display:block}}
 .detail.mco{background-image:url(images/small/mco-benjamin-thompson.jpg)}
 .detail.mdt{background-image:url(images/small/mdt-timothy-rezendes.jpg)}
 .detail.mdw{background-image:url(images/small/mdw-jackie-popp.jpg)}
+.detail.mel{background-image:url(images/small/mel-christopher.jpg)}
 .detail.mem{background-image:url(images/small/mem-joseph.jpg)}
 .detail.mex{background-image:url(images/small/mex-george-oates.jpg)}
 .detail.mht{background-image:url(images/small/mht-elizabeth-krumbach-joseph.jpg)}
@@ -449,6 +452,7 @@ header input:focus+.clear{display:block}}
 .detail.vie{background-image:url(images/small/vie-rosmary.jpg)}
 .detail.waw{background-image:url(images/small/waw-robert-s-donovan.jpg)}
 .detail.wlg{background-image:url(images/small/wlg-kathrin-stefan-marks.jpg)}
+.detail.ylt{background-image:url(images/small/ylt-jasonbelliveau.jpg)}
 .detail.ylw{background-image:url(images/small/ylw-adam-jones.jpg)}
 .detail.yqb{background-image:url(images/small/yqb-eric-begin.jpg)}
 .detail.yvr{background-image:url(images/small/yvr-rick-schwartz.jpg)}
@@ -560,6 +564,7 @@ header input:focus+.clear{display:block}}
 .detail.mco{background-image:url(images/medium/mco-benjamin-thompson.jpg)}
 .detail.mdt{background-image:url(images/medium/mdt-timothy-rezendes.jpg)}
 .detail.mdw{background-image:url(images/medium/mdw-jackie-popp.jpg)}
+.detail.mel{background-image:url(images/medium/mel-christopher.jpg)}
 .detail.mem{background-image:url(images/medium/mem-joseph.jpg)}
 .detail.mex{background-image:url(images/medium/mex-george-oates.jpg)}
 .detail.mht{background-image:url(images/medium/mht-elizabeth-krumbach-joseph.jpg)}
@@ -614,6 +619,7 @@ header input:focus+.clear{display:block}}
 .detail.vie{background-image:url(images/medium/vie-rosmary.jpg)}
 .detail.waw{background-image:url(images/medium/waw-robert-s-donovan.jpg)}
 .detail.wlg{background-image:url(images/medium/wlg-kathrin-stefan-marks.jpg)}
+.detail.ylt{background-image:url(images/medium/ylt-jasonbelliveau.jpg)}
 .detail.ylw{background-image:url(images/medium/ylw-adam-jones.jpg)}
 .detail.yqb{background-image:url(images/medium/yqb-eric-begin.jpg)}
 .detail.yvr{background-image:url(images/medium/yvr-rick-schwartz.jpg)}
@@ -725,6 +731,7 @@ header input:focus+.clear{display:block}}
 .detail.mco{background-image:url(images/large/mco-benjamin-thompson.jpg)}
 .detail.mdt{background-image:url(images/large/mdt-timothy-rezendes.jpg)}
 .detail.mdw{background-image:url(images/large/mdw-jackie-popp.jpg)}
+.detail.mel{background-image:url(images/large/mel-christopher.jpg)}
 .detail.mem{background-image:url(images/large/mem-joseph.jpg)}
 .detail.mex{background-image:url(images/large/mex-george-oates.jpg)}
 .detail.mht{background-image:url(images/large/mht-elizabeth-krumbach-joseph.jpg)}
@@ -779,6 +786,7 @@ header input:focus+.clear{display:block}}
 .detail.vie{background-image:url(images/large/vie-rosmary.jpg)}
 .detail.waw{background-image:url(images/large/waw-robert-s-donovan.jpg)}
 .detail.wlg{background-image:url(images/large/wlg-kathrin-stefan-marks.jpg)}
+.detail.ylt{background-image:url(images/large/ylt-jasonbelliveau.jpg)}
 .detail.ylw{background-image:url(images/large/ylw-adam-jones.jpg)}
 .detail.yqb{background-image:url(images/large/yqb-eric-begin.jpg)}
 .detail.yvr{background-image:url(images/large/yvr-rick-schwartz.jpg)}
