@@ -246,6 +246,7 @@ header input:focus+.clear{display:block}}
 .card.ind .background{background-image:url(images/card/ind-don-j-schulte.jpg)}
 .card.isb .background{background-image:url(images/card/isb-muzaffar-bukhari.jpg)}
 .card.ist .background{background-image:url(images/card/ist-jaime-silva.jpg)}
+.card.ixc .background{background-image:url(images/card/ixc-aries-liang.jpg)}
 .card.jac .background{background-image:url(images/card/jac-sarah-nichols.jpg)}
 .card.jed .background{background-image:url(images/card/jed-ifc-infrastructure.jpg)}
 .card.jfk .background{background-image:url(images/card/jfk-timothy-vogel.jpg)}
@@ -307,6 +308,7 @@ header input:focus+.clear{display:block}}
 .card.phl .background{background-image:url(images/card/phl-uchiuska.jpg)}
 .card.phx .background{background-image:url(images/card/phx-liebe5.jpg)}
 .card.pit .background{background-image:url(images/card/pit-john-marino.jpg)}
+.card.pnq .background{background-image:url(images/card/pnq-randy-breese.jpg)}
 .card.pos .background{background-image:url(images/card/pos-debangsu4.jpg)}
 .card.prg .background{background-image:url(images/card/prg-jill.jpg)}
 .card.psc .background{background-image:url(images/card/psc-mattmcgee.jpg)}
@@ -485,6 +487,7 @@ header input:focus+.clear{display:block}}
 .detail.ind{background-image:url(images/small/ind-don-j-schulte.jpg)}
 .detail.isb{background-image:url(images/small/isb-muzaffar-bukhari.jpg)}
 .detail.ist{background-image:url(images/small/ist-jaime-silva.jpg)}
+.detail.ixc{background-image:url(images/small/ixc-aries-liang.jpg)}
 .detail.jac{background-image:url(images/small/jac-sarah-nichols.jpg)}
 .detail.jed{background-image:url(images/small/jed-ifc-infrastructure.jpg)}
 .detail.jfk{background-image:url(images/small/jfk-timothy-vogel.jpg)}
@@ -546,6 +549,7 @@ header input:focus+.clear{display:block}}
 .detail.phl{background-image:url(images/small/phl-uchiuska.jpg)}
 .detail.phx{background-image:url(images/small/phx-liebe5.jpg)}
 .detail.pit{background-image:url(images/small/pit-john-marino.jpg)}
+.detail.pnq{background-image:url(images/small/pnq-randy-breese.jpg)}
 .detail.pos{background-image:url(images/small/pos-debangsu4.jpg)}
 .detail.prg{background-image:url(images/small/prg-jill.jpg)}
 .detail.psc{background-image:url(images/small/psc-mattmcgee.jpg)}
@@ -724,6 +728,7 @@ header input:focus+.clear{display:block}}
 .detail.ind{background-image:url(images/medium/ind-don-j-schulte.jpg)}
 .detail.isb{background-image:url(images/medium/isb-muzaffar-bukhari.jpg)}
 .detail.ist{background-image:url(images/medium/ist-jaime-silva.jpg)}
+.detail.ixc{background-image:url(images/medium/ixc-aries-liang.jpg)}
 .detail.jac{background-image:url(images/medium/jac-sarah-nichols.jpg)}
 .detail.jed{background-image:url(images/medium/jed-ifc-infrastructure.jpg)}
 .detail.jfk{background-image:url(images/medium/jfk-timothy-vogel.jpg)}
@@ -785,6 +790,7 @@ header input:focus+.clear{display:block}}
 .detail.phl{background-image:url(images/medium/phl-uchiuska.jpg)}
 .detail.phx{background-image:url(images/medium/phx-liebe5.jpg)}
 .detail.pit{background-image:url(images/medium/pit-john-marino.jpg)}
+.detail.pnq{background-image:url(images/medium/pnq-randy-breese.jpg)}
 .detail.pos{background-image:url(images/medium/pos-debangsu4.jpg)}
 .detail.prg{background-image:url(images/medium/prg-jill.jpg)}
 .detail.psc{background-image:url(images/medium/psc-mattmcgee.jpg)}
@@ -963,6 +969,7 @@ header input:focus+.clear{display:block}}
 .detail.ind{background-image:url(images/large/ind-don-j-schulte.jpg)}
 .detail.isb{background-image:url(images/large/isb-muzaffar-bukhari.jpg)}
 .detail.ist{background-image:url(images/large/ist-jaime-silva.jpg)}
+.detail.ixc{background-image:url(images/large/ixc-aries-liang.jpg)}
 .detail.jac{background-image:url(images/large/jac-sarah-nichols.jpg)}
 .detail.jed{background-image:url(images/large/jed-ifc-infrastructure.jpg)}
 .detail.jfk{background-image:url(images/large/jfk-timothy-vogel.jpg)}
@@ -1024,6 +1031,7 @@ header input:focus+.clear{display:block}}
 .detail.phl{background-image:url(images/large/phl-uchiuska.jpg)}
 .detail.phx{background-image:url(images/large/phx-liebe5.jpg)}
 .detail.pit{background-image:url(images/large/pit-john-marino.jpg)}
+.detail.pnq{background-image:url(images/large/pnq-randy-breese.jpg)}
 .detail.pos{background-image:url(images/large/pos-debangsu4.jpg)}
 .detail.prg{background-image:url(images/large/prg-jill.jpg)}
 .detail.psc{background-image:url(images/large/psc-mattmcgee.jpg)}
