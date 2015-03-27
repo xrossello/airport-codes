@@ -15365,7 +15365,7 @@ var AirportListView = Backbone.View.extend({
     for(var i=0;i<this._views.length;i++) {
       var view = this._views[i];
 
-      if (scrollY+height+500 >= view.$el.offset().top && !view.loaded) {
+      if (scrollY+height+300 >= view.$el.offset().top && !view.loaded) {
         view.lazyLoad();
       }
     }
@@ -15437,29 +15437,9 @@ var AirportView = Backbone.View.extend({
     this.$el.toggleClass('hidden', !this.model.get('visible'));
   },
 
-  _getImageUrl: function() {
-    var classes = document.styleSheets[0].rules || document.styleSheets[0].cssRules;
-    for( var i=0;i<classes.length;i++ ) {
-      if (classes[i].selectorText === '.card.'+this.model.get('id')+' .background') {
-        return classes[i].style.backgroundImage;
-      }
-    }
-
-    return '';
-  },
-
   lazyLoad: function() {
-    var imgUrl = this._getImageUrl();
-    var img = Backbone.$('<img>');
-    img.attr('src', imgUrl.replace(/(url|["()])/ig, ''));
-
-    var self = this;
-    img.load(function() {
-      self.loaded = true;
-      self._setClassName();
-    });
-
-    img = null;
+    this.loaded = true;
+    this._setClassName();
   },
 
   render: function() {
