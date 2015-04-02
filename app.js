@@ -15115,7 +15115,7 @@ var Router = Backbone.Router.extend({
     this._aboutView.show();
     this._hideContribute();
     this._hideAirports();
-    this._lastOffset = window.scrollY;
+    this._lastOffset = (window.scrollY === undefined) ? window.pageYOffset : window.scrollY;
 
     Backbone.$('body').addClass('detail-open');
     this._trackView('#about', 'About');
@@ -15130,7 +15130,7 @@ var Router = Backbone.Router.extend({
     this._contributeView.show();
     this._hideAirports();
     this._hideAbout();
-    this._lastOffset = window.scrollY;
+    this._lastOffset = (window.scrollY === undefined) ? window.pageYOffset : window.scrollY;
 
     Backbone.$('body').addClass('detail-open');
     this._trackView('#contribute', 'Contribute');
@@ -15142,7 +15142,7 @@ var Router = Backbone.Router.extend({
     this._hideAbout();
     this._hideContribute();
     this._hideAirports();
-    this._lastOffset = window.scrollY;
+    this._lastOffset = (window.scrollY === undefined) ? window.pageYOffset : window.scrollY;
 
     if (airport) {
       if (this.views.indexOf(code) < 0) {
@@ -15162,6 +15162,7 @@ var Router = Backbone.Router.extend({
 });
 
 module.exports = Router;
+
 },{"./views/AboutView":"/Users/lfisher/git/airport-codes/src/views/AboutView.js","./views/AirportDetailView":"/Users/lfisher/git/airport-codes/src/views/AirportDetailView.js","./views/ContributeView":"/Users/lfisher/git/airport-codes/src/views/ContributeView.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/collections/Airports.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var Airport = require('../models/Airport');
@@ -15389,7 +15390,7 @@ var AirportListView = Backbone.View.extend({
   },
 
   _checkLazyload: function(view) {
-    var scrollY = window.scrollY;
+    var scrollY = (window.scrollY === undefined) ? window.pageYOffset : window.scrollY;
     var height = window.innerHeight;
 
     function comingInView() {
@@ -15440,6 +15441,7 @@ var AirportListView = Backbone.View.extend({
 });
 
 module.exports = AirportListView;
+
 }).call(this,require('_process'))
 },{"./AirportView":"/Users/lfisher/git/airport-codes/src/views/AirportView.js","./ContributeItemView":"/Users/lfisher/git/airport-codes/src/views/ContributeItemView.js","_process":"/Users/lfisher/git/airport-codes/node_modules/browserify/node_modules/process/browser.js","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AirportView.js":[function(require,module,exports){
 var Backbone = require('backbone');
@@ -15475,10 +15477,13 @@ var AirportView = Backbone.View.extend({
   },
 
   _getImageUrl: function() {
-    var classes = document.styleSheets[0].rules || document.styleSheets[0].cssRules;
-    for( var i=0;i<classes.length;i++ ) {
-      if (classes[i].selectorText === '.card.'+this.model.get('id')+' .background') {
-        return classes[i].style.backgroundImage;
+    for( var j=0;j<document.styleSheets.length;j++ ) {
+      var classes = document.styleSheets[j].rules || document.styleSheets[j].cssRules;
+      for( var i=0;i<classes.length;i++ ) {
+        if (classes[i].selectorText === '.card.'+this.model.get('id')+' .background' ||
+            classes[i].selectorText === '.'+this.model.get('id')+'.card .background') {
+          return classes[i].style.backgroundImage;
+        }
       }
     }
 
@@ -15509,6 +15514,7 @@ var AirportView = Backbone.View.extend({
 });
 
 module.exports = AirportView;
+
 },{"./templates/AirportView.jade":"/Users/lfisher/git/airport-codes/src/views/templates/AirportView.jade","backbone":"/Users/lfisher/git/airport-codes/node_modules/backbone/backbone.js"}],"/Users/lfisher/git/airport-codes/src/views/AppView.js":[function(require,module,exports){
 var Backbone = require('backbone');
 var SearchView = require('./SearchView');
