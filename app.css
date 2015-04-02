@@ -303,6 +303,7 @@ header input:focus+.clear{display:block}}
 .card.jed .background{background-image:url(images/card/jed-ifc-infrastructure.jpg)}
 .card.jer .background{background-image:url(images/card/jer-dan-marsh.jpg)}
 .card.jfk .background{background-image:url(images/card/jfk-timothy-vogel.jpg)}
+.card.jnb .background{background-image:url(images/card/jnb-len-edgerly.jpg)}
 .card.jog .background{background-image:url(images/card/jog-debbs.jpg)}
 .card.kbp .background{background-image:url(images/card/kbp-marco-fieber.jpg)}
 .card.kef .background{background-image:url(images/card/kef-o-palsson.jpg)}
@@ -495,6 +496,7 @@ header input:focus+.clear{display:block}}
 .card.ygo .background{background-image:url(images/card/ygo-lee-prouten.jpg)}
 .card.ylw .background{background-image:url(images/card/ylw-adam-jones.jpg)}
 .card.yow .background{background-image:url(images/card/yow-doug-zwick.jpg)}
+.card.vps .background{background-image:url(images/card/vps-flyvps.jpg)}
 .card.yqb .background{background-image:url(images/card/yqb-eric-begin.jpg)}
 .card.yul .background{background-image:url(images/card/yul-hussein-abdallah.jpg)}
 .card.yvr .background{background-image:url(images/card/yvr-rick-schwartz.jpg)}
@@ -672,6 +674,7 @@ header input:focus+.clear{display:block}}
 .detail.jed{background-image:url(images/small/jed-ifc-infrastructure.jpg)}
 .detail.jer{background-image:url(images/small/jer-dan-marsh.jpg)}
 .detail.jfk{background-image:url(images/small/jfk-timothy-vogel.jpg)}
+.detail.jnb{background-image:url(images/small/jnb-len-edgerly.jpg)}
 .detail.jog{background-image:url(images/small/jog-debbs.jpg)}
 .detail.kbp{background-image:url(images/small/kbp-marco-fieber.jpg)}
 .detail.kef{background-image:url(images/small/kef-o-palsson.jpg)}
@@ -864,6 +867,7 @@ header input:focus+.clear{display:block}}
 .detail.ygo{background-image:url(images/small/ygo-lee-prouten.jpg)}
 .detail.ylw{background-image:url(images/small/ylw-adam-jones.jpg)}
 .detail.yow{background-image:url(images/small/yow-doug-zwick.jpg)}
+.detail.vps{background-image:url(images/small/vps-flyvps.jpg)}
 .detail.yqb{background-image:url(images/small/yqb-eric-begin.jpg)}
 .detail.yul{background-image:url(images/small/yul-hussein-abdallah.jpg)}
 .detail.yvr{background-image:url(images/small/yvr-rick-schwartz.jpg)}
@@ -1041,6 +1045,7 @@ header input:focus+.clear{display:block}}
 .detail.jed{background-image:url(images/medium/jed-ifc-infrastructure.jpg)}
 .detail.jer{background-image:url(images/medium/jer-dan-marsh.jpg)}
 .detail.jfk{background-image:url(images/medium/jfk-timothy-vogel.jpg)}
+.detail.jnb{background-image:url(images/medium/jnb-len-edgerly.jpg)}
 .detail.jog{background-image:url(images/medium/jog-debbs.jpg)}
 .detail.kbp{background-image:url(images/medium/kbp-marco-fieber.jpg)}
 .detail.kef{background-image:url(images/medium/kef-o-palsson.jpg)}
@@ -1233,6 +1238,7 @@ header input:focus+.clear{display:block}}
 .detail.ygo{background-image:url(images/medium/ygo-lee-prouten.jpg)}
 .detail.ylw{background-image:url(images/medium/ylw-adam-jones.jpg)}
 .detail.yow{background-image:url(images/medium/yow-doug-zwick.jpg)}
+.detail.vps{background-image:url(images/medium/vps-flyvps.jpg)}
 .detail.yqb{background-image:url(images/medium/yqb-eric-begin.jpg)}
 .detail.yul{background-image:url(images/medium/yul-hussein-abdallah.jpg)}
 .detail.yvr{background-image:url(images/medium/yvr-rick-schwartz.jpg)}
@@ -1410,6 +1416,7 @@ header input:focus+.clear{display:block}}
 .detail.jed{background-image:url(images/large/jed-ifc-infrastructure.jpg)}
 .detail.jer{background-image:url(images/large/jer-dan-marsh.jpg)}
 .detail.jfk{background-image:url(images/large/jfk-timothy-vogel.jpg)}
+.detail.jnb{background-image:url(images/large/jnb-len-edgerly.jpg)}
 .detail.jog{background-image:url(images/large/jog-debbs.jpg)}
 .detail.kbp{background-image:url(images/large/kbp-marco-fieber.jpg)}
 .detail.kef{background-image:url(images/large/kef-o-palsson.jpg)}
@@ -1602,6 +1609,7 @@ header input:focus+.clear{display:block}}
 .detail.ygo{background-image:url(images/large/ygo-lee-prouten.jpg)}
 .detail.ylw{background-image:url(images/large/ylw-adam-jones.jpg)}
 .detail.yow{background-image:url(images/large/yow-doug-zwick.jpg)}
+.detail.vps{background-image:url(images/large/vps-flyvps.jpg)}
 .detail.yqb{background-image:url(images/large/yqb-eric-begin.jpg)}
 .detail.yul{background-image:url(images/large/yul-hussein-abdallah.jpg)}
 .detail.yvr{background-image:url(images/large/yvr-rick-schwartz.jpg)}
