@@ -1,7 +1,7 @@
 .back,.btn{border-radius:3px}
 header .clear:focus,header input:focus{outline:0}
 .back,.btn,.card a,.detail .description em,h1,h2,h3,h4{text-transform:uppercase}
-.card,.detail,.site-info,header nav{animation:fadein .4s;-o-animation:fadein .4s;-moz-animation:fadein .4s;-webkit-animation:fadein .4s}
+.detail,.site-info,header nav{animation:fadein .4s;-o-animation:fadein .4s;-moz-animation:fadein .4s;-webkit-animation:fadein .4s}
 .card a,.detail,.site-info{text-align:center}
 .card-contribute .placeholder,.detail.hidden,.site-info.hidden{visibility:hidden}
 a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}
