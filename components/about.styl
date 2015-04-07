@@ -1,0 +1,95 @@
+//- About view
+
+.about
+  width: 100vw
+  height: 100vh
+  position: fixed
+  top: 0
+  left: 0
+  z-index: 2
+  background: $grey-drk no-repeat 50% 50%
+  background-size: cover
+  text-align: center
+  color: white
+  {fadeIn}
+
+.about
+
+  &:after
+    width: 100%
+    height: 50px
+    position: absolute
+    top: 0
+    left: 0
+    z-index: 1
+    background: rgba(50,50,50,.8)
+    content: ''
+
+  .overlay
+    width: 100%
+    height: 100%
+    background: black(.7)
+
+  .back
+    padding: 5px 8px
+    position: absolute
+    top: 13px
+    left: 7px
+    z-index: 2
+    text-transform: uppercase
+    font-weight: $font-weight-bold
+    color: white
+
+    &:hover
+      opacity: .5
+
+  .container
+    width: 100%
+    height: 100%
+    padding: 30px 15px
+    overflow-y: auto
+
+  .about-info
+    max-width: 550px
+    margin: 80px auto
+
+    @media (max-width: 500px)
+      margin-top: 50px
+
+  h1
+    margin-bottom: 20px
+    font-size: 40px
+
+  h2
+    margin-top: 20px
+    margin-bottom: 15px
+    font-size: 24px
+    font-weight-normal: $font-weight-normal
+    line-height: 1.2
+
+  p
+    margin-bottom: 15px
+    font-family: $font-family-clavo
+    font-weight: $font-weight-normal
+    font-style: italic
+    font-size: 18px
+    line-height: 1.4
+    text-align: left
+
+    a
+      border-bottom: 1px dotted transparent
+      color: $blue
+      font-weight: $font-weight-medium
+
+      &:hover
+        border-color: $blue
+
+  .sources
+    margin-top: 40px
+
+    p
+      margin-bottom: 10px
+      font-size: 15px
+
+      a
+        color: white
