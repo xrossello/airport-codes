@@ -271,6 +271,7 @@ header input:focus+.clear{display:block}}
 .card.fez .background{background-image:url(images/card/fez-ruben-balderas.jpg)}
 .card.fco .background{background-image:url(images/card/fco-maurizio-pucci.jpg)}
 .card.flr .background{background-image:url(images/card/flr-martin-kalfatovic.jpg)}
+.card.fnc .background{background-image:url(images/card/fnc-alexander-baxevanis.jpg)}
 .card.fnt .background{background-image:url(images/card/fnt-nein09.jpg)}
 .card.fra .background{background-image:url(images/card/fra-nicolas-rupcich.jpg)}
 .card.fru .background{background-image:url(images/card/fru-gleb-osokin.jpg)}
@@ -514,6 +515,8 @@ header input:focus+.clear{display:block}}
 .card.szg .background{background-image:url(images/card/szg-flightlog.jpg)}
 .card.tas .background{background-image:url(images/card/tas-ramon.jpg)}
 .card.tbs .background{background-image:url(images/card/tbs-james-emery.jpg)}
+.card.tfn .background{background-image:url(images/card/tfn-lionicex.jpg)}
+.card.tfs .background{background-image:url(images/card/tfs-marinocarlos.jpg)}
 .card.tgd .background{background-image:url(images/card/tgd-estorde.jpg)}
 .card.tia .background{background-image:url(images/card/tia-george-redgrave.jpg)}
 .card.tll .background{background-image:url(images/card/tll-ton-zijlstra.jpg)}
@@ -700,6 +703,7 @@ header input:focus+.clear{display:block}}
 .detail.fez{background-image:url(images/small/fez-ruben-balderas.jpg)}
 .detail.fco{background-image:url(images/small/fco-maurizio-pucci.jpg)}
 .detail.flr{background-image:url(images/small/flr-martin-kalfatovic.jpg)}
+.detail.fnc{background-image:url(images/small/fnc-alexander-baxevanis.jpg)}
 .detail.fnt{background-image:url(images/small/fnt-nein09.jpg)}
 .detail.fra{background-image:url(images/small/fra-nicolas-rupcich.jpg)}
 .detail.fru{background-image:url(images/small/fru-gleb-osokin.jpg)}
@@ -943,6 +947,8 @@ header input:focus+.clear{display:block}}
 .detail.szg{background-image:url(images/small/szg-flightlog.jpg)}
 .detail.tas{background-image:url(images/small/tas-ramon.jpg)}
 .detail.tbs{background-image:url(images/small/tbs-james-emery.jpg)}
+.detail.tfn{background-image:url(images/small/tfn-lionicex.jpg)}
+.detail.tfs{background-image:url(images/small/tfs-marinocarlos.jpg)}
 .detail.tgd{background-image:url(images/small/tgd-estorde.jpg)}
 .detail.tia{background-image:url(images/small/tia-george-redgrave.jpg)}
 .detail.tll{background-image:url(images/small/tll-ton-zijlstra.jpg)}
@@ -1129,6 +1135,7 @@ header input:focus+.clear{display:block}}
 .detail.fez{background-image:url(images/medium/fez-ruben-balderas.jpg)}
 .detail.fco{background-image:url(images/medium/fco-maurizio-pucci.jpg)}
 .detail.flr{background-image:url(images/medium/flr-martin-kalfatovic.jpg)}
+.detail.fnc{background-image:url(images/medium/fnc-alexander-baxevanis.jpg)}
 .detail.fnt{background-image:url(images/medium/fnt-nein09.jpg)}
 .detail.fra{background-image:url(images/medium/fra-nicolas-rupcich.jpg)}
 .detail.fru{background-image:url(images/medium/fru-gleb-osokin.jpg)}
@@ -1372,6 +1379,8 @@ header input:focus+.clear{display:block}}
 .detail.szg{background-image:url(images/medium/szg-flightlog.jpg)}
 .detail.tas{background-image:url(images/medium/tas-ramon.jpg)}
 .detail.tbs{background-image:url(images/medium/tbs-james-emery.jpg)}
+.detail.tfn{background-image:url(images/medium/tfn-lionicex.jpg)}
+.detail.tfs{background-image:url(images/medium/tfs-marinocarlos.jpg)}
 .detail.tgd{background-image:url(images/medium/tgd-estorde.jpg)}
 .detail.tia{background-image:url(images/medium/tia-george-redgrave.jpg)}
 .detail.tll{background-image:url(images/medium/tll-ton-zijlstra.jpg)}
@@ -1558,6 +1567,7 @@ header input:focus+.clear{display:block}}
 .detail.fez{background-image:url(images/large/fez-ruben-balderas.jpg)}
 .detail.fco{background-image:url(images/large/fco-maurizio-pucci.jpg)}
 .detail.flr{background-image:url(images/large/flr-martin-kalfatovic.jpg)}
+.detail.fnc{background-image:url(images/large/fnc-alexander-baxevanis.jpg)}
 .detail.fnt{background-image:url(images/large/fnt-nein09.jpg)}
 .detail.fra{background-image:url(images/large/fra-nicolas-rupcich.jpg)}
 .detail.fru{background-image:url(images/large/fru-gleb-osokin.jpg)}
@@ -1801,6 +1811,8 @@ header input:focus+.clear{display:block}}
 .detail.szg{background-image:url(images/large/szg-flightlog.jpg)}
 .detail.tas{background-image:url(images/large/tas-ramon.jpg)}
 .detail.tbs{background-image:url(images/large/tbs-james-emery.jpg)}
+.detail.tfn{background-image:url(images/large/tfn-lionicex.jpg)}
+.detail.tfs{background-image:url(images/large/tfs-marinocarlos.jpg)}
 .detail.tgd{background-image:url(images/large/tgd-estorde.jpg)}
 .detail.tia{background-image:url(images/large/tia-george-redgrave.jpg)}
 .detail.tll{background-image:url(images/large/tll-ton-zijlstra.jpg)}
