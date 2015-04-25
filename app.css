@@ -162,6 +162,7 @@ header input:focus+.clear{display:block}}
 .card.anc .background{background-image:url(images/card/anc-frank-kovalchek.jpg)}
 .card.anr .background{background-image:url(images/card/anr-stijn-hosdez.jpg)}
 .card.anu .background{background-image:url(images/card/anu-lee-bryant.jpg)}
+.card.apa .background{background-image:url(images/card/apa-jeffrey-beall.jpg)}
 .card.aoi .background{background-image:url(images/card/aoi-turismo-marche.jpg)}
 .card.aqj .background{background-image:url(images/card/aqj-m7madameenwik.jpg)}
 .card.aqp .background{background-image:url(images/card/aqp-goss-nuzzo-jones.jpg)}
@@ -310,8 +311,10 @@ header input:focus+.clear{display:block}}
 .card.eat .background{background-image:url(images/card/eat-wendy-house.jpg)}
 .card.ebb .background{background-image:url(images/card/ebb-ltc-david-konop.jpg)}
 .card.edi .background{background-image:url(images/card/edi-paradasos.jpg)}
+.card.ege .background{background-image:url(images/card/ege-david-benbennick.jpg)}
 .card.ein .background{background-image:url(images/card/ein-noel-hidalgo.jpg)}
 .card.ema .background{background-image:url(images/card/ema-matt-buck.jpg)}
+.card.ens .background{background-image:url(images/card/ens-stefan-schlautmann.jpg)}
 .card.eri .background{background-image:url(images/card/eri-john-mccullough.jpg)}
 .card.evn .background{background-image:url(images/card/evn-p-fabian.jpg)}
 .card.ewr .background{background-image:url(images/card/ewr-bartnj.jpg)}
@@ -427,6 +430,7 @@ header input:focus+.clear{display:block}}
 .card.kef .background{background-image:url(images/card/kef-o-palsson.jpg)}
 .card.khi .background{background-image:url(images/card/khi-andrew-wiseman.jpg)}
 .card.kia .background{background-image:url(images/card/kia-jonathan-gill.jpg)}
+.card.kin .background{background-image:url(images/card/kin-wayne-marshall.jpg)}
 .card.kix .background{background-image:url(images/card/kix-andi-halim.jpg)}
 .card.kmg .background{background-image:url(images/card/kmg-buster-and-bubby.jpg)}
 .card.kno .background{background-image:url(images/card/kno-picturepest.jpg)}
@@ -513,6 +517,7 @@ header input:focus+.clear{display:block}}
 .card.msq .background{background-image:url(images/card/msq-laurence-vagner.jpg)}
 .card.mst .background{background-image:url(images/card/mst-rpvdk.jpg)}
 .card.msy .background{background-image:url(images/card/msy-3dom.jpg)}
+.card.mtj .background{background-image:url(images/card/mtj-charles-anderson.jpg)}
 .card.muc .background{background-image:url(images/card/muc-gache-wurzn.jpg)}
 .card.mvd .background{background-image:url(images/card/mvd-andres-de-leon.jpg)}
 .card.mvy .background{background-image:url(images/card/mvy-tracy-lee-carroll.jpg)}
@@ -529,6 +534,7 @@ header input:focus+.clear{display:block}}
 .card.nrn .background{background-image:url(images/card/nrn-sergey-melkonov.jpg)}
 .card.nrt .background{background-image:url(images/card/nrt-ryan-healy.jpg)}
 .card.nte .background{background-image:url(images/card/nte-olivier-cabaret.jpg)}
+.card.nue .background{background-image:url(images/card/nue-mark.jpg)}
 .card.nwi .background{background-image:url(images/card/nwi-elliott-brown.jpg)}
 .card.nyo .background{background-image:url(images/card/nyo-tales-of-a-wanderer.jpg)}
 .card.oak .background{background-image:url(images/card/oak-sonny-abesamis.jpg)}
@@ -780,6 +786,7 @@ header input:focus+.clear{display:block}}
 .detail.anc{background-image:url(images/small/anc-frank-kovalchek.jpg)}
 .detail.anr{background-image:url(images/small/anr-stijn-hosdez.jpg)}
 .detail.anu{background-image:url(images/small/anu-lee-bryant.jpg)}
+.detail.apa{background-image:url(images/small/apa-jeffrey-beall.jpg)}
 .detail.aoi{background-image:url(images/small/aoi-turismo-marche.jpg)}
 .detail.aqj{background-image:url(images/small/aqj-m7madameenwik.jpg)}
 .detail.aqp{background-image:url(images/small/aqp-goss-nuzzo-jones.jpg)}
@@ -928,8 +935,10 @@ header input:focus+.clear{display:block}}
 .detail.eat{background-image:url(images/small/eat-wendy-house.jpg)}
 .detail.ebb{background-image:url(images/small/ebb-ltc-david-konop.jpg)}
 .detail.edi{background-image:url(images/small/edi-paradasos.jpg)}
+.detail.ege{background-image:url(images/small/ege-david-benbennick.jpg)}
 .detail.ein{background-image:url(images/small/ein-noel-hidalgo.jpg)}
 .detail.ema{background-image:url(images/small/ema-matt-buck.jpg)}
+.detail.ens{background-image:url(images/small/ens-stefan-schlautmann.jpg)}
 .detail.eri{background-image:url(images/small/eri-john-mccullough.jpg)}
 .detail.evn{background-image:url(images/small/evn-p-fabian.jpg)}
 .detail.ewr{background-image:url(images/small/ewr-bartnj.jpg)}
@@ -1045,6 +1054,7 @@ header input:focus+.clear{display:block}}
 .detail.kef{background-image:url(images/small/kef-o-palsson.jpg)}
 .detail.khi{background-image:url(images/small/khi-andrew-wiseman.jpg)}
 .detail.kia{background-image:url(images/small/kia-jonathan-gill.jpg)}
+.detail.kin{background-image:url(images/small/kin-wayne-marshall.jpg)}
 .detail.kix{background-image:url(images/small/kix-andi-halim.jpg)}
 .detail.kmg{background-image:url(images/small/kmg-buster-and-bubby.jpg)}
 .detail.kno{background-image:url(images/small/kno-picturepest.jpg)}
@@ -1131,6 +1141,7 @@ header input:focus+.clear{display:block}}
 .detail.msq{background-image:url(images/small/msq-laurence-vagner.jpg)}
 .detail.mst{background-image:url(images/small/mst-rpvdk.jpg)}
 .detail.msy{background-image:url(images/small/msy-3dom.jpg)}
+.detail.mtj{background-image:url(images/small/mtj-charles-anderson.jpg)}
 .detail.muc{background-image:url(images/small/muc-gache-wurzn.jpg)}
 .detail.mvd{background-image:url(images/small/mvd-andres-de-leon.jpg)}
 .detail.mvy{background-image:url(images/small/mvy-tracy-lee-carroll.jpg)}
@@ -1147,6 +1158,7 @@ header input:focus+.clear{display:block}}
 .detail.nrn{background-image:url(images/small/nrn-sergey-melkonov.jpg)}
 .detail.nrt{background-image:url(images/small/nrt-ryan-healy.jpg)}
 .detail.nte{background-image:url(images/small/nte-olivier-cabaret.jpg)}
+.detail.nue{background-image:url(images/small/nue-mark.jpg)}
 .detail.nwi{background-image:url(images/small/nwi-elliott-brown.jpg)}
 .detail.nyo{background-image:url(images/small/nyo-tales-of-a-wanderer.jpg)}
 .detail.oak{background-image:url(images/small/oak-sonny-abesamis.jpg)}
@@ -1398,6 +1410,7 @@ header input:focus+.clear{display:block}}
 .detail.anc{background-image:url(images/medium/anc-frank-kovalchek.jpg)}
 .detail.anr{background-image:url(images/medium/anr-stijn-hosdez.jpg)}
 .detail.anu{background-image:url(images/medium/anu-lee-bryant.jpg)}
+.detail.apa{background-image:url(images/medium/apa-jeffrey-beall.jpg)}
 .detail.aoi{background-image:url(images/medium/aoi-turismo-marche.jpg)}
 .detail.aqj{background-image:url(images/medium/aqj-m7madameenwik.jpg)}
 .detail.aqp{background-image:url(images/medium/aqp-goss-nuzzo-jones.jpg)}
@@ -1546,8 +1559,10 @@ header input:focus+.clear{display:block}}
 .detail.eat{background-image:url(images/medium/eat-wendy-house.jpg)}
 .detail.ebb{background-image:url(images/medium/ebb-ltc-david-konop.jpg)}
 .detail.edi{background-image:url(images/medium/edi-paradasos.jpg)}
+.detail.ege{background-image:url(images/medium/ege-david-benbennick.jpg)}
 .detail.ein{background-image:url(images/medium/ein-noel-hidalgo.jpg)}
 .detail.ema{background-image:url(images/medium/ema-matt-buck.jpg)}
+.detail.ens{background-image:url(images/medium/ens-stefan-schlautmann.jpg)}
 .detail.eri{background-image:url(images/medium/eri-john-mccullough.jpg)}
 .detail.evn{background-image:url(images/medium/evn-p-fabian.jpg)}
 .detail.ewr{background-image:url(images/medium/ewr-bartnj.jpg)}
@@ -1663,6 +1678,7 @@ header input:focus+.clear{display:block}}
 .detail.kef{background-image:url(images/medium/kef-o-palsson.jpg)}
 .detail.khi{background-image:url(images/medium/khi-andrew-wiseman.jpg)}
 .detail.kia{background-image:url(images/medium/kia-jonathan-gill.jpg)}
+.detail.kin{background-image:url(images/medium/kin-wayne-marshall.jpg)}
 .detail.kix{background-image:url(images/medium/kix-andi-halim.jpg)}
 .detail.kmg{background-image:url(images/medium/kmg-buster-and-bubby.jpg)}
 .detail.kno{background-image:url(images/medium/kno-picturepest.jpg)}
@@ -1749,6 +1765,7 @@ header input:focus+.clear{display:block}}
 .detail.msq{background-image:url(images/medium/msq-laurence-vagner.jpg)}
 .detail.mst{background-image:url(images/medium/mst-rpvdk.jpg)}
 .detail.msy{background-image:url(images/medium/msy-3dom.jpg)}
+.detail.mtj{background-image:url(images/medium/mtj-charles-anderson.jpg)}
 .detail.muc{background-image:url(images/medium/muc-gache-wurzn.jpg)}
 .detail.mvd{background-image:url(images/medium/mvd-andres-de-leon.jpg)}
 .detail.mvy{background-image:url(images/medium/mvy-tracy-lee-carroll.jpg)}
@@ -1765,6 +1782,7 @@ header input:focus+.clear{display:block}}
 .detail.nrn{background-image:url(images/medium/nrn-sergey-melkonov.jpg)}
 .detail.nrt{background-image:url(images/medium/nrt-ryan-healy.jpg)}
 .detail.nte{background-image:url(images/medium/nte-olivier-cabaret.jpg)}
+.detail.nue{background-image:url(images/medium/nue-mark.jpg)}
 .detail.nwi{background-image:url(images/medium/nwi-elliott-brown.jpg)}
 .detail.nyo{background-image:url(images/medium/nyo-tales-of-a-wanderer.jpg)}
 .detail.oak{background-image:url(images/medium/oak-sonny-abesamis.jpg)}
@@ -2016,6 +2034,7 @@ header input:focus+.clear{display:block}}
 .detail.anc{background-image:url(images/large/anc-frank-kovalchek.jpg)}
 .detail.anr{background-image:url(images/large/anr-stijn-hosdez.jpg)}
 .detail.anu{background-image:url(images/large/anu-lee-bryant.jpg)}
+.detail.apa{background-image:url(images/large/apa-jeffrey-beall.jpg)}
 .detail.aoi{background-image:url(images/large/aoi-turismo-marche.jpg)}
 .detail.aqj{background-image:url(images/large/aqj-m7madameenwik.jpg)}
 .detail.aqp{background-image:url(images/large/aqp-goss-nuzzo-jones.jpg)}
@@ -2164,8 +2183,10 @@ header input:focus+.clear{display:block}}
 .detail.eat{background-image:url(images/large/eat-wendy-house.jpg)}
 .detail.ebb{background-image:url(images/large/ebb-ltc-david-konop.jpg)}
 .detail.edi{background-image:url(images/large/edi-paradasos.jpg)}
+.detail.ege{background-image:url(images/large/ege-david-benbennick.jpg)}
 .detail.ein{background-image:url(images/large/ein-noel-hidalgo.jpg)}
 .detail.ema{background-image:url(images/large/ema-matt-buck.jpg)}
+.detail.ens{background-image:url(images/large/ens-stefan-schlautmann.jpg)}
 .detail.eri{background-image:url(images/large/eri-john-mccullough.jpg)}
 .detail.evn{background-image:url(images/large/evn-p-fabian.jpg)}
 .detail.ewr{background-image:url(images/large/ewr-bartnj.jpg)}
@@ -2281,6 +2302,7 @@ header input:focus+.clear{display:block}}
 .detail.kef{background-image:url(images/large/kef-o-palsson.jpg)}
 .detail.khi{background-image:url(images/large/khi-andrew-wiseman.jpg)}
 .detail.kia{background-image:url(images/large/kia-jonathan-gill.jpg)}
+.detail.kin{background-image:url(images/large/kin-wayne-marshall.jpg)}
 .detail.kix{background-image:url(images/large/kix-andi-halim.jpg)}
 .detail.kmg{background-image:url(images/large/kmg-buster-and-bubby.jpg)}
 .detail.kno{background-image:url(images/large/kno-picturepest.jpg)}
@@ -2367,6 +2389,7 @@ header input:focus+.clear{display:block}}
 .detail.msq{background-image:url(images/large/msq-laurence-vagner.jpg)}
 .detail.mst{background-image:url(images/large/mst-rpvdk.jpg)}
 .detail.msy{background-image:url(images/large/msy-3dom.jpg)}
+.detail.mtj{background-image:url(images/large/mtj-charles-anderson.jpg)}
 .detail.muc{background-image:url(images/large/muc-gache-wurzn.jpg)}
 .detail.mvd{background-image:url(images/large/mvd-andres-de-leon.jpg)}
 .detail.mvy{background-image:url(images/large/mvy-tracy-lee-carroll.jpg)}
@@ -2383,6 +2406,7 @@ header input:focus+.clear{display:block}}
 .detail.nrn{background-image:url(images/large/nrn-sergey-melkonov.jpg)}
 .detail.nrt{background-image:url(images/large/nrt-ryan-healy.jpg)}
 .detail.nte{background-image:url(images/large/nte-olivier-cabaret.jpg)}
+.detail.nue{background-image:url(images/large/nue-mark.jpg)}
 .detail.nwi{background-image:url(images/large/nwi-elliott-brown.jpg)}
 .detail.nyo{background-image:url(images/large/nyo-tales-of-a-wanderer.jpg)}
 .detail.oak{background-image:url(images/large/oak-sonny-abesamis.jpg)}
