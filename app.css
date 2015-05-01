@@ -399,6 +399,7 @@ header input:focus+.clear{display:block}}
 .card.gyd .background{background-image:url(images/card/gyd-geshmally.jpg)}
 .card.gye .background{background-image:url(images/card/gye-celina-ortelli.jpg)}
 .card.gyn .background{background-image:url(images/card/gyn-infraero-aeroportos.jpg)}
+.card.gza .background{background-image:url(images/card/gza-gisha-access.jpg)}
 .card.hah .background{background-image:url(images/card/hah-sarah-elsewhere.jpg)}
 .card.haj .background{background-image:url(images/card/haj-jan-christoph-behre.jpg)}
 .card.ham .background{background-image:url(images/card/ham-medvedev.jpg)}
@@ -1116,6 +1117,7 @@ header input:focus+.clear{display:block}}
 .detail.gyd{background-image:url(images/small/gyd-geshmally.jpg)}
 .detail.gye{background-image:url(images/small/gye-celina-ortelli.jpg)}
 .detail.gyn{background-image:url(images/small/gyn-infraero-aeroportos.jpg)}
+.detail.gza{background-image:url(images/small/gza-gisha-access.jpg)}
 .detail.hah{background-image:url(images/small/hah-sarah-elsewhere.jpg)}
 .detail.haj{background-image:url(images/small/haj-jan-christoph-behre.jpg)}
 .detail.ham{background-image:url(images/small/ham-medvedev.jpg)}
@@ -1833,6 +1835,7 @@ header input:focus+.clear{display:block}}
 .detail.gyd{background-image:url(images/medium/gyd-geshmally.jpg)}
 .detail.gye{background-image:url(images/medium/gye-celina-ortelli.jpg)}
 .detail.gyn{background-image:url(images/medium/gyn-infraero-aeroportos.jpg)}
+.detail.gza{background-image:url(images/medium/gza-gisha-access.jpg)}
 .detail.hah{background-image:url(images/medium/hah-sarah-elsewhere.jpg)}
 .detail.haj{background-image:url(images/medium/haj-jan-christoph-behre.jpg)}
 .detail.ham{background-image:url(images/medium/ham-medvedev.jpg)}
@@ -2550,6 +2553,7 @@ header input:focus+.clear{display:block}}
 .detail.gyd{background-image:url(images/large/gyd-geshmally.jpg)}
 .detail.gye{background-image:url(images/large/gye-celina-ortelli.jpg)}
 .detail.gyn{background-image:url(images/large/gyn-infraero-aeroportos.jpg)}
+.detail.gza{background-image:url(images/large/gza-gisha-access.jpg)}
 .detail.hah{background-image:url(images/large/hah-sarah-elsewhere.jpg)}
 .detail.haj{background-image:url(images/large/haj-jan-christoph-behre.jpg)}
 .detail.ham{background-image:url(images/large/ham-medvedev.jpg)}
