@@ -468,6 +468,7 @@ header input:focus+.clear{display:block}}
 .card.kbp .background{background-image:url(images/card/kbp-marco-fieber.jpg)}
 .card.kbr .background{background-image:url(images/card/kbr-snowidun.jpg)}
 .card.kef .background{background-image:url(images/card/kef-o-palsson.jpg)}
+.card.kgl .background{background-image:url(images/card/kgl-the-commonwealth.jpg)}
 .card.khi .background{background-image:url(images/card/khi-andrew-wiseman.jpg)}
 .card.kia .background{background-image:url(images/card/kia-jonathan-gill.jpg)}
 .card.kin .background{background-image:url(images/card/kin-wayne-marshall.jpg)}
@@ -1186,6 +1187,7 @@ header input:focus+.clear{display:block}}
 .detail.kbp{background-image:url(images/small/kbp-marco-fieber.jpg)}
 .detail.kbr{background-image:url(images/small/kbr-snowidun.jpg)}
 .detail.kef{background-image:url(images/small/kef-o-palsson.jpg)}
+.detail.kgl{background-image:url(images/small/kgl-the-commonwealth.jpg)}
 .detail.khi{background-image:url(images/small/khi-andrew-wiseman.jpg)}
 .detail.kia{background-image:url(images/small/kia-jonathan-gill.jpg)}
 .detail.kin{background-image:url(images/small/kin-wayne-marshall.jpg)}
@@ -1904,6 +1906,7 @@ header input:focus+.clear{display:block}}
 .detail.kbp{background-image:url(images/medium/kbp-marco-fieber.jpg)}
 .detail.kbr{background-image:url(images/medium/kbr-snowidun.jpg)}
 .detail.kef{background-image:url(images/medium/kef-o-palsson.jpg)}
+.detail.kgl{background-image:url(images/medium/kgl-the-commonwealth.jpg)}
 .detail.khi{background-image:url(images/medium/khi-andrew-wiseman.jpg)}
 .detail.kia{background-image:url(images/medium/kia-jonathan-gill.jpg)}
 .detail.kin{background-image:url(images/medium/kin-wayne-marshall.jpg)}
@@ -2622,6 +2625,7 @@ header input:focus+.clear{display:block}}
 .detail.kbp{background-image:url(images/large/kbp-marco-fieber.jpg)}
 .detail.kbr{background-image:url(images/large/kbr-snowidun.jpg)}
 .detail.kef{background-image:url(images/large/kef-o-palsson.jpg)}
+.detail.kgl{background-image:url(images/large/kgl-the-commonwealth.jpg)}
 .detail.khi{background-image:url(images/large/khi-andrew-wiseman.jpg)}
 .detail.kia{background-image:url(images/large/kia-jonathan-gill.jpg)}
 .detail.kin{background-image:url(images/large/kin-wayne-marshall.jpg)}
