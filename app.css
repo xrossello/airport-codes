@@ -834,6 +834,7 @@ header input:focus+.clear{display:block}}
 .card.syr .background{background-image:url(images/card/syr-new-york-national-guard.jpg)}
 .card.szb .background{background-image:url(images/card/szb-suncon-photos.jpg)}
 .card.szg .background{background-image:url(images/card/szg-flightlog.jpg)}
+.card.tab .background{background-image:url(images/card/tab-kenny-mitchell.jpg)}
 .card.tao .background{background-image:url(images/card/tao-byeangel.jpg)}
 .card.tas .background{background-image:url(images/card/tas-ramon.jpg)}
 .card.tbs .background{background-image:url(images/card/tbs-james-emery.jpg)}
@@ -898,6 +899,7 @@ header input:focus+.clear{display:block}}
 .card.wlg .background{background-image:url(images/card/wlg-kathrin-stefan-marks.jpg)}
 .card.wmi .background{background-image:url(images/card/wmi-maciek-lulko.jpg)}
 .card.wro .background{background-image:url(images/card/wro-krzewi.jpg)}
+.card.xch .background{background-image:url(images/card/xch-rebecca-dominguez.jpg)}
 .card.xiy .background{background-image:url(images/card/xiy-acidbomber.jpg)}
 .card.xmn .background{background-image:url(images/card/xmn-jerry-luo.jpg)}
 .card.xna .background{background-image:url(images/card/xna-james-foreman.jpg)}
@@ -1642,6 +1644,7 @@ header input:focus+.clear{display:block}}
 .detail.syr{background-image:url(images/small/syr-new-york-national-guard.jpg)}
 .detail.szb{background-image:url(images/small/szb-suncon-photos.jpg)}
 .detail.szg{background-image:url(images/small/szg-flightlog.jpg)}
+.detail.tab{background-image:url(images/small/tab-kenny-mitchell.jpg)}
 .detail.tao{background-image:url(images/small/tao-byeangel.jpg)}
 .detail.tas{background-image:url(images/small/tas-ramon.jpg)}
 .detail.tbs{background-image:url(images/small/tbs-james-emery.jpg)}
@@ -1706,6 +1709,7 @@ header input:focus+.clear{display:block}}
 .detail.wlg{background-image:url(images/small/wlg-kathrin-stefan-marks.jpg)}
 .detail.wmi{background-image:url(images/small/wmi-maciek-lulko.jpg)}
 .detail.wro{background-image:url(images/small/wro-krzewi.jpg)}
+.detail.xch{background-image:url(images/small/xch-rebecca-dominguez.jpg)}
 .detail.xiy{background-image:url(images/small/xiy-acidbomber.jpg)}
 .detail.xmn{background-image:url(images/small/xmn-jerry-luo.jpg)}
 .detail.xna{background-image:url(images/small/xna-james-foreman.jpg)}
@@ -2450,6 +2454,7 @@ header input:focus+.clear{display:block}}
 .detail.syr{background-image:url(images/medium/syr-new-york-national-guard.jpg)}
 .detail.szb{background-image:url(images/medium/szb-suncon-photos.jpg)}
 .detail.szg{background-image:url(images/medium/szg-flightlog.jpg)}
+.detail.tab{background-image:url(images/medium/tab-kenny-mitchell.jpg)}
 .detail.tao{background-image:url(images/medium/tao-byeangel.jpg)}
 .detail.tas{background-image:url(images/medium/tas-ramon.jpg)}
 .detail.tbs{background-image:url(images/medium/tbs-james-emery.jpg)}
@@ -2514,6 +2519,7 @@ header input:focus+.clear{display:block}}
 .detail.wlg{background-image:url(images/medium/wlg-kathrin-stefan-marks.jpg)}
 .detail.wmi{background-image:url(images/medium/wmi-maciek-lulko.jpg)}
 .detail.wro{background-image:url(images/medium/wro-krzewi.jpg)}
+.detail.xch{background-image:url(images/medium/xch-rebecca-dominguez.jpg)}
 .detail.xiy{background-image:url(images/medium/xiy-acidbomber.jpg)}
 .detail.xmn{background-image:url(images/medium/xmn-jerry-luo.jpg)}
 .detail.xna{background-image:url(images/medium/xna-james-foreman.jpg)}
@@ -3258,6 +3264,7 @@ header input:focus+.clear{display:block}}
 .detail.syr{background-image:url(images/large/syr-new-york-national-guard.jpg)}
 .detail.szb{background-image:url(images/large/szb-suncon-photos.jpg)}
 .detail.szg{background-image:url(images/large/szg-flightlog.jpg)}
+.detail.tab{background-image:url(images/large/tab-kenny-mitchell.jpg)}
 .detail.tao{background-image:url(images/large/tao-byeangel.jpg)}
 .detail.tas{background-image:url(images/large/tas-ramon.jpg)}
 .detail.tbs{background-image:url(images/large/tbs-james-emery.jpg)}
@@ -3322,6 +3329,7 @@ header input:focus+.clear{display:block}}
 .detail.wlg{background-image:url(images/large/wlg-kathrin-stefan-marks.jpg)}
 .detail.wmi{background-image:url(images/large/wmi-maciek-lulko.jpg)}
 .detail.wro{background-image:url(images/large/wro-krzewi.jpg)}
+.detail.xch{background-image:url(images/large/xch-rebecca-dominguez.jpg)}
 .detail.xiy{background-image:url(images/large/xiy-acidbomber.jpg)}
 .detail.xmn{background-image:url(images/large/xmn-jerry-luo.jpg)}
 .detail.xna{background-image:url(images/large/xna-james-foreman.jpg)}
